@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Summer Knight</title>
+  <id>urn:book:3724c88a-8af0-4e17-b73a-be2d8ffdbd5c</id>
+  <updated>2016-12-16T11:55:41Z</updated>
+  <link href="./book_443.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Summer Knight" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Summer%20Knight%20%28443%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Summer%20Knight%20%28443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Summer%20Knight%20%28443%29/Summer%20Knight%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="375 KB" />
+  <link href="../../Jim%20Butcher/Summer%20Knight%20%28443%29/Summer%20Knight%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="534 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../author_0/author_23_Page_1.xml</uri>
+  </author>
+  <published>2002-09-03T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Roc</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Mystery" />
+  <category term="Vampires" />
+  <category term="Lang:en" />
+  <category term="Dresden Files" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Dresden Files series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Private detective/wizard-for-hire Harry Dresden is
+      suckered into tangling in the affairs of Faerie, where the
+      fate of the entire world-and his soul-are at stake.</p>
+      <h3>Review</h3>
+      <p>Highly recommended SFFWorld.com Fast paced and tightly
+      plotted, Summer Knight delivers the kind of action-packed
+      adventure Jim Butcher's fans have come to expect SFSite.com
+      Arguably the finest urban fantasy series being written at the
+      moment Bookgeeks.co.uk</p>
+      <h3>About the Author</h3>
+      <p>A martial arts enthusiast whose resume includes a long
+      list of skills rendered obsolete at least two hundred years
+      ago, Jim Butcher turned to writing as a career because
+      anything else probably would have driven him insane. He lives
+      with his wife, his son and a ferocious guard dog.</p>
+    </div>
+  </content>
+</entry>

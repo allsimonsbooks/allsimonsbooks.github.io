@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Atlantis Complex</title>
+  <id>urn:book:6d8d9aec-1dc1-499d-9945-75d45dd93825</id>
+  <updated>2016-12-16T11:55:48Z</updated>
+  <link href="./book_466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Atlantis Complex" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Eoin Colfer" />
+  <link href="../../Eoin%20Colfer/The%20Atlantis%20Complex%20%28466%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Eoin%20Colfer/The%20Atlantis%20Complex%20%28466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Eoin%20Colfer/The%20Atlantis%20Complex%20%28466%29/The%20Atlantis%20Complex%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="251 KB" />
+  <link href="../../Eoin%20Colfer/The%20Atlantis%20Complex%20%28466%29/The%20Atlantis%20Complex%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="492 KB" />
+  <author>
+    <name>Eoin Colfer</name>
+    <uri>../author_0/author_27_Page_1.xml</uri>
+  </author>
+  <published>2010-09-15T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Hyperion Book CH</dcterms:publisher>
+  <category term="Action &amp; Adventure - General" />
+  <category term="Children's 9-12 - Fiction - Fantasy" />
+  <category term="Magic" />
+  <category term="Action &amp; Adventure" />
+  <category term="Family" />
+  <category term="Adventure and adventurers" />
+  <category term="Atlantis (Legendary place)" />
+  <category term="Juvenile Fiction" />
+  <category term="Fairies" />
+  <category term="Children's Books" />
+  <category term="Children: Grades 4-6" />
+  <category term="General" />
+  <category term="Mental illness" />
+  <category term="Parents" />
+  <category term="Space and time" />
+  <category term="Ages 9-12 Fiction" />
+  <category term="Fantasy &amp; Magic" />
+  <category term="Fiction" />
+  <category term="Demonology" />
+  <category term="Lang:en" />
+  <category term="Artemis Fowl" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 7 in the Artemis Fowl series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">EDITORIAL REVIEW: Artemis has committed his entire fortune
+    to a project he believes will save the planet and its
+    inhabitants, both human and fairy. Can it be true? Has goodness
+    taken hold of the world’s greatest teenage criminal
+    mastermind? Captain Holly Short is unconvinced, and discovers
+    that Artemis is suffering from Atlantis Complex, a psychosis
+    common among guilt-ridden fairies - not humans - and most
+    likely triggered by Artemis’s dabbling with fairy magic.
+    Symptoms include obsessive-compulsive behavior, paranoia,
+    multiple personality disorder and, in extreme cases,
+    embarrassing professions of love to a certain feisty LEPrecon
+    fairy. Unfortunately, Atlantis Complex has struck at the worst
+    possible time. A deadly foe from Holly’s past is intent
+    on destroying the actual city of Atlantis. Can Artemis escape
+    the confines of his mind – and the grips of a giant squid
+    – in time to save the underwater metropolis and its fairy
+    inhabitants? New York Times *best-selling author Eoin Colfer
+    delivers a knockout, fast-paced, and hilarious adventure in
+    Artemis Fowl: The Atlantis Complex*, the seventh book in the
+    blockbuster series.</p>
+  </content>
+</entry>

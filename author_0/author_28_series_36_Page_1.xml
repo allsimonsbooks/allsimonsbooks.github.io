@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Hawk Queen</title>
+  <id>Calibre2opds:author:28series:36</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_28_series_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Hawk Queen" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <entry>
+    <title>1 - Ironhand's Daughter</title>
+    <id>calibre:book:488</id>
+    <updated>2016-12-16T11:55:55Z</updated>
+    <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/Ironhand%27s%20Daughter%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="287 KB" />
+    <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/Ironhand%27s%20Daughter%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="463 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2004-11-23T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy Fiction; English" />
+    <category term="Fantasy fiction" />
+    <category term="Good and Evil" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Hawk Queen" />
+    <summary>Hawk Queen [1]:</summary>
+    <link href="../book_0/book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - The Hawk Eternal</title>
+    <id>calibre:book:489</id>
+    <updated>2016-12-16T11:55:55Z</updated>
+    <link href="../../David%20Gemmell/The%20Hawk%20Eternal%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/The%20Hawk%20Eternal%20%28489%29/The%20Hawk%20Eternal%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="296 KB" />
+    <link href="../../David%20Gemmell/The%20Hawk%20Eternal%20%28489%29/The%20Hawk%20Eternal%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="484 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2005-08-30T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy Fiction; English" />
+    <category term="Fantasy fiction" />
+    <category term="Space and time" />
+    <category term="Clans" />
+    <category term="Heroes" />
+    <category term="Queens" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Hawk Queen" />
+    <summary>Hawk Queen [2]:</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

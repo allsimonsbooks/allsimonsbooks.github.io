@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Magic Casement</title>
+  <id>urn:book:67b17add-2dc2-47ed-a550-64ef82ed76c5</id>
+  <updated>2016-12-16T11:56:07Z</updated>
+  <link href="./book_528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Magic Casement" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dave Duncan" />
+  <link href="../../Dave%20Duncan/Magic%20Casement%20%28528%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Dave%20Duncan/Magic%20Casement%20%28528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Dave%20Duncan/Magic%20Casement%20%28528%29/Magic%20Casement%20-%20Dave%20Duncan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="487 KB" />
+  <link href="../../Dave%20Duncan/Magic%20Casement%20%28528%29/Magic%20Casement%20-%20Dave%20Duncan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="610 KB" />
+  <author>
+    <name>Dave Duncan</name>
+    <uri>../author_0/author_30_Page_1.xml</uri>
+  </author>
+  <published>2002-12-31T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>E-reads/E-rights</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Man Of His Word" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Man Of His Word series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      <span id="freeText9091896273575319997" style="">A princess
+      and a stableboy? It sounds like the worst sort of hackneyed
+      formula romance. Think again, for "A Man of His Word" may
+      well be the most original fantasy you ever read. The magic is
+      unique and applied in unexpected ways, some of which the late
+      Lester del Rey admitted he had not met in fifty years as
+      writer and editor. The world itself is unique - there are no
+      humans in Pandemia, only imps, elves, gnomes, jotnar, and
+      many more, all of whom you will recognize as "human".</span>
+    </p>
+  </content>
+</entry>

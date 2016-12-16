@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Battle of the Labyrinth</title>
+  <id>urn:book:08780866-41fd-4cc9-b409-5c229f49dc08</id>
+  <updated>2016-12-16T11:55:18Z</updated>
+  <link href="./book_378.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Battle of the Labyrinth" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Rick Riordan" />
+  <link href="../../Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%28378%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%28378%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%28378%29/The%20Battle%20of%20the%20Labyrinth%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="290 KB" />
+  <link href="../../Rick%20Riordan/The%20Battle%20of%20the%20Labyrinth%20%28378%29/The%20Battle%20of%20the%20Labyrinth%20-%20Rick%20Riordan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="486 KB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../author_0/author_15_Page_1.xml</uri>
+  </author>
+  <published>2012-08-23T11:40:10Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Hyperion Book CH</dcterms:publisher>
+  <category term="Fiction:Young Adult" />
+  <category term="Lang:en" />
+  <category term="Percy Jackson and the Olympians" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Percy Jackson and the Olympians series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        Percy Jackson isn’t expecting freshman orientation
+      to be any fun. But when a mysterious mortal acquaintance
+      appears on campus, followed by demon cheerleaders, things
+      quickly move from bad to diabolical.
+        <br />
+      </p>
+      <p>In this latest installment of the blockbuster series, time
+      is running out as war between the Olympians and the evil
+      Titan lord Kronos draws near. Even the safe haven of Camp
+      Half-Blood grows more vulnerable by the minute as
+      Kronos’s army prepares to invade its once impenetrable
+      borders. To stop them, Percy and his demigod friends must set
+      out on a quest through the Labyrinth—a sprawling
+      underground world with stunning surprises at every turn. Full
+      of humor and heart-pounding action, this fourth book promises
+      to be their most thrilling adventure yet.</p>
+      <h3>From School Library Journal</h3>
+      <p>
+        Grade 5–9—The battle starts, literally, with
+      an explosion and doesn't let up. After Percy destroys the
+      high school band room battling monsters called
+        <em>empousai</em>
+        who have taken on the form of cheerleaders,
+      he has to hide out at Camp Half-Blood. There, Grover's
+      searcher's license is going to be revoked unless he can find
+      the god Pan in seven days. An entrance to the Labyrinth has
+      been discovered, which means that Luke, the half-blood turned
+      bad, can bypass the magical protections and invade the camp.
+      Annabeth insists that she must follow a quest to locate
+      Daedalus's workshop before Luke does. Percy is disturbed by
+      visions of Nico, the son of Hades, who is summoning forth the
+      spirits of the dead with McDonalds Happy Meals. Percy,
+      Grover, and Percy's Cyclops half-brother follow Annabeth into
+      the maze not knowing if they will ever find their way out.
+      Riordan cleverly personifies the Labyrinth as a sort of
+      living organism that changes at will, and that traverses the
+      whole of the United States. Kids will devour Riordan's subtle
+      satire of their world, such as a Sphinx in the Labyrinth
+      whose questions hilariously parody standardized testing. The
+      secret of Pan is revealed with a bittersweet outcome that
+      also sends an eco-friendly message. Like many series, the
+      "Percy Jackson" books are beginning to show the strain of
+      familiarity and repetition. However, the overarching story
+      line remains compelling, and the cliff-hanger ending will
+      leave readers breathless in anticipation of the fifth and
+      final volume.—
+        <em>Tim Wadham, Maricopa County Library District, Phoenix,
+      AZ</em>
+        <br />
+        Copyright © Reed Business Information, a division
+      of Reed Elsevier Inc. All rights reserved.
+      </p>
+      <h3>About the Author</h3>
+      <p>Rick Riordan is the author of all the books in the New
+      York Times best-selling Percy Jackson and the Olympians
+      series: The Lightning Thief, The Sea of Monsters, The Titan's
+      Curse, The Battle of the Labyrinth, and The Last Olympian.
+      His previous novels for adults include the hugely popular
+      Tres Navarre series, winner of the top three awards in the
+      mystery genre. He lives in San Antonio, Texas, with his wife
+      and two sons.</p>
+    </div>
+  </content>
+</entry>

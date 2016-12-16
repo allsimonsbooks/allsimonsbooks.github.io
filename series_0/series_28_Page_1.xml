@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Dresden Files</title>
+  <id>Calibre2opds::serieslistseries:28</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The Dresden Files" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Storm Front</title>
+    <id>calibre:book:445</id>
+    <updated>2016-12-16T11:55:42Z</updated>
+    <link href="../../Jim%20Butcher/Storm%20Front%20%28445%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Storm%20Front%20%28445%29/Storm%20Front%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="267 KB" />
+    <link href="../../Jim%20Butcher/Storm%20Front%20%28445%29/Storm%20Front%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="377 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2000-04-02T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [1]:</summary>
+    <link href="../book_0/book_445.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Fool Moon</title>
+    <id>calibre:book:446</id>
+    <updated>2016-12-16T11:55:40Z</updated>
+    <link href="../../Jim%20Butcher/Fool%20Moon%20%28446%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Fool%20Moon%20%28446%29/Fool%20Moon%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="321 KB" />
+    <link href="../../Jim%20Butcher/Fool%20Moon%20%28446%29/Fool%20Moon%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="447 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2000-12-31T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Horror" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [2]:</summary>
+    <link href="../book_0/book_446.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Grave Peril</title>
+    <id>calibre:book:444</id>
+    <updated>2016-12-16T11:55:41Z</updated>
+    <link href="../../Jim%20Butcher/Grave%20Peril%20%28444%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Grave%20Peril%20%28444%29/Grave%20Peril%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="363 KB" />
+    <link href="../../Jim%20Butcher/Grave%20Peril%20%28444%29/Grave%20Peril%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="494 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2001-09-02T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Horror" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [3]:</summary>
+    <link href="../book_0/book_444.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Summer Knight</title>
+    <id>calibre:book:443</id>
+    <updated>2016-12-16T11:55:41Z</updated>
+    <link href="../../Jim%20Butcher/Summer%20Knight%20%28443%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Summer%20Knight%20%28443%29/Summer%20Knight%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="375 KB" />
+    <link href="../../Jim%20Butcher/Summer%20Knight%20%28443%29/Summer%20Knight%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="534 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2002-09-03T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [4]:</summary>
+    <link href="../book_0/book_443.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - Death Masks</title>
+    <id>calibre:book:442</id>
+    <updated>2016-12-16T11:55:40Z</updated>
+    <link href="../../Jim%20Butcher/Death%20Masks%20%28442%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Death%20Masks%20%28442%29/Death%20Masks%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="337 KB" />
+    <link href="../../Jim%20Butcher/Death%20Masks%20%28442%29/Death%20Masks%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="484 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [5]:</summary>
+    <link href="../book_0/book_442.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>6 - Blood Rites</title>
+    <id>calibre:book:441</id>
+    <updated>2016-12-16T11:55:40Z</updated>
+    <link href="../../Jim%20Butcher/Blood%20Rites%20%28441%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Blood%20Rites%20%28441%29/Blood%20Rites%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="366 KB" />
+    <link href="../../Jim%20Butcher/Blood%20Rites%20%28441%29/Blood%20Rites%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="525 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2004-08-03T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [6]:</summary>
+    <link href="../book_0/book_441.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - Dead Beat</title>
+    <id>calibre:book:440</id>
+    <updated>2016-12-16T11:55:39Z</updated>
+    <link href="../../Jim%20Butcher/Dead%20Beat%20%28440%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Dead%20Beat%20%28440%29/Dead%20Beat%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="420 KB" />
+    <link href="../../Jim%20Butcher/Dead%20Beat%20%28440%29/Dead%20Beat%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="591 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2005-01-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [7]:</summary>
+    <link href="../book_0/book_440.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>8 - Proven Guilty</title>
+    <id>calibre:book:439</id>
+    <updated>2016-12-16T11:55:39Z</updated>
+    <link href="../../Jim%20Butcher/Proven%20Guilty%20%28439%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Proven%20Guilty%20%28439%29/Proven%20Guilty%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="431 KB" />
+    <link href="../../Jim%20Butcher/Proven%20Guilty%20%28439%29/Proven%20Guilty%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="605 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2006-02-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [8]:</summary>
+    <link href="../book_0/book_439.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>9 - White Night</title>
+    <id>calibre:book:438</id>
+    <updated>2016-12-16T11:55:38Z</updated>
+    <link href="../../Jim%20Butcher/White%20Night%20%28438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/White%20Night%20%28438%29/White%20Night%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="348 KB" />
+    <link href="../../Jim%20Butcher/White%20Night%20%28438%29/White%20Night%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="540 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Contemporary" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Fantasy - Epic" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fantasy - Contemporary" />
+    <category term="American Science Fiction And Fantasy" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [9]:</summary>
+    <link href="../book_0/book_438.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>10 - Small Favor</title>
+    <id>calibre:book:437</id>
+    <updated>2016-12-16T11:55:39Z</updated>
+    <link href="../../Jim%20Butcher/Small%20Favor%20%28437%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Small%20Favor%20%28437%29/Small%20Favor%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="422 KB" />
+    <link href="../../Jim%20Butcher/Small%20Favor%20%28437%29/Small%20Favor%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="584 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2008-01-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Roc</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [10]:</summary>
+    <link href="../book_0/book_437.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>11 - Turn Coat</title>
+    <id>calibre:book:436</id>
+    <updated>2016-12-16T11:55:38Z</updated>
+    <link href="../../Jim%20Butcher/Turn%20Coat%20%28436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Turn%20Coat%20%28436%29/Turn%20Coat%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="429 KB" />
+    <link href="../../Jim%20Butcher/Turn%20Coat%20%28436%29/Turn%20Coat%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="610 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2009-01-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [11]:</summary>
+    <link href="../book_0/book_436.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>12 - Changes Unabridged CDs</title>
+    <id>calibre:book:435</id>
+    <updated>2016-12-16T11:55:38Z</updated>
+    <link href="../../Jim%20Butcher/Changes%20Unabridged%20CDs%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Changes%20Unabridged%20CDs%20%28435%29/Changes%20Unabridged%20CDs%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="457 KB" />
+    <link href="../../Jim%20Butcher/Changes%20Unabridged%20CDs%20%28435%29/Changes%20Unabridged%20CDs%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="643 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2010-04-15T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Audio</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [12]:</summary>
+    <link href="../book_0/book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>13 - Ghost Story</title>
+    <id>calibre:book:434</id>
+    <updated>2016-12-16T11:55:38Z</updated>
+    <link href="../../Jim%20Butcher/Ghost%20Story%20%28434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jim%20Butcher/Ghost%20Story%20%28434%29/Ghost%20Story%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="471 KB" />
+    <link href="../../Jim%20Butcher/Ghost%20Story%20%28434%29/Ghost%20Story%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="648 KB" />
+    <author>
+      <name>Jim Butcher</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2011-01-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Mystery" />
+    <category term="Vampires" />
+    <category term="Lang:en" />
+    <category term="Dresden Files" />
+    <summary>The Dresden Files [13]:</summary>
+    <link href="../book_0/book_434.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

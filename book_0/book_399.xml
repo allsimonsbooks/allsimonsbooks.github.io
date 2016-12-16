@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Desert Spear</title>
+  <id>urn:book:af15d530-163d-433d-9c8d-25405990bee6</id>
+  <updated>2016-12-16T11:55:26Z</updated>
+  <link href="./book_399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Desert Spear" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Peter V. Brett" />
+  <link href="../../Peter%20V.%20Brett/The%20Desert%20Spear%20%28399%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Peter%20V.%20Brett/The%20Desert%20Spear%20%28399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Peter%20V.%20Brett/The%20Desert%20Spear%20%28399%29/The%20Desert%20Spear%20-%20Peter%20V.%20Brett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="727 KB" />
+  <link href="../../Peter%20V.%20Brett/The%20Desert%20Spear%20%28399%29/The%20Desert%20Spear%20-%20Peter%20V.%20Brett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1006 KB" />
+  <author>
+    <name>Peter V. Brett</name>
+    <uri>../author_0/author_17_Page_1.xml</uri>
+  </author>
+  <published>2010-04-01T09:22:47Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Demon Cycle" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Demon Cycle series
+    </p>
+  </content>
+</entry>

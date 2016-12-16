@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Captain's Fury</title>
+  <id>urn:book:eab7bebe-213c-4089-a165-51df843ef476</id>
+  <updated>2016-12-16T11:55:43Z</updated>
+  <link href="./book_450.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Captain's Fury" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Captain%27s%20Fury%20%28450%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Captain%27s%20Fury%20%28450%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Captain%27s%20Fury%20%28450%29/Captain%27s%20Fury%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="555 KB" />
+  <link href="../../Jim%20Butcher/Captain%27s%20Fury%20%28450%29/Captain%27s%20Fury%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="753 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../author_0/author_23_Page_1.xml</uri>
+  </author>
+  <published>2007-12-04T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Ace</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Adventure" />
+  <category term="Adult" />
+  <category term="War" />
+  <category term="Lang:en" />
+  <category term="Codex Alera" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Codex Alera series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        In his acclaimed Codex Alera novels, bestselling author
+      Jim Butcher has created a fascinating world in which the
+      elemental forces of nature take physical form and are used
+      for protection. Now, as enemies become allies and friends
+      become bitter foes, a danger beyond reckoning looms for all.
+        <br />
+      </p>
+      <h3>From Publishers Weekly</h3>
+      <p>
+        Sharp tactical plotting, hazardous cross-country travel
+      and a dash of sardonic humor mark Butcher's fourth Codex
+      Alera novel (after 2006's
+        <em>Cursor's Fury</em>
+        ). Two years into a difficult campaign
+      against the wolflike Canim invaders, Calderon legion captain
+      Tavi is saddled with an unqualified but politically powerful
+      superior whose plans threaten disaster and force Tavi into
+      potential treason. Meanwhile, aging ruler Gaius Sextus plans
+      a final strike against the rebellious lord of Kalare, but to
+      get close enough to act, he must set aside his power to
+      control the elements and make a painful overland slog that
+      neatly challenges genre conventions. Butcher deftly deploys
+      intrigue, conflicted loyalties and hairbreadth action to
+      excellent effect. Few writers balance military realism and
+      cinematic swashbuckling with so much skill or wit. Series
+      fans will welcome the revelation of Tavi's long-secret
+      heritage and the strong climaxes resolving most of the
+      immediate conflicts, while newcomers will have no trouble
+      navigating the well-developed landscape.
+        <em>(Dec.)</em>
+        <br />
+        Copyright © Reed Business Information, a division
+      of Reed Elsevier Inc. All rights reserved.
+      </p>
+      <h3>About the Author</h3>
+      <p>A martial arts enthusiast whose resume includes a long
+      list of skills rendered obsolete at least two hundred years
+      ago, Jim Butcher turned to writing as a career because
+      anything else probably would have driven him insane. He lives
+      with his wife, his son and a ferocious guard dog.</p>
+    </div>
+  </content>
+</entry>

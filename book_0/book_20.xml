@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Penultimate Peril</title>
+  <id>urn:book:71523576-fbc9-49ae-b40d-6f7e915ff507</id>
+  <updated>2016-10-09T05:41:12Z</updated>
+  <link href="./book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Penultimate Peril" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lemony Snicket" />
+  <link href="../../Lemony%20Snicket/The%20Penultimate%20Peril%20%2820%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lemony%20Snicket/The%20Penultimate%20Peril%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lemony%20Snicket/The%20Penultimate%20Peril%20%2820%29/The%20Penultimate%20Peril%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Lemony%20Snicket/The%20Penultimate%20Peril%20%2820%29/The%20Penultimate%20Peril%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Lemony Snicket</name>
+    <uri>../author_0/author_6_Page_1.xml</uri>
+  </author>
+  <published>2005-06-05T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+  <category term="Children's 4-7" />
+  <category term="Lang:en" />
+  <category term="Series of Unfortunate Events" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 12 in the Series of Unfortunate Events series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;">
+      <sup>
+        "You're not children anymore," a desperate Kit Snicket
+      tells Violet, Klaus and Sunny in the opening pages of Lemony
+      Snicket's THE PENULTIMATE PERIL. "You're volunteers, ready to
+      face the challenges of a desperate and perplexing world."
+      Indeed, in this adventure the profoundly unlucky Baudelaire
+      orphans face dilemmas more perplexing and desperate than any
+      they've faced in the previous eleven books in A Series of
+      Unfortunate Events.
+        <br />
+        Now that they've reached the Hotel Denouement, the
+      hapless siblings must pose as concierges, heavily disguised
+      to protect their identities, and discern the true motives and
+      identities of the hotel's many mysterious guests. Indeed,
+      during their explorations of the massive hotel, the
+      Baudelaires encounter characters from nearly every one of
+      their previous misadventures (including that cakesniffer
+      Carmelita and the always "in" Esme Squalor).
+        <br />
+        The Hotel Denouement is full of secrets, able to be
+      unlocked only by those who really understand the Dewey
+      Decimal System. From the rooftop sunbathing deck to the
+      laundry room, the Baudelaires try to sort out the volunteers
+      from the villains, hoping against hope that they're not
+      "wrong, wrong, wrong."
+        <br />
+        Lemony Snicket's twelfth book lacks none of the verbal
+      wit and clever snarkiness that have made this series so
+      popular. Indeed, now that youngest sibling Sunny is speaking
+      more clearly, her dialogue contributes even more to the
+      clever wordplay at which these books excel. Some surprising
+      secrets are in store, as well as a real cliffhanger of an
+      ending, which promises to make the series much more complex
+      than anyone would have imagined.
+        <br />
+        Even though Lemony Snicket would tell you to toss THE
+      PENULTIMATE PERIL into the nearest puddle or pond, it's
+      definitely worth keeping up with the ongoing saga of the
+      world's most trouble-prone siblings. The only unfortunate
+      thing will be the wait for the series's final
+      installment!
+      </sup>
+    </p>
+  </content>
+</entry>

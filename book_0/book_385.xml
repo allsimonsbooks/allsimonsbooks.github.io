@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Eight's Origin</title>
+  <id>urn:book:e503ae03-e628-4e5e-93c0-bbf029967880</id>
+  <updated>2016-12-16T11:55:22Z</updated>
+  <link href="./book_385.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Eight's Origin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pittacus Lore" />
+  <link href="../../Pittacus%20Lore/Eight%27s%20Origin%20%28385%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Pittacus%20Lore/Eight%27s%20Origin%20%28385%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Pittacus%20Lore/Eight%27s%20Origin%20%28385%29/Eight%27s%20Origin%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="103 KB" />
+  <link href="../../Pittacus%20Lore/Eight%27s%20Origin%20%28385%29/Eight%27s%20Origin%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="127 KB" />
+  <author>
+    <name>Pittacus Lore</name>
+    <uri>../author_0/author_16_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Lang:en" />
+  <category term="Lost Files" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 9 in the Lost Files series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <h3>
+        <a href="http://www.goodreads.com/book/show/15843845-eight-s-origin">Eight's
+        Origin</a>
+      </h3>
+      <h3>
+        <span class="Apple-style-span" style="font-weight: normal;">Never before seen peek into
+        Number Eight’s past.</span>
+      </h3>
+    </div>
+  </content>
+</entry>

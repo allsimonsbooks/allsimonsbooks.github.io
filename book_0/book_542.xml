@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Way of Shadows</title>
+  <id>urn:book:2b8a1613-87f5-451a-b27f-083c219c3339</id>
+  <updated>2016-12-16T11:56:12Z</updated>
+  <link href="./book_542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Way of Shadows" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brent Weeks" />
+  <link href="../../Brent%20Weeks/The%20Way%20of%20Shadows%20%28542%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brent%20Weeks/The%20Way%20of%20Shadows%20%28542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brent%20Weeks/The%20Way%20of%20Shadows%20%28542%29/The%20Way%20of%20Shadows%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="558 KB" />
+  <link href="../../Brent%20Weeks/The%20Way%20of%20Shadows%20%28542%29/The%20Way%20of%20Shadows%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="750 KB" />
+  <author>
+    <name>Brent Weeks</name>
+    <uri>../author_0/author_34_Page_1.xml</uri>
+  </author>
+  <published>2008-10-02T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Orbit</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Adventure" />
+  <category term="Science Fiction" />
+  <category term="Lang:en" />
+  <category term="Night Angel Trilogy" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Night Angel Trilogy series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      For Durzo Blint, assassination is an art-and he is the
+    city's most accomplished artist.
+      <br />
+    </p>
+    <p xmlns="">
+      For Azoth, survival is precarious. Something you never take
+    for granted. As a guild rat, he's grown up in the slums, and
+    learned to judge people quickly - and to take risks. Risks like
+    apprenticing himself to Durzo Blint.
+      <br />
+    </p>
+    <p xmlns="">But to be accepted, Azoth must turn his back on his old life
+    and embrace a new identity and name. As Kylar Stern, he must
+    learn to navigate the assassins' world of dangerous politics
+    and strange magics - and cultivate a flair for death.</p>
+    <h3 xmlns="">Review</h3>
+    <p xmlns="">
+      "What a terrific story! I was mesmerized from start to
+    finish. Unforgettable characters, a plot that kept me guessing,
+    non-stop action and the kind of in-depth storytelling that
+    makes me admire a writer's work." --- Terry Brooks
+      <br />
+    </p>
+    <p xmlns="">"Kylar is a wonderful character - sympathetic and
+    despicable, cowardly and courageous, honorable and
+    unscrupulous...a breathtaking debut!" --- Dave Duncan</p>
+    <h3 xmlns="">About the Author</h3>
+    <p xmlns="">
+      Brent Weeks was born and raised in Montana. After getting
+    his paper keys from Hillsdale College, Brent had brief stints
+    walking the earth like Caine from
+      <em>Kung Fu</em>
+      , tending bar, and corrupting the youth. (Not
+    at the same time.) He started writing on bar napkins, then on
+    lesson plans, then full time. Eventually, someone paid him for
+    it. Brent lives in Oregon with his wife, Kristi. He doesn't own
+    cats or wear a ponytail. Find out more about the author at
+    www.brentweeks.com.
+    </p>
+  </content>
+</entry>

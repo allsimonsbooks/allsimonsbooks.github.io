@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Artemis Fowl</title>
+  <id>Calibre2opds:author:27series:32</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_27_series_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Artemis Fowl" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./author_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Eoin Colfer" />
+  <entry>
+    <title>1 - Artemis Fowl</title>
+    <id>calibre:book:473</id>
+    <updated>2016-12-16T11:55:51Z</updated>
+    <link href="../../Eoin%20Colfer/Artemis%20Fowl%20%28473%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eoin%20Colfer/Artemis%20Fowl%20%28473%29/Artemis%20Fowl%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="172 KB" />
+    <link href="../../Eoin%20Colfer/Artemis%20Fowl%20%28473%29/Artemis%20Fowl%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="276 KB" />
+    <author>
+      <name>Eoin Colfer</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2002-05-03T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New York : Hyperion Books For Children, c2001.</dcterms:publisher>
+    <category term="Children: Grades 4-6" />
+    <category term="Fiction" />
+    <category term="Parents" />
+    <category term="Europe" />
+    <category term="Mothers and sons" />
+    <category term="Kidnapping" />
+    <category term="Fairies" />
+    <category term="Children's 12-Up - Fiction - Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Juvenile Nonfiction" />
+    <category term="Magic" />
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Law &amp; Crime" />
+    <category term="Mysteries &amp; Detective Stories" />
+    <category term="Children's stories" />
+    <category term="People &amp; Places" />
+    <category term="&amp; Magic" />
+    <category term="Action &amp; Adventure - General" />
+    <category term="England" />
+    <category term="Family" />
+    <category term="Action &amp; Adventure" />
+    <category term="Children: Young Adult (Gr. 7-9)" />
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Lang:en" />
+    <category term="Artemis Fowl" />
+    <summary>Artemis Fowl [1]:</summary>
+    <link href="../book_0/book_473.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - The Arctic Incident</title>
+    <id>calibre:book:471</id>
+    <updated>2016-12-16T11:55:50Z</updated>
+    <link href="../../Eoin%20Colfer/The%20Arctic%20Incident%20%28471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eoin%20Colfer/The%20Arctic%20Incident%20%28471%29/The%20Arctic%20Incident%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="174 KB" />
+    <link href="../../Eoin%20Colfer/The%20Arctic%20Incident%20%28471%29/The%20Arctic%20Incident%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="264 KB" />
+    <author>
+      <name>Eoin Colfer</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2003-05-06T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Miramax</dcterms:publisher>
+    <category term="Fantasy (Young Adult)" />
+    <category term="Juvenile Nonfiction" />
+    <category term="Children: Grades 4-6" />
+    <category term="Fiction" />
+    <category term="Parents" />
+    <category term="Children's 12-Up - Fiction - Fantasy" />
+    <category term="Europe" />
+    <category term="Mothers and sons" />
+    <category term="Kidnapping" />
+    <category term="Fairies" />
+    <category term="Fathers and sons" />
+    <category term="Science Fiction" />
+    <category term="Social Issues" />
+    <category term="Magic" />
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Law &amp; Crime" />
+    <category term="Mysteries &amp; Detective Stories" />
+    <category term="People &amp; Places" />
+    <category term="Arctic regions" />
+    <category term="&amp; Magic" />
+    <category term="Action &amp; Adventure - General" />
+    <category term="England" />
+    <category term="Family" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fowl" />
+    <category term="Children: Young Adult (Gr. 7-9)" />
+    <category term="Bedtime &amp; Dreams" />
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Artemis (Fictitious character)" />
+    <category term="Lang:en" />
+    <category term="Artemis Fowl" />
+    <summary>Artemis Fowl [2]:</summary>
+    <link href="../book_0/book_471.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - The Eternity Code</title>
+    <id>calibre:book:469</id>
+    <updated>2016-12-16T11:55:50Z</updated>
+    <link href="../../Eoin%20Colfer/The%20Eternity%20Code%20%28469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eoin%20Colfer/The%20Eternity%20Code%20%28469%29/The%20Eternity%20Code%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="186 KB" />
+    <link href="../../Eoin%20Colfer/The%20Eternity%20Code%20%28469%29/The%20Eternity%20Code%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="280 KB" />
+    <author>
+      <name>Eoin Colfer</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2009-07-28T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hyperion Book CH</dcterms:publisher>
+    <category term="Criminals" />
+    <category term="Legends" />
+    <category term="Fiction" />
+    <category term="Myths" />
+    <category term="Europe" />
+    <category term="Fables" />
+    <category term="Fairies" />
+    <category term="Science Fiction" />
+    <category term="Children's 9-12 - Fiction - Fantasy" />
+    <category term="Magic" />
+    <category term="Adventure and adventurers" />
+    <category term="Juvenile Fiction" />
+    <category term="Computers" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="People &amp; Places" />
+    <category term="&amp; Magic" />
+    <category term="England" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fowl" />
+    <category term="Children: Young Adult (Gr. 7-9)" />
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Artemis (Fictitious character)" />
+    <category term="Lang:en" />
+    <category term="Artemis Fowl" />
+    <summary>Artemis Fowl [3]:</summary>
+    <link href="../book_0/book_469.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - The Opal Deception</title>
+    <id>calibre:book:470</id>
+    <updated>2016-12-16T11:55:49Z</updated>
+    <link href="../../Eoin%20Colfer/The%20Opal%20Deception%20%28470%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eoin%20Colfer/The%20Opal%20Deception%20%28470%29/The%20Opal%20Deception%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
+    <link href="../../Eoin%20Colfer/The%20Opal%20Deception%20%28470%29/The%20Opal%20Deception%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="413 KB" />
+    <author>
+      <name>Eoin Colfer</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2005-04-04T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New York : Hyperion, c2005.</dcterms:publisher>
+    <category term="Legends" />
+    <category term="Children: Grades 4-6" />
+    <category term="Fiction" />
+    <category term="Myths" />
+    <category term="Children's 12-Up - Fiction - Fantasy" />
+    <category term="Kidnapping" />
+    <category term="Pixies" />
+    <category term="Fairies" />
+    <category term="Revenge" />
+    <category term="Science Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Magic" />
+    <category term="Adventure and adventurers" />
+    <category term="Juvenile Fiction" />
+    <category term="Mysteries &amp; Detective Stories" />
+    <category term="Parent and child" />
+    <category term="Fables" />
+    <category term="Artemis" />
+    <category term="Adventure stories" />
+    <category term="English" />
+    <category term="&amp; Magic" />
+    <category term="Action &amp; Adventure - General" />
+    <category term="England" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fowl" />
+    <category term="Children: Young Adult (Gr. 7-9)" />
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Artemis (Fictitious character)" />
+    <category term="Lang:en" />
+    <category term="Artemis Fowl" />
+    <summary>Artemis Fowl [4]:</summary>
+    <link href="../book_0/book_470.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - The Lost Colony</title>
+    <id>calibre:book:467</id>
+    <updated>2016-12-16T11:55:50Z</updated>
+    <link href="../../Eoin%20Colfer/The%20Lost%20Colony%20%28467%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eoin%20Colfer/The%20Lost%20Colony%20%28467%29/The%20Lost%20Colony%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="282 KB" />
+    <link href="../../Eoin%20Colfer/The%20Lost%20Colony%20%28467%29/The%20Lost%20Colony%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="418 KB" />
+    <author>
+      <name>Eoin Colfer</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2006-09-12T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New York : Miramax Books/Hyperion Books for Children, c2006.</dcterms:publisher>
+    <category term="Legends" />
+    <category term="Children: Grades 4-6" />
+    <category term="Fiction" />
+    <category term="Myths" />
+    <category term="Demonology" />
+    <category term="Fables" />
+    <category term="Fairies" />
+    <category term="Science Fiction" />
+    <category term="Horror &amp; Ghost Stories" />
+    <category term="Large type books" />
+    <category term="Magic" />
+    <category term="Adventure and adventurers" />
+    <category term="Juvenile Fiction" />
+    <category term="Space and time" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="&amp; Magic" />
+    <category term="Action &amp; Adventure - General" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fowl" />
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Artemis (Fictitious character)" />
+    <category term="Children's Books - Young Adult Fiction" />
+    <category term="Lang:en" />
+    <category term="Artemis Fowl" />
+    <summary>Artemis Fowl [5]:</summary>
+    <link href="../book_0/book_467.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>6 - The Time Paradox</title>
+    <id>calibre:book:468</id>
+    <updated>2016-12-16T11:55:48Z</updated>
+    <link href="../../Eoin%20Colfer/The%20Time%20Paradox%20%28468%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eoin%20Colfer/The%20Time%20Paradox%20%28468%29/The%20Time%20Paradox%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="245 KB" />
+    <link href="../../Eoin%20Colfer/The%20Time%20Paradox%20%28468%29/The%20Time%20Paradox%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="408 KB" />
+    <author>
+      <name>Eoin Colfer</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2008-07-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hyperion</dcterms:publisher>
+    <category term="Apes &amp; Monkeys" />
+    <category term="Children: Grades 4-6" />
+    <category term="Fiction" />
+    <category term="Animals" />
+    <category term="Fairies" />
+    <category term="Science Fiction" />
+    <category term="All Ages" />
+    <category term="Magic" />
+    <category term="Adventure and adventurers" />
+    <category term="Juvenile Fiction" />
+    <category term="Space and time" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Adventure stories" />
+    <category term="English" />
+    <category term="Lemurs" />
+    <category term="&amp; Magic" />
+    <category term="Action &amp; Adventure - General" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fowl" />
+    <category term="Fantasy fiction" />
+    <category term="Children's Books" />
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Artemis (Fictitious character)" />
+    <category term="Children's Books - Young Adult Fiction" />
+    <category term="Lang:en" />
+    <category term="Artemis Fowl" />
+    <summary>Artemis Fowl [6]:</summary>
+    <link href="../book_0/book_468.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - The Atlantis Complex</title>
+    <id>calibre:book:466</id>
+    <updated>2016-12-16T11:55:48Z</updated>
+    <link href="../../Eoin%20Colfer/The%20Atlantis%20Complex%20%28466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Eoin%20Colfer/The%20Atlantis%20Complex%20%28466%29/The%20Atlantis%20Complex%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="251 KB" />
+    <link href="../../Eoin%20Colfer/The%20Atlantis%20Complex%20%28466%29/The%20Atlantis%20Complex%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="492 KB" />
+    <author>
+      <name>Eoin Colfer</name>
+      <uri>../author_0/author_27_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hyperion Book CH</dcterms:publisher>
+    <category term="Action &amp; Adventure - General" />
+    <category term="Children's 9-12 - Fiction - Fantasy" />
+    <category term="Magic" />
+    <category term="Action &amp; Adventure" />
+    <category term="Family" />
+    <category term="Adventure and adventurers" />
+    <category term="Atlantis (Legendary place)" />
+    <category term="Juvenile Fiction" />
+    <category term="Fairies" />
+    <category term="Children's Books" />
+    <category term="Children: Grades 4-6" />
+    <category term="General" />
+    <category term="Mental illness" />
+    <category term="Parents" />
+    <category term="Space and time" />
+    <category term="Ages 9-12 Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Fiction" />
+    <category term="Demonology" />
+    <category term="Lang:en" />
+    <category term="Artemis Fowl" />
+    <summary>Artemis Fowl [7]:</summary>
+    <link href="../book_0/book_466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Harry Potter and the Goblet of Fire</title>
+  <id>urn:book:23bcaa2b-a9b5-4dd2-93bc-110aa125c6f2</id>
+  <updated>2016-12-16T11:55:44Z</updated>
+  <link href="./book_456.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Harry Potter and the Goblet of Fire" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="J. K. Rowling" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28456%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28456%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28456%29/Harry%20Potter%20and%20the%20Goblet%20of%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="660 KB" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28456%29/Harry%20Potter%20and%20the%20Goblet%20of%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="902 KB" />
+  <author>
+    <name>J. K. Rowling</name>
+    <uri>../author_0/author_24_Page_1.xml</uri>
+  </author>
+  <published>2000-11-15T09:32:56Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Scholastic</dcterms:publisher>
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="Juvenile Fiction" />
+  <category term="Fantasy &amp; Magic" />
+  <category term="People &amp; Places" />
+  <category term="Science Fiction; Fantasy; Magic" />
+  <category term="Children's Books" />
+  <category term="Children: Grades 4-6" />
+  <category term="Ages 9-12 Fiction" />
+  <category term="Science Fiction; Fantasy; &amp; Magic" />
+  <category term="Friendship" />
+  <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary place)" />
+  <category term="Potter; Harry (Fictitious character)" />
+  <category term="Wizards" />
+  <category term="Magic" />
+  <category term="Europe" />
+  <category term="Schools" />
+  <category term="Humorous Stories" />
+  <category term="School &amp; Education" />
+  <category term="England" />
+  <category term="Hogwarts School of Witchcraft" />
+  <category term="Orphans" />
+  <category term="Fantasy Fiction; English" />
+  <category term="Children's Literature" />
+  <category term="Determination (Personality trait)" />
+  <category term="Witches" />
+  <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary organization)" />
+  <category term="Body; Mind &amp; Spirit" />
+  <category term="Magick Studies" />
+  <category term="Teenagers and death" />
+  <category term="Children's 9-12 - Fiction - Fantasy" />
+  <category term="Harry (Fictitious character)" />
+  <category term="Science Fiction" />
+  <category term="Body" />
+  <category term="Fantasy fiction" />
+  <category term="Mind &amp; Spirit" />
+  <category term="English" />
+  <category term="&amp; Magic" />
+  <category term="Potter" />
+  <category term="Lang:en" />
+  <category term="Harry Potter" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Harry Potter series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <h3 xmlns="">Amazon.com Review</h3>
+    <p xmlns="">
+      In
+      <em>Harry Potter and the Goblet of Fire</em>
+      , J.K. Rowling
+    offers up equal parts danger and delight--and any number of
+    dragons, house-elves, and death-defying challenges. Now 14, her
+    orphan hero has only two more weeks with his Muggle relatives
+    before returning to Hogwarts School of Witchcraft and Wizardry.
+    Yet one night a vision harrowing enough to make his
+    lightning-bolt-shaped scar burn has Harry on edge and
+    contacting his godfather-in-hiding, Sirius Black. Happily, the
+    prospect of attending the season's premier sporting event, the
+    Quidditch World Cup, is enough to make Harry momentarily forget
+    that Lord Voldemort and his sinister familiars--the Death
+    Eaters--are out for murder.
+    </p>
+    <p xmlns="">Readers, we will cast a giant invisibility cloak over any
+    more plot and reveal only that You-Know-Who is very much after
+    Harry and that this year there will be no Quidditch matches
+    between Gryffindor, Ravenclaw, Hufflepuff, and Slytherin.
+    Instead, Hogwarts will vie with two other magicians' schools,
+    the stylish Beauxbatons and the icy Durmstrang, in a Triwizard
+    Tournament. Those chosen to compete will undergo three supreme
+    tests. Could Harry be one of the lucky contenders?</p>
+    <p xmlns="">But Quidditch buffs need not go into mourning: we get our
+    share of this great game at the World Cup. Attempting to go
+    incognito as Muggles, 100,000 witches and wizards converge on a
+    "nice deserted moor." As ever, Rowling magicks up the details
+    that make her world so vivid, and so comic. Several spectators'
+    tents, for instance, are entirely unquotidian. One is a
+    minipalace, complete with live peacocks; another has three
+    floors and multiple turrets. And the sports paraphernalia on
+    offer includes rosettes "squealing the names of the players" as
+    well as "tiny models of Firebolts that really flew, and
+    collectible figures of famous players, which strolled across
+    the palm of your hand, preening themselves." Needless to say,
+    the two teams are decidedly different, down to their mascots.
+    Bulgaria is supported by the beautiful veela, who instantly
+    enchant everyone--including Ireland's supporters--over to their
+    side. Until, that is, thousands of tiny cheerleaders engage in
+    some pyrotechnics of their own: "The leprechauns had risen into
+    the air again, and this time, they formed a giant hand, which
+    was making a very rude sign indeed at the veela across the
+    field."</p>
+    <p xmlns="">
+      Long before her fourth installment appeared, Rowling warned
+    that it would be darker, and it's true that every exhilaration
+    is equaled by a moment that has us fearing for Harry's life,
+    the book's emotions running as deep as its dangers. Along the
+    way, though, she conjures up such new characters as Alastor
+    "Mad-Eye" Moody, a Dark Wizard catcher who may or may not be
+    getting paranoid in his old age, and Rita Skeeter, who beetles
+    around Hogwarts in search of stories. (This
+      <em>Daily Prophet</em>
+      scoop artist has a Quick-Quotes Quill
+    that turns even the most innocent assertion into tabloid
+    innuendo.) And at her bedazzling close, Rowling leaves several
+    plot strands open, awaiting book 5. This fan is ready to wager
+    that the author herself is part veela--her pen her wand, her
+    commitment to her world complete. (Ages 9 and older)
+      <em>--Kerry Fried</em>
+    </p>
+    <h3 xmlns="">From Publishers Weekly</h3>
+    <p xmlns="">
+      Even without the unprecedented media attention and
+    popularity her magical series has attracted, it would seem too
+    much to hope that Rowling could sustain the brilliance and wit
+    of her first three novels. Astonishingly, Rowling seems to have
+    the spell-casting powers she assigns her characters: this
+    fourth volume might be her most thrilling yet. The novel opens
+    as a confused Muggle overhears Lord Voldemort and his henchman,
+    Wormtail (the escapee from book three, Azkaban) discussing a
+    murder and plotting more deaths (and invoking Harry Potter's
+    name); clues suggest that Voldemort and Wormtail's location
+    will prove highly significant. From here it takes a while
+    (perhaps slightly too long a while) for Harry and his friends
+    to get back to the Hogwarts school, where Rowling is on surest
+    footing. Headmaster Dumbledore appalls everyone by declaring
+    that Quidditch competition has been canceled for the year; then
+    he makes the exciting announcement that the Triwizard
+    Tournament is to be held after a cessation of many hundred
+    years (it was discontinued, he explains, because the death toll
+    mounted so high). One representative from each of the three
+    largest wizardry schools of Europe (sinister Durmstrang,
+    luxurious Beauxbatons and Hogwarts) are to be chosen by the
+    Goblet of Fire; because of the mortal dangers, Dumbledore casts
+    a spell that allows only students who are at least 17 to drop
+    their names into the Goblet. Thus no one foresees that the
+    Goblet will announce a fourth candidate: Harry. Who has put his
+    name into the Goblet, and how is his participation in the
+    tournament linked, as it surely must be, to Voldemort's newest
+    plot? The details are as ingenious and original as ever, and
+    somehow (for catching readers off-guard must certainly get more
+    difficult with each successive volume) Rowling plants the red
+    herrings, the artful clues and tricky surprises that disarm the
+    most attentive audience. A climax even more spectacular than
+    that of Azkaban will leave readers breathless. The
+    muscle-building heft of this volume notwithstanding, the clamor
+    for book five will begin as soon as readers finish installment
+    four. All ages. (July)
+      <br />
+      Copyright 2000 Reed Business Information, Inc.
+    </p>
+  </content>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nine’s Legacy</title>
+  <id>urn:book:d4eb662e-93d2-46ee-b0f2-dcb3427fe355</id>
+  <updated>2016-12-16T11:55:24Z</updated>
+  <link href="./book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Nine’s Legacy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pittacus Lore" />
+  <link href="../../Pittacus%20Lore/Nine%27s%20Legacy%20%28392%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Pittacus%20Lore/Nine%27s%20Legacy%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Pittacus%20Lore/Nine%27s%20Legacy%20%28392%29/Nine%27s%20Legacy%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Pittacus%20Lore/Nine%27s%20Legacy%20%28392%29/Nine%27s%20Legacy%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Pittacus Lore</name>
+    <uri>../author_0/author_16_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Lost Files" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Lost Files series
+    </p>
+  </content>
+</entry>

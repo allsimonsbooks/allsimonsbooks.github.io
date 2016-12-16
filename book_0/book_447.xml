@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>First Lord's Fury</title>
+  <id>urn:book:8b3a0888-2697-4b61-a23c-fbf3a8eb66d3</id>
+  <updated>2016-12-16T11:55:41Z</updated>
+  <link href="./book_447.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="First Lord's Fury" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/First%20Lord%27s%20Fury%20%28447%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/First%20Lord%27s%20Fury%20%28447%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/First%20Lord%27s%20Fury%20%28447%29/First%20Lord%27s%20Fury%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="867 KB" />
+  <link href="../../Jim%20Butcher/First%20Lord%27s%20Fury%20%28447%29/First%20Lord%27s%20Fury%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../author_0/author_23_Page_1.xml</uri>
+  </author>
+  <published>2009-01-01T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Adventure" />
+  <category term="Adult" />
+  <category term="Lang:en" />
+  <category term="Codex Alera" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 6 in the Codex Alera series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>
+          The next book in the thrilling
+          <em>New York Times</em>
+          bestselling series.
+        </strong>
+        <br />
+      </p>
+      <p>
+        For years he has endured the endless trials and triumphs
+      of a man whose skill and power could not be restrained.
+      Battling ancient enemies, forging new alliances, and
+      confronting the corruption within his own land, Gaius
+      Octavian became a legendary man of war-and the rightful First
+      Lord of Alera.
+        <br />
+      </p>
+      <p>
+        But now, the savage Vord are on the march, and Gaius must
+      lead his legions to the Calderon Valley to stand against
+      them-using all of his intelligence, ingenuity, and furycraft
+      to save their world from eternal darkness.
+        <br />
+      </p>
+      <h3>From Publishers Weekly</h3>
+      <p>
+        The creativity Butcher displays in his Dresden Files
+      series is less apparent in the derivative sixth fantasy yarn
+      set in quasi-Roman Alera (after 2008's
+        <em>Princeps' Fury</em>
+        ). New readers are tossed into a
+      complex plot without any explanation of the considerable
+      backstory, making it hard to connect with the characters or
+      action. The book centers around yet another world-shaking
+      battle between good, represented by Alera, and evil,
+      represented by the vord queen and her legions of scorpionlike
+      followers. A major character is falsely believed dead;
+      there's a traitor in the ranks of the good guys; there's also
+      heroic sacrifice, combat against overwhelming odds, etc.
+      Banter in moments of extreme crisis is absurdly common but
+      never convincing, and neither characters nor story develop
+      anything resembling depth.
+        <em>(Dec.)</em>
+        <br />
+        Copyright © Reed Business Information, a division
+      of Reed Elsevier Inc. All rights reserved.
+      </p>
+      <h3>From Booklist</h3>
+      <p>The fitting conclusion to the Codex Alera ties up a lot of
+      loose ends. Tavi, first lord of Alera since his
+      grandfather’s death, struggles to hold together a realm
+      about to shatter. The insectile Vord hold far too much of the
+      land, including areas that surrendered willingly.
+      Alera’s old enemies, the Canim, are now allies, which
+      makes both reluctant partners tense. Certain Alerans of rank
+      persist in nattering over whether Tavi is the rightful ruler.
+      And Tavi’s lover, Kitai, insists on being properly
+      courted to maintain respectability in Aleran eyes. With Tavi
+      trying to keep ahead of one quandary after another and find a
+      way to defeat the Vord, and with various intriguers met in
+      the previous five volumes trying to salvage their schemes,
+      the pace here is much faster than in the immediately
+      preceding Cursor’s Fury (2006), Captain’s Fury
+      (2007), and Princeps’ Fury (2008). --Frieda Murray</p>
+    </div>
+  </content>
+</entry>

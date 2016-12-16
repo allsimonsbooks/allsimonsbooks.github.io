@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Shouldn't You Be in School</title>
+  <id>urn:book:05010f93-15e1-4435-a76d-fe25b3c82323</id>
+  <updated>2016-10-09T08:12:16Z</updated>
+  <link href="./book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Shouldn't You Be in School" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lemony Snicket" />
+  <link href="../../Lemony%20Snicket/Shouldn%27t%20You%20Be%20in%20School%20%2829%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lemony%20Snicket/Shouldn%27t%20You%20Be%20in%20School%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lemony%20Snicket/Shouldn%27t%20You%20Be%20in%20School%20%2829%29/Shouldn%27t%20You%20Be%20in%20School%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="8 MB" />
+  <link href="../../Lemony%20Snicket/Shouldn%27t%20You%20Be%20in%20School%20%2829%29/Shouldn%27t%20You%20Be%20in%20School%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="8 MB" />
+  <author>
+    <name>Lemony Snicket</name>
+    <uri>../author_0/author_6_Page_1.xml</uri>
+  </author>
+  <published>2014-09-29T06:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Little, Brown Books for Young Readers</dcterms:publisher>
+  <category term="Juvenile Fiction / Family / General (See Also Headings Under Social Issues)" />
+  <category term="Juvenile Fiction / Social Issues / Adolescence" />
+  <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+  <category term="Lang:en" />
+  <category term="All The Wrong Questions" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the All The Wrong Questions series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <i>Is Lemony Snicket a detective or a smoke detector?</i>
+      </p>
+      <p>Do you smell smoke? Young apprentice Lemony Snicket is
+      investigating a case of arson but soon finds himself
+      enveloped in the ever-increasing mystery that haunts the town
+      of Stain'd-by-the-Sea. Who is setting the fires? What secrets
+      are hidden in the Department of Education? Why are so many
+      schoolchildren in danger? Is it all the work of the notorious
+      villain Hangfire? How could you even ask that? What kind of
+      education have you had?</p>
+      <p>
+        Maybe
+        <i>you</i>
+        should be in school?
+      </p>
+    </div>
+  </content>
+</entry>

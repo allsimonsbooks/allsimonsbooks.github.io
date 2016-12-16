@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>A Clash of Kings</title>
+  <id>urn:book:1375a5af-797f-4822-9e0a-2eb34cd6fbfc</id>
+  <updated>2016-12-16T11:55:48Z</updated>
+  <link href="./book_463.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A Clash of Kings" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="George R. R. Martin" />
+  <link href="../../George%20R.%20R.%20Martin/A%20Clash%20of%20Kings%20%28463%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../George%20R.%20R.%20Martin/A%20Clash%20of%20Kings%20%28463%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../George%20R.%20R.%20Martin/A%20Clash%20of%20Kings%20%28463%29/A%20Clash%20of%20Kings%20-%20George%20R.%20R.%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../George%20R.%20R.%20Martin/A%20Clash%20of%20Kings%20%28463%29/A%20Clash%20of%20Kings%20-%20George%20R.%20R.%20Martin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>George R. R. Martin</name>
+    <uri>../author_0/author_25_Page_1.xml</uri>
+  </author>
+  <published>2011-03-22T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Song of Ice and Fire" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Song of Ice and Fire series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <br xmlns="" />
+    <br xmlns="" />
+  </content>
+</entry>

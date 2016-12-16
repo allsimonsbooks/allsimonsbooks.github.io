@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Folklore of Discworld</title>
+  <id>urn:book:4840e81b-11e8-4d22-a346-90827009c09b</id>
+  <updated>2016-12-16T11:54:54Z</updated>
+  <link href="./book_310.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Folklore of Discworld" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Terry Pratchett" />
+  <link href="../../Terry%20Pratchett/Folklore%20of%20Discworld%20%28310%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Terry%20Pratchett/Folklore%20of%20Discworld%20%28310%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Terry%20Pratchett/Folklore%20of%20Discworld%20%28310%29/Folklore%20of%20Discworld%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Terry%20Pratchett/Folklore%20of%20Discworld%20%28310%29/Folklore%20of%20Discworld%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Terry Pratchett</name>
+    <uri>../author_0/author_10_Page_1.xml</uri>
+  </author>
+  <published>2008-10-17T03:11:34Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Doubleday</dcterms:publisher>
+  <category term="Non Fiction" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      Terry Pratchett teams up with a leading British folklorist
+    to reveal the myths and folklore that inspired the teemingly
+    imaginative universe of Discworld.
+      <br />
+    </div>
+  </content>
+</entry>

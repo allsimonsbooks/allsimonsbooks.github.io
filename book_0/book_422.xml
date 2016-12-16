@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Xenocide</title>
+  <id>urn:book:1749019a-ab3c-443f-9794-f7663d1d5def</id>
+  <updated>2016-12-16T11:55:34Z</updated>
+  <link href="./book_422.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Xenocide" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Orson Scott Card" />
+  <link href="../../Orson%20Scott%20Card/Xenocide%20%28422%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Orson%20Scott%20Card/Xenocide%20%28422%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Orson%20Scott%20Card/Xenocide%20%28422%29/Xenocide%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="487 KB" />
+  <link href="../../Orson%20Scott%20Card/Xenocide%20%28422%29/Xenocide%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="738 KB" />
+  <author>
+    <name>Orson Scott Card</name>
+    <uri>../author_0/author_19_Page_1.xml</uri>
+  </author>
+  <published>2010-01-31T07:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tandem Library</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Fiction" />
+  <category term="Fiction - Science Fiction" />
+  <category term="Science Fiction - General" />
+  <category term="Lang:en" />
+  <category term="Ender Saga" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Ender Saga series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Xenocide The millennia-long saga of Andrew Wiggin called
+    Ender, called The Speaker For the Dead called The Xenocide
+    continues .... On the world Lusitania there are now three
+    sapient races-the Pequeninos, who evolved there; Humans, who
+    came to colonize; and a Hive Queen and her children brought by
+    Ender long years ago. But on Lusitania there is also the
+    descolada, a virus deadly to human beings which would spread
+    like wildfire throughout the Stairways Congress should it ever
+    escape the planet. The Starways Congress decided that The
+    descolada should be wiped out once and for all, and sent a
+    fleet, armed with a planet-destroying weapon, to do it. A
+    fourth intelligence, loyal to Ender and Lusitania caused that
+    fleet to disappear. On a distant world called Path live a
+    people whose culture owes much to that of ancient China on
+    Earth. They have evolved a caste known as the godspoken, people
+    of superior intellectual abilities who pay a terrible price for
+    their gifts. The godspoken of Path have given their loyalty and
+    service to the Starways Congress. Among the god spoken is a
+    young girl named, in The language of her people, Gloriously
+    Bright. It is to her that the Starways Congress turn with the
+    mystery of the disappearance of the Lusitania Fleet. There is
+    no doubt that Gloriously Bright will discover the answer to the
+    puzzle. The question is, what will she do with the
+    information</p>
+    <p xmlns="">SUMMARY:</p>
+    <p xmlns="">Orson Scott Card's Xenocide is a space opera with verve. In
+    this continuation of Ender Wiggin's story, the Starways
+    Congress has sent a fleet to immolate the rebellious planet of
+    Lusitania, home to the alien race of pequeninos, and home to
+    Ender Wiggin and his family. Concealed on Lusitania is the only
+    remaining Hive Queen, who holds a secret that may save or
+    destroy humanity throughout the galaxy. Familiar characters
+    from the previous novels continue to grapple with religious
+    conflicts and family squabbles while inventing
+    faster-than-light travel and miraculous virus treatments. Throw
+    into the mix an entire planet of mad geniuses and a self-aware
+    computer who wants to be a martyr, and it's hard to guess who
+    will topple the first domino. Due to the densely woven and
+    melodramatic nature of the story, newcomers to Ender's tale
+    will want to start reading this series with the first books,
+    Ender's Game and Speaker for the Dead. --Brooks Peck</p>
+  </content>
+</entry>

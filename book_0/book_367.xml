@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ship of Destiny</title>
+  <id>urn:book:d14f8dbc-4605-4d49-95ac-10919023b0a6</id>
+  <updated>2016-12-16T11:55:15Z</updated>
+  <link href="./book_367.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ship of Destiny" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Robin Hobb" />
+  <link href="../../Robin%20Hobb/Ship%20of%20Destiny%20%28367%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Robin%20Hobb/Ship%20of%20Destiny%20%28367%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Robin%20Hobb/Ship%20of%20Destiny%20%28367%29/Ship%20of%20Destiny%20-%20Robin%20Hobb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="764 KB" />
+  <link href="../../Robin%20Hobb/Ship%20of%20Destiny%20%28367%29/Ship%20of%20Destiny%20-%20Robin%20Hobb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Robin Hobb</name>
+    <uri>../author_0/author_14_Page_1.xml</uri>
+  </author>
+  <published>2001-11-27T04:20:26Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+  <category term="Fantasy - Epic" />
+  <category term="Fantasy - General" />
+  <category term="American Science Fiction And Fantasy" />
+  <category term="Fantasy fiction" />
+  <category term="Fiction - Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Fantasy" />
+  <category term="Epic" />
+  <category term="Science Fiction And Fantasy" />
+  <category term="Lang:en" />
+  <category term="Liveship Traders Trilogy" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Liveship Traders Trilogy series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">In the powerful conclusion to the Liveship Traders trilogy,
+    Robin Hobb weaves the spellbinding story of a once-thriving
+    city on the brink of ruin, a glorious and mythic species on the
+    edge of extinction, and the Vestrit clan, whose destiny is
+    intertwined with both....As Bingtown slides toward disaster,
+    clan matriarch Ronica Vestrit, branded a traitor, searches for
+    a way to bring the city’s inhabitants together against
+    the Chalcedean threat. Meanwhile, Althea Vestrit, unaware of
+    what has befallen Bingtown and her family, continues her
+    perilous quest to track down and recover her liveship Vivacia
+    from the ruthless pirate Kennit. Bold though it is, her scheme
+    may be in vain. For her beloved Vivacia will face the most
+    terrible confrontation of all as the secret of the liveships is
+    revealed. It is a truth so shattering, it may destroy Vivacia
+    and all who love her, including the boy-priest Wintrow Vestrit,
+    whose life already hangs in the balance....</p>
+  </content>
+</entry>

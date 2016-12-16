@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Turn Coat</title>
+  <id>urn:book:d6db3931-c2ec-4434-bb6e-e1bbf43b927c</id>
+  <updated>2016-12-16T11:55:38Z</updated>
+  <link href="./book_436.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Turn Coat" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Turn%20Coat%20%28436%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Turn%20Coat%20%28436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Turn%20Coat%20%28436%29/Turn%20Coat%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="429 KB" />
+  <link href="../../Jim%20Butcher/Turn%20Coat%20%28436%29/Turn%20Coat%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="610 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../author_0/author_23_Page_1.xml</uri>
+  </author>
+  <published>2009-01-01T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Mystery" />
+  <category term="Vampires" />
+  <category term="Lang:en" />
+  <category term="Dresden Files" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 11 in the Dresden Files series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>
+          The new novel in the hit
+          <em>New York Times</em>
+          bestselling Dresden Files
+        series.
+        </strong>
+        <br />
+      </p>
+      <p>
+        The Warden Morgan has been accused of treason against the
+      Wizards of the White Council—and there’s only
+      one, final punishment for that crime. He’s on the run,
+      wants his name cleared, and needs someone with a knack for
+      backing the underdog. Someone like Harry Dresden...
+        <br />
+      </p>
+      <p>Now, Harry must uncover a traitor within the Council, keep
+      a less-than-agreeable Morgan under wraps, and avoid coming
+      under scrutiny himself. And a single mistake may cost someone
+      his head—someone like Harry</p>
+      <h3>From Publishers Weekly</h3>
+      <p>
+        The search for a traitor in the highest circles of power
+      forms the main plot thread of Butcher's 11th hard-boiled
+      fantasy novel featuring Chicago's wizard detective Harry
+      Dresden (last seen in 2008's
+        <em>Small Favor</em>
+        ). Harry, a warden of the magic-governing
+      White Council, finds himself in an unusual position when
+      Morgan, his fellow warden and frequent antagonist, asks for
+      his help. One of the White Council's leaders has been
+      murdered, and Morgan was found at the scene of the crime
+      holding the murder weapon. If he has been framed, then
+      another senior wizard is behind the killing and may be trying
+      to destroy the council entirely. Aided by werewolf and
+      vampire allies, Dresden investigates with his trademark
+      sardonic noir flair. Despite the sprawling plot, both fans
+      and newcomers will get into the fast-paced action.
+        <em>(Apr.)</em>
+        <br />
+        Copyright © Reed Business Information, a division
+      of Reed Elsevier Inc. All rights reserved.
+      </p>
+      <h3>From School Library Journal</h3>
+      <p>
+        When fans of the immensely popular
+        <em>Dresden Files</em>
+        series last left the urban wizard in
+        <em>Small Favor</em>
+        , he was dealing with the aftermath of an
+      adventure that might have left his best friend's life and
+      family in danger. But Harry is back in fine form in his 11th
+      outing, which begins with another, extremely unexpected White
+      Council Warden begging for sanctuary at Harry's place and
+      ends with several frightening revelations. Once again,
+      Butcher's urban fantasy features excellent, irreverent humor,
+      the return of favorite characters, and new challenges from
+      unexpected foes. Harry's cop friend, the tiny but fierce
+      Murphy, sticks by his side here, as do the werewolves Harry
+      befriended in 2001's
+        <em>Fool Moon</em>
+        . Longtime readers will not be
+      disappointed. Recommended for public libraries collecting the
+      series; this is also a great book to plunge newbies into the
+      dark, magical side of Chicago.—Stacey Rottiers, Warren
+      Civic Ctr. Lib., MI
+        <br />
+        Copyright © Reed Business Information, a division
+      of Reed Elsevier Inc. All rights reserved.
+      </p>
+    </div>
+  </content>
+</entry>

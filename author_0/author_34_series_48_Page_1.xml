@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Lightbringer</title>
+  <id>Calibre2opds:author:34series:48</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_34_series_48_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Lightbringer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brent Weeks" />
+  <entry>
+    <title>3 - Lightbringer 03 - The Broken Eye</title>
+    <id>calibre:book:543</id>
+    <updated>2016-12-16T11:56:14Z</updated>
+    <link href="../../Brent%20Weeks/Lightbringer%2003%20-%20The%20Broken%20Eye%20%28543%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brent%20Weeks/Lightbringer%2003%20-%20The%20Broken%20Eye%20%28543%29/Lightbringer%2003%20-%20The%20Broken%20Ey%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Brent%20Weeks/Lightbringer%2003%20-%20The%20Broken%20Eye%20%28543%29/Lightbringer%2003%20-%20The%20Broken%20Ey%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Brent Weeks</name>
+      <uri>../author_0/author_34_Page_1.xml</uri>
+    </author>
+    <published>2014-08-25T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown Book Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Lightbringer" />
+    <summary>Lightbringer [3]:</summary>
+    <link href="../book_0/book_543.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
