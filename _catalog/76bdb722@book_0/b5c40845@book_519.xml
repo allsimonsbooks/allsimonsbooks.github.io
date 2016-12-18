@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Magician's Gambit</title>
+  <id>urn:book:03c3de72-1a6a-4b5b-b59a-5ac998c16945</id>
+  <updated>2016-12-16T11:56:05Z</updated>
+  <link href="./b5c40845%40book_519.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Magician's Gambit" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/bae05acd%40author_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Eddings" />
+  <link href="../../David%20Eddings/Magician%27s%20Gambit%20%28519%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Eddings/Magician%27s%20Gambit%20%28519%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Eddings/Magician%27s%20Gambit%20%28519%29/Magician%27s%20Gambit%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
+  <link href="../../David%20Eddings/Magician%27s%20Gambit%20%28519%29/Magician%27s%20Gambit%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="766 KB" />
+  <author>
+    <name>David Eddings</name>
+    <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+  </author>
+  <published>1983-08-15T03:53:19Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Del Rey</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Lang:en" />
+  <category term="Belgariad" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Belgariad series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      Princess Ce'Nedra joins the young farm boy, Garion, in the
+    struggle to find the magical Orb and defeat the power of an
+    evil sorcerer
+      <br />
+      <strong>Title:</strong>
+      Magician's Gambit
+      <br />
+      <strong>Author:</strong>
+      Eddings, David
+      <br />
+      <strong>Publisher:</strong>
+      Random House
+      <br />
+      <strong>Publication Date:</strong>
+      1995/07/01
+      <br />
+      <strong>Number of Pages:</strong>
+      <br />
+      <strong>Binding Type:</strong>
+      PAPERBACK
+      <br />
+      <strong>Library of Congress:</strong>
+      bl 99933379
+    </p>
+    <p xmlns="">**</p>
+  </content>
+</entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Price of Spring</title>
+  <id>urn:book:fff6de36-d1d4-4418-ae86-be06274e2d41</id>
+  <updated>2016-12-16T11:56:08Z</updated>
+  <link href="./9ee95b86%40book_529.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Price of Spring" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/ad20e3be%40author_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Daniel Abraham" />
+  <link href="../../Daniel%20Abraham/The%20Price%20of%20Spring%20%28529%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Daniel%20Abraham/The%20Price%20of%20Spring%20%28529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Daniel%20Abraham/The%20Price%20of%20Spring%20%28529%29/The%20Price%20of%20Spring%20-%20Daniel%20Abraham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="445 KB" />
+  <link href="../../Daniel%20Abraham/The%20Price%20of%20Spring%20%28529%29/The%20Price%20of%20Spring%20-%20Daniel%20Abraham.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="653 KB" />
+  <author>
+    <name>Daniel Abraham</name>
+    <uri>../76bdb722@author_0/ad20e3be@author_31_Page_1.xml</uri>
+  </author>
+  <published>2009-07-21T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tor Books</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Lang:en" />
+  <category term="Long Price Quartet" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Long Price Quartet series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <h3>From Publishers Weekly</h3>
+      <p>
+        Starred Review. Nothing ever goes the way I plan,
+      laments Otah, long-suffering emperor of the Khaiem, concisely
+      summarizing Abraham's melancholy and near-perfect conclusion
+      to the Long Price Quartet. Fifteen years after the disaster
+      that led to the sterilization of all Khaiem women and Galtish
+      men in 2008's
+        <em>An Autumn War</em>
+        , Otah seeks an alliance between the
+      two long-warring nations in hopes of there being a next
+      generation, while former poet Maati tries to teach young
+      women to summon andat, beings that embody and control
+      concepts. Maati's student Vanjit harnesses the andat
+      Clarity-of-Sight, but war trauma transforms her from possible
+      savior into deranged dictator. Abraham shies away from the
+      blood and swashbuckling of the previous novels, instead
+      telling a tale of forgiveness and catharsis that concludes
+      this complex saga with mixed notes of sadness and hope.
+        <em>(July)</em>
+        <br />
+        Copyright © Reed Business Information, a division
+      of Reed Elsevier Inc. All rights reserved.
+      </p>
+      <h3>From Bookmarks Magazine</h3>
+      <p>
+        Reviewers of science fiction and fantasy novels tend to
+      respect authors who wrap up a series neatly rather than
+      spinning out endless sequels. But they also demand good
+      endings, which may be why expectations for Abraham's
+        <em>The Price of Spring</em>
+        were so high. The book generally
+      met them; critics were pleased to see that Abraham could
+      settle all the questions raised in the earlier novels without
+      losing any of his innovative edge. Several reviewers felt
+      that
+        <em>The Price of Spring</em>
+        was the best book in the series;
+      Jo Walton (in an independent review on Tor.com, a Web site
+      run by the book's publisher) wrote that it is "the fastest
+      moving and most exciting of all the volumes."
+      </p>
+    </div>
+  </content>
+</entry>

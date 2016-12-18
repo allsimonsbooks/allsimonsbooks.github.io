@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Harry Potter</title>
+  <id>Calibre2opds:author:24series:30</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./f5bc6b87%40author_24_series_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Harry Potter" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./c4512670%40author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="J. K. Rowling" />
+  <entry>
+    <title>Harry Potter Prequel</title>
+    <id>calibre:book:460</id>
+    <updated>2016-12-16T11:55:45Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20Prequel%20%28460%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20Prequel%20%28460%29/Harry%20Potter%20Prequel%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="32 KB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20Prequel%20%28460%29/Harry%20Potter%20Prequel%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="36 KB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>2011-11-28T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter:</summary>
+    <link href="../76bdb722%40book_0/829b4c11%40book_460.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1 - Harry Potter and the Sorceror's Stone</title>
+    <id>calibre:book:459</id>
+    <updated>2016-12-16T11:55:45Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Sorceror%27s%20Sto%20%28459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Sorceror%27s%20Sto%20%28459%29/Harry%20Potter%20and%20the%20Sorceror%27s%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="655 KB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Sorceror%27s%20Sto%20%28459%29/Harry%20Potter%20and%20the%20Sorceror%27s%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="458 KB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>1998-10-15T09:33:25Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>A.A. Levine Books</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="People &amp; Places" />
+    <category term="Science Fiction; Fantasy; Magic" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary place)" />
+    <category term="Potter; Harry (Fictitious character)" />
+    <category term="Wizards" />
+    <category term="Magic" />
+    <category term="Europe" />
+    <category term="Schools" />
+    <category term="Humorous Stories" />
+    <category term="School &amp; Education" />
+    <category term="England" />
+    <category term="Large type books" />
+    <category term="Witches" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary organization)" />
+    <category term="Cuba" />
+    <category term="Antiques &amp; Collectibles" />
+    <category term="Historical fiction" />
+    <category term="Fiction - Historical" />
+    <category term="Historical - General" />
+    <category term="Revolution; 1895-1898" />
+    <category term="History" />
+    <category term="Harry (Fictitious character)" />
+    <category term="Science Fiction" />
+    <category term="Revolution" />
+    <category term="Potter" />
+    <category term="1895-1898" />
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter [1]:</summary>
+    <link href="../76bdb722%40book_0/d06aa776%40book_459.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Harry Potter and the Chamber of Secrets</title>
+    <id>calibre:book:457</id>
+    <updated>2016-12-16T11:55:45Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Chamber%20of%20Sec%20%28457%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Chamber%20of%20Sec%20%28457%29/Harry%20Potter%20and%20the%20Chamber%20of%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="702 KB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Chamber%20of%20Sec%20%28457%29/Harry%20Potter%20and%20the%20Chamber%20of%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="513 KB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>1999-11-15T09:32:44Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scholastic press</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="People &amp; Places" />
+    <category term="Science Fiction; Fantasy; Magic" />
+    <category term="Children's Books" />
+    <category term="Children: Grades 4-6" />
+    <category term="Ages 9-12 Fiction" />
+    <category term="Science Fiction; Fantasy; &amp; Magic" />
+    <category term="United States" />
+    <category term="Friendship" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary place)" />
+    <category term="Potter; Harry (Fictitious character)" />
+    <category term="Wizards" />
+    <category term="Magic" />
+    <category term="Europe" />
+    <category term="Schools" />
+    <category term="Humorous Stories" />
+    <category term="School &amp; Education" />
+    <category term="Business &amp; Economics" />
+    <category term="England" />
+    <category term="Hogwarts School of Witchcraft" />
+    <category term="Orphans" />
+    <category term="Young adult fiction" />
+    <category term="Aunts" />
+    <category term="Cousins" />
+    <category term="Determination (Personality trait) in children" />
+    <category term="Human Resources &amp; Personnel Management" />
+    <category term="Finance" />
+    <category term="Business" />
+    <category term="Personnel &amp; human resources management" />
+    <category term="YA)" />
+    <category term="Children's Fiction" />
+    <category term="Fantasy &amp; magical realism (Children's" />
+    <category term="business &amp; management" />
+    <category term="Economics" />
+    <category term="Economics; finance; business &amp; management" />
+    <category term="Science Fiction; Fantasy &amp; Magic" />
+    <category term="Incentives in industry" />
+    <category term="Management - General" />
+    <category term="Career development" />
+    <category term="Compensation management" />
+    <category term="Uncles" />
+    <category term="Management &amp; Business: General" />
+    <category term="Harry (Fictitious character)" />
+    <category term="Science Fiction" />
+    <category term="&amp; Magic" />
+    <category term="Potter" />
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter [2]:</summary>
+    <link href="../76bdb722%40book_0/37d28a71%40book_457.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Harry Potter and the Prisoner of Azkaban</title>
+    <id>calibre:book:458</id>
+    <updated>2016-12-16T11:55:45Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Prisoner%20of%20Az%20%28458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Prisoner%20of%20Az%20%28458%29/Harry%20Potter%20and%20the%20Prisoner%20o%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Prisoner%20of%20Az%20%28458%29/Harry%20Potter%20and%20the%20Prisoner%20o%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="631 KB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>1999-11-15T09:33:16Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Arthur A. Levine Books</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="People &amp; Places" />
+    <category term="Science Fiction; Fantasy; Magic" />
+    <category term="Children's Books" />
+    <category term="Children: Grades 4-6" />
+    <category term="Ages 9-12 Fiction" />
+    <category term="Science Fiction; Fantasy; &amp; Magic" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary place)" />
+    <category term="Potter; Harry (Fictitious character)" />
+    <category term="Wizards" />
+    <category term="Magic" />
+    <category term="Europe" />
+    <category term="Schools" />
+    <category term="Humorous Stories" />
+    <category term="School &amp; Education" />
+    <category term="England" />
+    <category term="Hogwarts School of Witchcraft" />
+    <category term="Orphans" />
+    <category term="Large type books" />
+    <category term="Witches" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary organization)" />
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="Magick Studies" />
+    <category term="Boarding school students" />
+    <category term="Boarding schools" />
+    <category term="Harry (Fictitious character)" />
+    <category term="Science Fiction" />
+    <category term="Body" />
+    <category term="Mind &amp; Spirit" />
+    <category term="&amp; Magic" />
+    <category term="Potter" />
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter [3]:</summary>
+    <link href="../76bdb722%40book_0/a76d97e0%40book_458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Harry Potter and the Goblet of Fire</title>
+    <id>calibre:book:456</id>
+    <updated>2016-12-16T11:55:44Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28456%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28456%29/Harry%20Potter%20and%20the%20Goblet%20of%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="660 KB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%28456%29/Harry%20Potter%20and%20the%20Goblet%20of%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="902 KB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>2000-11-15T09:32:56Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scholastic</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="People &amp; Places" />
+    <category term="Science Fiction; Fantasy; Magic" />
+    <category term="Children's Books" />
+    <category term="Children: Grades 4-6" />
+    <category term="Ages 9-12 Fiction" />
+    <category term="Science Fiction; Fantasy; &amp; Magic" />
+    <category term="Friendship" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary place)" />
+    <category term="Potter; Harry (Fictitious character)" />
+    <category term="Wizards" />
+    <category term="Magic" />
+    <category term="Europe" />
+    <category term="Schools" />
+    <category term="Humorous Stories" />
+    <category term="School &amp; Education" />
+    <category term="England" />
+    <category term="Hogwarts School of Witchcraft" />
+    <category term="Orphans" />
+    <category term="Fantasy Fiction; English" />
+    <category term="Children's Literature" />
+    <category term="Determination (Personality trait)" />
+    <category term="Witches" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary organization)" />
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="Magick Studies" />
+    <category term="Teenagers and death" />
+    <category term="Children's 9-12 - Fiction - Fantasy" />
+    <category term="Harry (Fictitious character)" />
+    <category term="Science Fiction" />
+    <category term="Body" />
+    <category term="Fantasy fiction" />
+    <category term="Mind &amp; Spirit" />
+    <category term="English" />
+    <category term="&amp; Magic" />
+    <category term="Potter" />
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter [4]:</summary>
+    <link href="../76bdb722%40book_0/40d5bae7%40book_456.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - Harry Potter and the Order of the Phoenix</title>
+    <id>calibre:book:455</id>
+    <updated>2016-12-16T11:55:44Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Order%20of%20the%20P%20%28455%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Order%20of%20the%20P%20%28455%29/Harry%20Potter%20and%20the%20Order%20of%20t%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Order%20of%20the%20P%20%28455%29/Harry%20Potter%20and%20the%20Order%20of%20t%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="child_adv" />
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter [5]:</summary>
+    <link href="../76bdb722%40book_0/d9dceb5d%40book_455.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>6 - Harry Potter and the Half-Blood Prince</title>
+    <id>calibre:book:454</id>
+    <updated>2016-12-16T11:55:44Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Half-Blood%20Pri%20%28454%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Half-Blood%20Pri%20%28454%29/Harry%20Potter%20and%20the%20Half-Blood%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="976 KB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Half-Blood%20Pri%20%28454%29/Harry%20Potter%20and%20the%20Half-Blood%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="805 KB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>2007-07-02T09:33:02Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Large Print Distribution</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Juvenile Fiction" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="People &amp; Places" />
+    <category term="Science Fiction; Fantasy; Magic" />
+    <category term="Children's Books" />
+    <category term="Children: Grades 4-6" />
+    <category term="Ages 9-12 Fiction" />
+    <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary place)" />
+    <category term="Potter; Harry (Fictitious character)" />
+    <category term="Wizards" />
+    <category term="Magic" />
+    <category term="Europe" />
+    <category term="Schools" />
+    <category term="Humorous Stories" />
+    <category term="School &amp; Education" />
+    <category term="England" />
+    <category term="Large type books" />
+    <category term="Large print books" />
+    <category term="Harry (Fictitious character)" />
+    <category term="Science Fiction" />
+    <category term="Potter" />
+    <category term="Fantasy" />
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter [6]:</summary>
+    <link href="../76bdb722%40book_0/aedbdbcb%40book_454.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - Harry Potter and the Deathly Hallows</title>
+    <id>calibre:book:453</id>
+    <updated>2016-12-16T11:55:46Z</updated>
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Deathly%20Hallow%20%28453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Deathly%20Hallow%20%28453%29/Harry%20Potter%20and%20the%20Deathly%20Ha%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Deathly%20Hallow%20%28453%29/Harry%20Potter%20and%20the%20Deathly%20Ha%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>J. K. Rowling</name>
+      <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="child_adv" />
+    <category term="Lang:en" />
+    <category term="Harry Potter" />
+    <summary>Harry Potter [7]:</summary>
+    <link href="../76bdb722%40book_0/30bf4e68%40book_453.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Assassin's Apprentice</title>
+  <id>urn:book:5aa62353-248f-49cf-b3bf-136820ad525a</id>
+  <updated>2016-12-16T11:55:17Z</updated>
+  <link href="./70c10af9%40book_372.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Assassin's Apprentice" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/ef7c75b3%40author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Robin Hobb" />
+  <link href="../../Robin%20Hobb/Assassin%27s%20Apprentice%20%28372%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Robin%20Hobb/Assassin%27s%20Apprentice%20%28372%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Robin%20Hobb/Assassin%27s%20Apprentice%20%28372%29/Assassin%27s%20Apprentice%20-%20Robin%20Hobb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="562 KB" />
+  <link href="../../Robin%20Hobb/Assassin%27s%20Apprentice%20%28372%29/Assassin%27s%20Apprentice%20-%20Robin%20Hobb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="771 KB" />
+  <author>
+    <name>Robin Hobb</name>
+    <uri>../76bdb722@author_0/ef7c75b3@author_14_Page_1.xml</uri>
+  </author>
+  <published>1996-03-01T08:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+  <category term="Retail" />
+  <category term="Lang:en" />
+  <category term="Farseer Trilogy" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Farseer Trilogy series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">s the bastard son of the noble Prince
+    Chivalry, raised in the shadow of the royal court by his
+    father's gruff stableman. He is treated like an outcast by all
+    the royalty except the devious King Shrewd, who has him
+    sectetly tutored in the arts of the assassin. For in Fitz's
+    blood runs the magic Skill--and the darker knowledge of a child
+    raised with the stable hounds and rejected by his family. As
+    barbarous raiders ravage the coasts, Fitz is growing to
+    manhood. Soon he will face his first dangerous, soul-shattering
+    mission. And though some regard him as a threat to the throne,
+    he may just be the key to the survival of the kingdom.</p>
+  </content>
+</entry>

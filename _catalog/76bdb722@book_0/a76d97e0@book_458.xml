@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Harry Potter and the Prisoner of Azkaban</title>
+  <id>urn:book:7d94a0de-e447-4ca9-a027-90961042402c</id>
+  <updated>2016-12-16T11:55:45Z</updated>
+  <link href="./a76d97e0%40book_458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Harry Potter and the Prisoner of Azkaban" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/c4512670%40author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="J. K. Rowling" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Prisoner%20of%20Az%20%28458%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Prisoner%20of%20Az%20%28458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Prisoner%20of%20Az%20%28458%29/Harry%20Potter%20and%20the%20Prisoner%20o%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Prisoner%20of%20Az%20%28458%29/Harry%20Potter%20and%20the%20Prisoner%20o%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="631 KB" />
+  <author>
+    <name>J. K. Rowling</name>
+    <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+  </author>
+  <published>1999-11-15T09:33:16Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Arthur A. Levine Books</dcterms:publisher>
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="Juvenile Fiction" />
+  <category term="Fantasy &amp; Magic" />
+  <category term="People &amp; Places" />
+  <category term="Science Fiction; Fantasy; Magic" />
+  <category term="Children's Books" />
+  <category term="Children: Grades 4-6" />
+  <category term="Ages 9-12 Fiction" />
+  <category term="Science Fiction; Fantasy; &amp; Magic" />
+  <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary place)" />
+  <category term="Potter; Harry (Fictitious character)" />
+  <category term="Wizards" />
+  <category term="Magic" />
+  <category term="Europe" />
+  <category term="Schools" />
+  <category term="Humorous Stories" />
+  <category term="School &amp; Education" />
+  <category term="England" />
+  <category term="Hogwarts School of Witchcraft" />
+  <category term="Orphans" />
+  <category term="Large type books" />
+  <category term="Witches" />
+  <category term="Hogwarts School of Witchcraft and Wizardry (Imaginary organization)" />
+  <category term="Body; Mind &amp; Spirit" />
+  <category term="Magick Studies" />
+  <category term="Boarding school students" />
+  <category term="Boarding schools" />
+  <category term="Harry (Fictitious character)" />
+  <category term="Science Fiction" />
+  <category term="Body" />
+  <category term="Mind &amp; Spirit" />
+  <category term="&amp; Magic" />
+  <category term="Potter" />
+  <category term="Lang:en" />
+  <category term="Harry Potter" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Harry Potter series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <h3 xmlns="">Amazon.com Review</h3>
+    <p xmlns="">For most children, summer vacation is something to look
+    forward to. But not for our 13-year-old hero, who's forced to
+    spend his summers with an aunt, uncle, and cousin who detest
+    him. The third book in J.K. Rowling's</p>
+    <p xmlns="">
+      As it turns out, Harry isn't punished at all for his errant
+    wizardry. Instead he is mysteriously rescued from his Muggle
+    neighborhood and whisked off in a triple-decker, violently
+    purple bus to spend the remaining weeks of summer in a friendly
+    inn called the Leaky Cauldron. What Harry has to face as he
+    begins his third year at Hogwarts explains why the officials
+    let him off easily. It seems that Sirius Black--an escaped
+    convict from the prison of Azkaban--is on the loose. Not only
+    that, but he's after Harry Potter. But why? And why do the
+    Dementors, the guards hired to protect him, chill Harry's very
+    heart when others are unaffected? Once again, Rowling has
+    created a mystery that will have children and adults cheering,
+    not to mention standing in line for her next book. Fortunately,
+    there are four more in the works. (Ages 9 and older)
+      <em>--Karin Snelson</em>
+    </p>
+    <h3 xmlns="">From Publishers Weekly</h3>
+    <p xmlns="">
+      Rowling proves that she has plenty of tricks left up her
+    sleeve in this third Harry Potter adventure, set once again at
+    the Hogwarts School for Witchcraft and Wizardry. Right before
+    the start of term, a supremely dangerous criminal breaks out of
+    a supposedly impregnable wizards' prison; it will come as no
+    surprise to Potter fans that the villain, a henchman of Harry's
+    old enemy Lord Voldemort, appears to have targeted Harry. In
+    many ways this installment seems to serve a transitional role
+    in the seven-volume series: while many of the adventures are
+    breathlessly relayed, they appear to be laying groundwork for
+    even more exciting adventures to come. The beauty here lies in
+    the genius of Rowling's plotting. Seemingly minor details
+    established in books one and two unfold to take on unforeseen
+    significance, and the finale, while not airtight in its
+    internal logic, is utterly thrilling. Rowling's wit never
+    flags, whether constructing the workings of the wizard world
+    (Just how would a magician be made to stay behind bars?) or
+    tossing off quick jokes (a grandmother wears a hat decorated
+    with a stuffed vulture; the divination classroom looks like a
+    tawdry tea shop). The Potter spell is holding strong. All ages.
+      <br />
+      Copyright 1999 Reed Business Information, Inc.
+    </p>
+  </content>
+</entry>

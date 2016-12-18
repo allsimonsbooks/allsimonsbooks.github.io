@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The First Formic War</title>
+  <id>Calibre2opds::serieslistseries:23</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./fe387154%40series_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The First Formic War" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Earth Unaware</title>
+    <id>calibre:book:413</id>
+    <updated>2016-12-16T11:55:30Z</updated>
+    <link href="../../Orson%20Scott%20Card/Earth%20Unaware%20%28413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Orson%20Scott%20Card/Earth%20Unaware%20%28413%29/Earth%20Unaware%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="498 KB" />
+    <link href="../../Orson%20Scott%20Card/Earth%20Unaware%20%28413%29/Earth%20Unaware%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="591 KB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../76bdb722@author_0/91cd090e@author_19_Page_1.xml</uri>
+    </author>
+    <published>2013-04-29T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Science Fiction</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="First Formic War" />
+    <summary>The First Formic War [1]:</summary>
+    <link href="../76bdb722%40book_0/54d38b6c%40book_413.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Earth Afire</title>
+    <id>calibre:book:410</id>
+    <updated>2016-12-16T11:55:30Z</updated>
+    <link href="../../Orson%20Scott%20Card/Earth%20Afire%20%28410%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Orson%20Scott%20Card/Earth%20Afire%20%28410%29/Earth%20Afire%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="427 KB" />
+    <link href="../../Orson%20Scott%20Card/Earth%20Afire%20%28410%29/Earth%20Afire%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="636 KB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../76bdb722@author_0/91cd090e@author_19_Page_1.xml</uri>
+    </author>
+    <published>2014-04-29T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Science Fiction</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="First Formic War" />
+    <summary>The First Formic War [2]:</summary>
+    <link href="../76bdb722%40book_0/cddadad6%40book_410.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Earth Awakens</title>
+    <id>calibre:book:411</id>
+    <updated>2016-12-16T11:55:30Z</updated>
+    <link href="../../Orson%20Scott%20Card/Earth%20Awakens%20%28411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Orson%20Scott%20Card/Earth%20Awakens%20%28411%29/Earth%20Awakens%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="807 KB" />
+    <link href="../../Orson%20Scott%20Card/Earth%20Awakens%20%28411%29/Earth%20Awakens%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="643 KB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../76bdb722@author_0/91cd090e@author_19_Page_1.xml</uri>
+    </author>
+    <published>2014-06-10T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="First Formic War" />
+    <summary>The First Formic War [3]:</summary>
+    <link href="../76bdb722%40book_0/baddea40%40book_411.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Harry Potter and the Order of the Phoenix</title>
+  <id>urn:book:7db52dab-7e60-45fb-9e0a-86041fc9e0d2</id>
+  <updated>2016-12-16T11:55:44Z</updated>
+  <link href="./d9dceb5d%40book_455.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Harry Potter and the Order of the Phoenix" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/c4512670%40author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="J. K. Rowling" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Order%20of%20the%20P%20%28455%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Order%20of%20the%20P%20%28455%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Order%20of%20the%20P%20%28455%29/Harry%20Potter%20and%20the%20Order%20of%20t%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Order%20of%20the%20P%20%28455%29/Harry%20Potter%20and%20the%20Order%20of%20t%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>J. K. Rowling</name>
+    <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="child_adv" />
+  <category term="Lang:en" />
+  <category term="Harry Potter" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the Harry Potter series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">As his fifth year at Hogwarts School of Witchcraft and
+    Wizardry approaches, 15-year-old Harry Potter is in full-blown
+    adolescence, complete with regular outbursts of rage, a nearly
+    debilitating crush, and the blooming of a powerful sense of
+    rebellion. It’s been yet another infuriating and boring
+    summer with the despicable Dursleys, this time with minimal
+    contact from our hero’s non-Muggle friends from school.
+    Harry is feeling especially edgy at the lack of news from the
+    magic world, wondering when the freshly revived evil Lord
+    Voldemort will strike. Returning to Hogwarts will be a
+    relief… or will it? The fifth book in
+    J. K. Rowling’s Harry Potter series follows the
+    darkest year yet for our young wizard, who finds himself
+    knocked down a peg or three after the events of last year.
+    Somehow, over the summer, gossip (usually traced back to the
+    magic world’s newspaper, the Daily Prophet ) has turned
+    Harry’s tragic and heroic encounter with Voldemort at the
+    Triwizard Tournament into an excuse to ridicule and discount
+    the teen. Even Professor Dumbledore, headmaster of the school,
+    has come under scrutiny by the Ministry of Magic, which refuses
+    to officially acknowledge the terrifying truth that Voldemort
+    is back. Enter a particularly loathsome new character: the
+    toadlike and simpering (“ hem, hem” ) Dolores
+    Umbridge, senior undersecretary to the Minister of Magic, who
+    takes over the vacant position of Defense Against Dark Arts
+    teacher—and in no time manages to become the High
+    Inquisitor of Hogwarts, as well. Life isn’t getting any
+    easier for Harry Potter. With an overwhelming course load as
+    the fifth years prepare for their Ordinary Wizarding Levels
+    examinations (O.W.Ls), devastating changes in the Gryffindor
+    Quidditch team lineup, vivid dreams about long hallways and
+    closed doors, and increasing pain in his lightning-shaped scar,
+    Harry’s resilience is sorely tested. Harry Potter and the
+    Order of the Phoenix , more than any of the four previous
+    novels in the series, is a coming-of-age story. Harry faces the
+    thorny transition into adulthood, when adult heroes are
+    revealed to be fallible, and matters that seemed
+    black-and-white suddenly come out in shades of gray. Gone is
+    the wide-eyed innocent, the whiz kid of Sorcerer’s Stone
+    . Here we have an adolescent who’s sometimes sullen,
+    often confused (especially about girls), and always
+    self-questioning. Confronting death again, as well as a
+    startling prophecy, Harry ends his year at Hogwarts exhausted
+    and pensive. Readers, on the other hand, will be energized as
+    they enter yet again the long waiting period for the next title
+    in the marvelous, magical series.</p>
+  </content>
+</entry>

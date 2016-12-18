@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Red Prophet</title>
+  <id>urn:book:c27807ab-a8d4-4c16-96f1-0bae6cfb6115</id>
+  <updated>2016-12-16T11:55:29Z</updated>
+  <link href="./da1a63a5%40book_408.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Red Prophet" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/91cd090e%40author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Orson Scott Card" />
+  <link href="../../Orson%20Scott%20Card/Red%20Prophet%20%28408%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Orson%20Scott%20Card/Red%20Prophet%20%28408%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Orson%20Scott%20Card/Red%20Prophet%20%28408%29/Red%20Prophet%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="299 KB" />
+  <link href="../../Orson%20Scott%20Card/Red%20Prophet%20%28408%29/Red%20Prophet%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="426 KB" />
+  <author>
+    <name>Orson Scott Card</name>
+    <uri>../76bdb722@author_0/91cd090e@author_19_Page_1.xml</uri>
+  </author>
+  <published>2009-11-30T09:37:16Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Macmillan</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Lang:en" />
+  <category term="Tales of Alvin Maker" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Tales of Alvin Maker series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Come here to the magical America that might have been, and
+    marvel as the tale of Alvin Maker unfolds. The seventh son of a
+    seventh son is a boy of mysterious powers, and he is waking to
+    the mysteries of the land and its own chosen people.At the
+    publisher's request, this title is being sold without Digital
+    Rights Management software (DRM) applied.</p>
+  </content>
+</entry>

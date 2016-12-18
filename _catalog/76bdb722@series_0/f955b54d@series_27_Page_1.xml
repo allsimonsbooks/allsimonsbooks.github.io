@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Acts of Caine</title>
+  <id>Calibre2opds::serieslistseries:27</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./f955b54d%40series_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Acts of Caine" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Heroes Die</title>
+    <id>calibre:book:431</id>
+    <updated>2016-12-16T11:55:36Z</updated>
+    <link href="../../Matthew%20Woodring%20Stover/Heroes%20Die%20%28431%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Woodring%20Stover/Heroes%20Die%20%28431%29/Heroes%20Die%20-%20Matthew%20Woodring%20Stover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="853 KB" />
+    <link href="../../Matthew%20Woodring%20Stover/Heroes%20Die%20%28431%29/Heroes%20Die%20-%20Matthew%20Woodring%20Stover.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="942 KB" />
+    <author>
+      <name>Matthew Woodring Stover</name>
+      <uri>../76bdb722@author_0/b43bd2ff@author_21_Page_1.xml</uri>
+    </author>
+    <published>1999-05-29T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Acts of Caine</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:en" />
+    <category term="Acts of Caine" />
+    <summary>Acts of Caine [1]:</summary>
+    <link href="../76bdb722%40book_0/88eb88c2%40book_431.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Blade of Tyshalle</title>
+    <id>calibre:book:429</id>
+    <updated>2016-12-16T11:55:36Z</updated>
+    <link href="../../Matthew%20Woodring%20Stover/Blade%20of%20Tyshalle%20%28429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Woodring%20Stover/Blade%20of%20Tyshalle%20%28429%29/Blade%20of%20Tyshalle%20-%20Matthew%20Woodring%20Stover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="828 KB" />
+    <link href="../../Matthew%20Woodring%20Stover/Blade%20of%20Tyshalle%20%28429%29/Blade%20of%20Tyshalle%20-%20Matthew%20Woodring%20Stover.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Matthew Woodring Stover</name>
+      <uri>../76bdb722@author_0/b43bd2ff@author_21_Page_1.xml</uri>
+    </author>
+    <published>2002-03-26T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Acts of Caine</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Twins" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Acts of Caine" />
+    <summary>Acts of Caine [2]:</summary>
+    <link href="../76bdb722%40book_0/9f2b31b1%40book_429.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Caine Black Knife</title>
+    <id>calibre:book:428</id>
+    <updated>2016-12-16T11:55:36Z</updated>
+    <link href="../../Matthew%20Woodring%20Stover/Caine%20Black%20Knife%20%28428%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Woodring%20Stover/Caine%20Black%20Knife%20%28428%29/Caine%20Black%20Knife%20-%20Matthew%20Woodring%20Stover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="395 KB" />
+    <link href="../../Matthew%20Woodring%20Stover/Caine%20Black%20Knife%20%28428%29/Caine%20Black%20Knife%20-%20Matthew%20Woodring%20Stover.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="560 KB" />
+    <author>
+      <name>Matthew Woodring Stover</name>
+      <uri>../76bdb722@author_0/b43bd2ff@author_21_Page_1.xml</uri>
+    </author>
+    <published>2008-10-14T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Acts of Caine</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:en" />
+    <category term="Acts of Caine" />
+    <summary>Acts of Caine [3]:</summary>
+    <link href="../76bdb722%40book_0/e82c0127%40book_428.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

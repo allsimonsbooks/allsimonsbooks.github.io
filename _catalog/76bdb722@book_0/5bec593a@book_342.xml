@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pyramids</title>
+  <id>urn:book:2c27dc8f-62aa-4167-9391-b2f456d9ccec</id>
+  <updated>2016-12-16T11:55:07Z</updated>
+  <link href="./5bec593a%40book_342.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Pyramids" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/e811b1aa%40author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Terry Pratchett" />
+  <link href="../../Terry%20Pratchett/Pyramids%20%28342%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Terry%20Pratchett/Pyramids%20%28342%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Terry%20Pratchett/Pyramids%20%28342%29/Pyramids%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="400 KB" />
+  <link href="../../Terry%20Pratchett/Pyramids%20%28342%29/Pyramids%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="516 KB" />
+  <author>
+    <name>Terry Pratchett</name>
+    <uri>../76bdb722@author_0/e811b1aa@author_10_Page_1.xml</uri>
+  </author>
+  <published>1989-01-02T08:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="Discworld" />
+  <category term="Lang:en" />
+  <category term="Discworld" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 7 in the Discworld series
+    </p>
+  </content>
+</entry>

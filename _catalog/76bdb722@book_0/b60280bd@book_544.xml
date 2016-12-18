@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Black Prism</title>
+  <id>urn:book:501df7b8-a119-400d-94cc-b9a692ba8e3f</id>
+  <updated>2016-12-16T11:56:13Z</updated>
+  <link href="./b60280bd%40book_544.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Black Prism" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/dd4a1731%40author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brent Weeks" />
+  <link href="../../Brent%20Weeks/The%20Black%20Prism%20%28544%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brent%20Weeks/The%20Black%20Prism%20%28544%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brent%20Weeks/The%20Black%20Prism%20%28544%29/The%20Black%20Prism%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="702 KB" />
+  <link href="../../Brent%20Weeks/The%20Black%20Prism%20%28544%29/The%20Black%20Prism%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="935 KB" />
+  <author>
+    <name>Brent Weeks</name>
+    <uri>../76bdb722@author_0/dd4a1731@author_34_Page_1.xml</uri>
+  </author>
+  <published>2010-08-15T00:55:20Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Orbit</dcterms:publisher>
+  <category term="Fantasy - Epic" />
+  <category term="Fantasy - General" />
+  <category term="American Science Fiction And Fantasy" />
+  <category term="Fantasy fiction" />
+  <category term="Fiction - Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Fantasy" />
+  <category term="Epic" />
+  <category term="Lang:en" />
+  <category term="Lightbringer Series" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Lightbringer Series series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Gavin Guile is the Prism, the most powerful man in the
+    world. He is high priest and emperor, a man whose power, wit,
+    and charm are all that preserves a tenuous peace. But Prisms
+    never last, and Guile knows exactly how long he has left to
+    live: Five years to achieve five impossible goals. But when
+    Guile discovers he has a son, born in a far kingdom after the
+    war that put him in power, he must decide how much he's willing
+    to pay to protect a secret that could tear his world apart.</p>
+  </content>
+</entry>

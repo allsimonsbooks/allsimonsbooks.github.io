@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Shadows of Self</title>
+  <id>urn:book:5e801dc4-5679-4150-8436-4c671b0f5bb8</id>
+  <updated>2016-08-29T10:48:41Z</updated>
+  <link href="./3ac2f8f8%40book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Shadows of Self" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/4801887d%40author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brandon Sanderson" />
+  <link href="../../Brandon%20Sanderson/Shadows%20of%20Self%20%286%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/Shadows%20of%20Self%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/Shadows%20of%20Self%20%286%29/Shadows%20of%20Self%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+  <link href="../../Brandon%20Sanderson/Shadows%20of%20Self%20%286%29/Shadows%20of%20Self%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="8 MB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Mistborn" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the Mistborn series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      The #1
+      <i>New York Times</i>
+      bestselling author returns to the world
+    of
+      <i>Mistborn</i>
+      with his first novel in the series since
+      <i>The Alloy of Law</i>
+      .
+    </p>
+    <p xmlns="">
+      With
+      <i>The Alloy of Law</i>
+      , Brandon Sanderson surprised readers
+    with a
+      <i>New York Times</i>
+      bestselling spinoff of his Mistborn
+    books, set after the action of the trilogy, in a period
+    corresponding to late 19th-century America.
+    </p>
+    <p xmlns="">The trilogy's heroes are now figures of myth and legend,
+    even objects of religious veneration. They are succeeded by
+    wonderful new characters, chief among them Waxillium Ladrian,
+    known as Wax, hereditary Lord of House Ladrian but also, until
+    recently, a lawman in the ungoverned frontier region known as
+    the Roughs. There he worked with his eccentric but effective
+    buddy, Wayne. They are "twinborn," meaning they are able to use
+    both Allomantic and Feruchemical magic.</p>
+    <p xmlns="">
+      <i>Shadows of Self</i>
+      shows Mistborn's society evolving as
+    technology and magic mix, the economy grows, democracy...
+    </p>
+  </content>
+</entry>

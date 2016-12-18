@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Changes</title>
+  <id>urn:book:aaeb2b59-ef59-4969-8c29-6249c819b305</id>
+  <updated>2016-12-18T09:06:49Z</updated>
+  <link href="./8f864cdb%40book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Changes" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/5a35b3d3%40author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Changes%20%28435%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Changes%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Changes%20%28435%29/Changes%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="457 KB" />
+  <link href="../../Jim%20Butcher/Changes%20%28435%29/Changes%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="643 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../76bdb722@author_0/5a35b3d3@author_23_Page_1.xml</uri>
+  </author>
+  <published>2010-04-15T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Audio</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Dresden Files" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 12 in the Dresden Files series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>Unabridged CDs, 13 CDs, 16 hours</strong>
+        <br />
+      </p>
+      <p>
+        Read by James Marsters
+        <br />
+      </p>
+      <p>
+        The new novel in the #1
+        <em>New York Times</em>
+        -bestselling Dresden Files.
+      </p>
+      <p>Long ago, Susan Rodriguez was Harry Dresden's lover-until
+      she was attacked by his enemies, leaving her torn between her
+      own humanity and the bloodlust of the vampiric Red Court.
+      Susan then disappeared to South America, where she could
+      fight both her savage gift and those who cursed her with
+      it.</p>
+      <p>Now Arianna Ortega, Duchess of the Red Court, has
+      discovered a secret Susan has long kept, and she plans to use
+      it-against Harry. To prevail this time, he may have no choice
+      but to embrace the raging fury of his own untapped dark
+      power. Because Harry's not fighting to save the world...</p>
+      <p>He's fighting to save his child.</p>
+      <h3>About the Author</h3>
+      <p>A martial arts enthusiast whose resume includes a long
+      list of skills rendered obsolete at least two hundred years
+      ago, Jim Butcher turned to writing as a career because
+      anything else probably would have driven him insane. He lives
+      with his wife, his son and a ferocious guard dog.</p>
+    </div>
+  </content>
+</entry>

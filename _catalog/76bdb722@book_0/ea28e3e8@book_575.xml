@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Fate of Ten</title>
+  <id>urn:book:3b07756d-72a5-45ef-ad9a-5d3e6465b783</id>
+  <updated>2016-12-18T09:52:03Z</updated>
+  <link href="./ea28e3e8%40book_575.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Fate of Ten" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/172149f%40author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pittacus Lore" />
+  <link href="../../Pittacus%20Lore/The%20Fate%20of%20Ten%20%28575%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Pittacus%20Lore/The%20Fate%20of%20Ten%20%28575%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Pittacus%20Lore/The%20Fate%20of%20Ten%20%28575%29/The%20Fate%20of%20Ten%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="754 KB" />
+  <link href="../../Pittacus%20Lore/The%20Fate%20of%20Ten%20%28575%29/The%20Fate%20of%20Ten%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="918 KB" />
+  <author>
+    <name>Pittacus Lore</name>
+    <uri>../76bdb722@author_0/172149f@author_16_Page_1.xml</uri>
+  </author>
+  <published>2015-09-01T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Lorien Legacies" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 6 in the Lorien Legacies series
+    </p>
+  </content>
+</entry>

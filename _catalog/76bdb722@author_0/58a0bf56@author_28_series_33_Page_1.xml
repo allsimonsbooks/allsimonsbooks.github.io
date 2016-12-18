@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: Troy</title>
+  <id>Calibre2opds:author:28series:33</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./58a0bf56%40author_28_series_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: Troy" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./cde76a5b%40author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <entry>
+    <title>1 - Lord of the Silver Bow</title>
+    <id>calibre:book:476</id>
+    <updated>2016-12-16T11:55:51Z</updated>
+    <link href="../../David%20Gemmell/Lord%20of%20the%20Silver%20Bow%20%28476%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Lord%20of%20the%20Silver%20Bow%20%28476%29/Lord%20of%20the%20Silver%20Bow%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="474 KB" />
+    <link href="../../David%20Gemmell/Lord%20of%20the%20Silver%20Bow%20%28476%29/Lord%20of%20the%20Silver%20Bow%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="673 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>2005-09-19T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ballantine Books</dcterms:publisher>
+    <category term="Turkey" />
+    <category term="War stories" />
+    <category term="Greeks" />
+    <category term="War &amp; Military" />
+    <category term="Epic" />
+    <category term="Fantasy - Epic" />
+    <category term="Trojan War" />
+    <category term="Historical fiction" />
+    <category term="Fantasy - Historical" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Greeks - Turkey" />
+    <category term="Historical" />
+    <category term="Troy (Extinct city)" />
+    <category term="Fantasy fiction" />
+    <category term="Fantasy" />
+    <category term="Historical - General" />
+    <category term="American Historical Fiction" />
+    <category term="Young Adult" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Feuds" />
+    <category term="Hector (Legendary character)" />
+    <category term="War" />
+    <category term="Sailors" />
+    <category term="Revenge" />
+    <category term="Women priests" />
+    <category term="Science Fiction" />
+    <category term="Adventure" />
+    <category term="Historical fantasy fiction" />
+    <category term="Andromache (Legendary character)" />
+    <category term="Ship captains" />
+    <category term="Lang:en" />
+    <category term="Troy" />
+    <summary>Troy [1]:</summary>
+    <link href="../76bdb722%40book_0/72e3d865%40book_476.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Shield of Thunder</title>
+    <id>calibre:book:474</id>
+    <updated>2016-12-16T11:55:51Z</updated>
+    <link href="../../David%20Gemmell/Shield%20of%20Thunder%20%28474%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Shield%20of%20Thunder%20%28474%29/Shield%20of%20Thunder%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
+    <link href="../../David%20Gemmell/Shield%20of%20Thunder%20%28474%29/Shield%20of%20Thunder%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="692 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>2006-01-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ballantine Books</dcterms:publisher>
+    <category term="Turkey" />
+    <category term="War stories" />
+    <category term="Greeks" />
+    <category term="War &amp; Military" />
+    <category term="Epic" />
+    <category term="Fantasy - Epic" />
+    <category term="Trojan War" />
+    <category term="Historical fiction" />
+    <category term="Fantasy - Historical" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Greeks - Turkey" />
+    <category term="Historical" />
+    <category term="Troy (Extinct city)" />
+    <category term="Fantasy fiction" />
+    <category term="Fantasy" />
+    <category term="Historical - General" />
+    <category term="American Historical Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <category term="Troy" />
+    <summary>Troy [2]:</summary>
+    <link href="../76bdb722%40book_0/9cedb949%40book_474.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Fall of Kings</title>
+    <id>calibre:book:475</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Fall%20of%20Kings%20%28475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Fall%20of%20Kings%20%28475%29/Fall%20of%20Kings%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="455 KB" />
+    <link href="../../David%20Gemmell/Fall%20of%20Kings%20%28475%29/Fall%20of%20Kings%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="710 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>2006-01-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ballantine Books</dcterms:publisher>
+    <category term="Turkey" />
+    <category term="War stories" />
+    <category term="Greeks" />
+    <category term="Trojan War" />
+    <category term="Historical fiction" />
+    <category term="Fiction" />
+    <category term="Greeks - Turkey" />
+    <category term="Historical" />
+    <category term="Troy (Extinct city)" />
+    <category term="Fantasy fiction" />
+    <category term="Fantasy" />
+    <category term="Historical - General" />
+    <category term="American Historical Fiction" />
+    <category term="General" />
+    <category term="War" />
+    <category term="Science Fiction" />
+    <category term="Adventure" />
+    <category term="Fiction - Historical" />
+    <category term="Lang:en" />
+    <category term="Troy" />
+    <summary>Troy [3]:</summary>
+    <link href="../76bdb722%40book_0/ebea89df%40book_475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

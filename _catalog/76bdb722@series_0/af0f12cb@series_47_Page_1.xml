@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Night Angel Trilogy</title>
+  <id>Calibre2opds::serieslistseries:47</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./af0f12cb%40series_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Night Angel Trilogy" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>Perfect Shadow</title>
+    <id>calibre:book:540</id>
+    <updated>2016-12-16T11:56:13Z</updated>
+    <link href="../../Brent%20Weeks/Perfect%20Shadow%20%28540%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brent%20Weeks/Perfect%20Shadow%20%28540%29/Perfect%20Shadow%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="124 KB" />
+    <link href="../../Brent%20Weeks/Perfect%20Shadow%20%28540%29/Perfect%20Shadow%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="173 KB" />
+    <author>
+      <name>Brent Weeks</name>
+      <uri>../76bdb722@author_0/dd4a1731@author_34_Page_1.xml</uri>
+    </author>
+    <published>2011-06-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette Audio</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Lang:en" />
+    <category term="Night Angel Trilogy" />
+    <summary>Night Angel Trilogy:</summary>
+    <link href="../76bdb722%40book_0/b16f44a4%40book_540.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1 - The Way of Shadows</title>
+    <id>calibre:book:542</id>
+    <updated>2016-12-16T11:56:12Z</updated>
+    <link href="../../Brent%20Weeks/The%20Way%20of%20Shadows%20%28542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brent%20Weeks/The%20Way%20of%20Shadows%20%28542%29/The%20Way%20of%20Shadows%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="558 KB" />
+    <link href="../../Brent%20Weeks/The%20Way%20of%20Shadows%20%28542%29/The%20Way%20of%20Shadows%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="750 KB" />
+    <author>
+      <name>Brent Weeks</name>
+      <uri>../76bdb722@author_0/dd4a1731@author_34_Page_1.xml</uri>
+    </author>
+    <published>2008-10-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orbit</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Adventure" />
+    <category term="Science Fiction" />
+    <category term="Lang:en" />
+    <category term="Night Angel Trilogy" />
+    <summary>Night Angel Trilogy [1]:</summary>
+    <link href="../76bdb722%40book_0/5f612588%40book_542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Shadow's Edge</title>
+    <id>calibre:book:541</id>
+    <updated>2016-12-16T11:56:13Z</updated>
+    <link href="../../Brent%20Weeks/Shadow%27s%20Edge%20%28541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brent%20Weeks/Shadow%27s%20Edge%20%28541%29/Shadow%27s%20Edge%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="709 KB" />
+    <link href="../../Brent%20Weeks/Shadow%27s%20Edge%20%28541%29/Shadow%27s%20Edge%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="897 KB" />
+    <author>
+      <name>Brent Weeks</name>
+      <uri>../76bdb722@author_0/dd4a1731@author_34_Page_1.xml</uri>
+    </author>
+    <published>2008-11-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orbit</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Romance" />
+    <category term="Adventure" />
+    <category term="Science Fiction" />
+    <category term="Lang:en" />
+    <category term="Night Angel Trilogy" />
+    <summary>Night Angel Trilogy [2]:</summary>
+    <link href="../76bdb722%40book_0/c6687432%40book_541.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Beyond the Shadows</title>
+    <id>calibre:book:539</id>
+    <updated>2016-12-16T11:56:12Z</updated>
+    <link href="../../Brent%20Weeks/Beyond%20the%20Shadows%20%28539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brent%20Weeks/Beyond%20the%20Shadows%20%28539%29/Beyond%20the%20Shadows%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="820 KB" />
+    <link href="../../Brent%20Weeks/Beyond%20the%20Shadows%20%28539%29/Beyond%20the%20Shadows%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="996 KB" />
+    <author>
+      <name>Brent Weeks</name>
+      <uri>../76bdb722@author_0/dd4a1731@author_34_Page_1.xml</uri>
+    </author>
+    <published>2008-12-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orbit</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Romance" />
+    <category term="Adventure" />
+    <category term="Science Fiction" />
+    <category term="Lang:en" />
+    <category term="Night Angel Trilogy" />
+    <summary>Night Angel Trilogy [3]:</summary>
+    <link href="../76bdb722%40book_0/87f26ac7%40book_539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

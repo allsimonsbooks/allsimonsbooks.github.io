@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Visitors</title>
+  <id>urn:book:835f456c-5d0b-417e-aef5-b2c6169132ae</id>
+  <updated>2016-12-16T11:55:36Z</updated>
+  <link href="./53be4f75%40book_417.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Visitors" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/91cd090e%40author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Orson Scott Card" />
+  <link href="../../Orson%20Scott%20Card/Visitors%20%28417%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Orson%20Scott%20Card/Visitors%20%28417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Orson%20Scott%20Card/Visitors%20%28417%29/Visitors%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Orson%20Scott%20Card/Visitors%20%28417%29/Visitors%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Orson Scott Card</name>
+    <uri>../76bdb722@author_0/91cd090e@author_19_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Simon Pulse</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Pathfinder" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Pathfinder series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      From the internationally bestselling author of
+      <i>Ender's Game</i>
+      comes the riveting finale to the story of
+    Rigg, a teenager who possesses a secret talent that allows him
+    to see the paths of people's pasts.
+      <br />
+      In
+      <i>Pathfinder</i>
+      , Rigg joined forces with another teen with
+    special talents on a quest to find Rigg's sister and discover
+    the true depth and significance of their powers. Then Rigg's
+    story continued in
+      <i>Ruins</i>
+      as he was tasked to decipher the paths of the past
+    before the arrival of a destructive force with deadly
+    intentions. Now, in
+      <i>Visitors</i>
+      , Rigg's journey comes to an epic and explosive
+    conclusion as everything that has been building up finally
+    comes to pass, and Rigg is forced to put his powers to the test
+    in order to save his world and end the war once and for
+    all.
+    </p>
+  </content>
+</entry>

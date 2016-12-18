@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>A War of Gifts: An Ender Story (Short Story)</title>
+  <id>urn:book:20552b15-6641-42e9-a121-ae6fb8b50e3a</id>
+  <updated>2016-12-16T11:55:34Z</updated>
+  <link href="./7ffed8af%40book_423.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A War of Gifts: An Ender Story (Short Story)" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/91cd090e%40author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Orson Scott Card" />
+  <link href="../../Orson%20Scott%20Card/A%20War%20of%20Gifts_%20An%20Ender%20Story%20%28Sho%20%28423%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Orson%20Scott%20Card/A%20War%20of%20Gifts_%20An%20Ender%20Story%20%28Sho%20%28423%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Orson%20Scott%20Card/A%20War%20of%20Gifts_%20An%20Ender%20Story%20%28Sho%20%28423%29/A%20War%20of%20Gifts_%20An%20Ender%20Story%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="84 KB" />
+  <link href="../../Orson%20Scott%20Card/A%20War%20of%20Gifts_%20An%20Ender%20Story%20%28Sho%20%28423%29/A%20War%20of%20Gifts_%20An%20Ender%20Story%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="134 KB" />
+  <author>
+    <name>Orson Scott Card</name>
+    <uri>../76bdb722@author_0/91cd090e@author_19_Page_1.xml</uri>
+  </author>
+  <published>2010-03-07T07:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tor Science Fiction</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Fiction - Science Fiction" />
+  <category term="Science Fiction - General" />
+  <category term="Science Fiction - Adventure" />
+  <category term="American Science Fiction And Fantasy" />
+  <category term="Science Fiction And Fantasy" />
+  <category term="Sagas" />
+  <category term="Lang:en" />
+  <category term="Ender Saga" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 0 in the Ender Saga series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Orson Scott Card offers a Christmas gift to his millions of
+    fans with this short novel set during Ender's first years at
+    the Battle School where it is forbidden to celebrate religious
+    holidays. The children come from many nations, many religions;
+    while they are being trained for war, religious conflict
+    between them is not on the curriculum. But Dink Meeker, one of
+    the older students, doesn't see it that way. He thinks that
+    giving gifts isn't exactly a religious observation, and on
+    Sinterklaas Day he tucks a present into another student's
+    shoe.This small act of rebellion sets off a battle royal
+    between the students and the staff, but some surprising
+    alliances form when Ender comes up against a new student, Zeck
+    Morgan. The War over Santa Claus will force everyone to make a
+    choice.</p>
+  </content>
+</entry>

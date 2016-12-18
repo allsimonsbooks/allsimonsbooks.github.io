@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Firefight</title>
+  <id>urn:book:2f425771-7a22-4d8f-83e7-24e3ad2290ad</id>
+  <updated>2016-12-16T11:56:15Z</updated>
+  <link href="./df734573%40book_551.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Firefight" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/4801887d%40author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brandon Sanderson" />
+  <link href="../../Brandon%20Sanderson/Firefight%20%28551%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/Firefight%20%28551%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/Firefight%20%28551%29/Firefight%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Brandon%20Sanderson/Firefight%20%28551%29/Firefight%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="541 KB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+  </author>
+  <published>2015-01-06T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Delacorte Press</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Young Adult" />
+  <category term="Science Fiction" />
+  <category term="Adventure" />
+  <category term="Lang:en" />
+  <category term="Reckoners" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Reckoners series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p style="margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">
+        From
+      the #1
+        <i>New York Times</i>
+        bestselling author of Words of Radiance
+      coauthor of Robert Jordan's Wheel of Time series, and creator
+      of the internationally bestselling Mistborn Trilogy, Brandon
+      Sanderson presents the second book in the Reckoners series:
+      Firefight, the sequel to the #1 bestseller Steelheart.
+      </p>
+      <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">
+        <br />
+      </p>
+      <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">They
+      told David it was impossible...that even the Reckoners had
+      never killed a High Epic. Yet, Steelheart...invincible,
+      immortal, unconquerable...is dead. And he died by David's
+      hand.</p>
+      <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">
+        <br />
+      </p>
+      <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Eliminating
+      Steelheart was supposed to make life more simple. Instead, it
+      only made David realize he has questions. Big ones. And
+      there's no one in Newcago who can give him the answers he
+      needs.</p>
+      <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">
+        <br />
+      </p>
+      <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Babylon
+      Restored, the old borough of Manhattan, has possibilities,
+      though. Ruled by the mysterious High Epic, Regalia, David is
+      sure Babylon Restored will lead him to what he needs to find.
+      And while entering another city oppressed by a High Epic
+      despot is a gamble, David's willing to risk it. Because
+      killing Steelheart left a hole in David's heart. A hole where
+      his thirst for vengeance once lived. Somehow, he filled that
+      hole with another Epic...Firefight. And he's willing to go on
+      a quest darker, and more dangerous even, than the fight
+      against Steelheart to find her, and to get his answers.</p>
+    </div>
+  </content>
+</entry>

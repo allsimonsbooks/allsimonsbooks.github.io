@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Warded Man</title>
+  <id>urn:book:b07fe252-7047-48e4-bc86-7934c15b56d4</id>
+  <updated>2016-12-16T11:55:26Z</updated>
+  <link href="./d4c1eb97%40book_400.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Warded Man" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/76752409%40author_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Peter V. Brett" />
+  <link href="../../Peter%20V.%20Brett/The%20Warded%20Man%20%28400%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Peter%20V.%20Brett/The%20Warded%20Man%20%28400%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Peter%20V.%20Brett/The%20Warded%20Man%20%28400%29/The%20Warded%20Man%20-%20Peter%20V.%20Brett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Peter%20V.%20Brett/The%20Warded%20Man%20%28400%29/The%20Warded%20Man%20-%20Peter%20V.%20Brett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="736 KB" />
+  <author>
+    <name>Peter V. Brett</name>
+    <uri>../76bdb722@author_0/76752409@author_17_Page_1.xml</uri>
+  </author>
+  <published>2009-02-26T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Demon Cycle" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Demon Cycle series
+    </p>
+  </content>
+</entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: The Stormlight Archive</title>
+  <id>Calibre2opds:author:3series:50</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./9eff25f9%40author_3_series_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: The Stormlight Archive" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./4801887d%40author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brandon Sanderson" />
+  <entry>
+    <title>1 - The Way of Kings</title>
+    <id>calibre:book:549</id>
+    <updated>2016-12-16T11:56:15Z</updated>
+    <link href="../../Brandon%20Sanderson/The%20Way%20of%20Kings%20%28549%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/The%20Way%20of%20Kings%20%28549%29/The%20Way%20of%20Kings%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <link href="../../Brandon%20Sanderson/The%20Way%20of%20Kings%20%28549%29/The%20Way%20of%20Kings%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="4 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2010-08-31T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Books</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Azizex666" />
+    <category term="Lang:en" />
+    <category term="Stormlight Archive" />
+    <summary>The Stormlight Archive [1]:</summary>
+    <link href="../76bdb722%40book_0/c8b3fc00%40book_549.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Words of Radiance</title>
+    <id>calibre:book:545</id>
+    <updated>2016-12-16T11:56:15Z</updated>
+    <link href="../../Brandon%20Sanderson/Words%20of%20Radiance%20%28545%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Words%20of%20Radiance%20%28545%29/Words%20of%20Radiance%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <link href="../../Brandon%20Sanderson/Words%20of%20Radiance%20%28545%29/Words%20of%20Radiance%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="7 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2014-03-04T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Stormlight Archive" />
+    <summary>The Stormlight Archive [2]:</summary>
+    <link href="../76bdb722%40book_0/c105b02b%40book_545.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

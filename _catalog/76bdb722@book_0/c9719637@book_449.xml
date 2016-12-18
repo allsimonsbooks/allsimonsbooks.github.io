@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cursor's Fury</title>
+  <id>urn:book:573b47d4-50cb-4b4c-b113-99defb0fd669</id>
+  <updated>2016-12-16T11:55:42Z</updated>
+  <link href="./c9719637%40book_449.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cursor's Fury" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/5a35b3d3%40author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Cursor%27s%20Fury%20%28449%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Cursor%27s%20Fury%20%28449%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Cursor%27s%20Fury%20%28449%29/Cursor%27s%20Fury%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="532 KB" />
+  <link href="../../Jim%20Butcher/Cursor%27s%20Fury%20%28449%29/Cursor%27s%20Fury%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="737 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../76bdb722@author_0/5a35b3d3@author_23_Page_1.xml</uri>
+  </author>
+  <published>2006-12-05T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Ace</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Adventure" />
+  <category term="Adult" />
+  <category term="War" />
+  <category term="Lang:en" />
+  <category term="Codex Alera" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Codex Alera series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        In his acclaimed Codex Alera novels, bestselling author
+      Jim Butcher has created a fascinating world in which the
+      powerful forces of nature take physical form. But even magic
+      cannot sway the corruption that threatens to destroy the
+      realm of Alera once and for all.
+        <br />
+      </p>
+      <h3>From Publishers Weekly</h3>
+      <p>
+        Butcher deftly mixes military fantasy and political
+      intrigue in the rollicking third Codex Alera book (after
+      2005's
+        <em>Academ's Fury</em>
+        ). Gaius Sextus, the First Lord of
+      Alera, plants his nephew Tavi in a new legion, where Tavi can
+      gather information on the rebellious High Lord of Kalare.
+      Tavi, now a full-fledged Cursor, or spy, infiltrates the
+      legion under the assumed identity of an officer, a station
+      the green young man has not yet actually achieved. Treachery
+      from a supposed ally opens the legion to attack from its
+      bestial enemies, the Canim, incapacitating the captain and
+      catapulting Tavi to the rank of the legion's commanding
+      officer. Cut off from contact with the First Lord and with
+      few seasoned officers to guide him, he must lead the troops
+      in a defense of the Imperium against a horde of frenzied
+      Canim warriors set on annihilating the Aleri people. Readers
+      will cheer Tavi every step of the way.
+        <em>(Dec.)</em>
+        <br />
+        Copyright © Reed Business Information, a division
+      of Reed Elsevier Inc. All rights reserved.
+      </p>
+      <h3>From Booklist</h3>
+      <p>
+        The third Codex Alera volume opens with Gaius, first lord
+      of Alera, recovered from the murderous attack in
+        <em>Academ's Fury</em>
+        (2005) and seeking two would-be first
+      lords' destruction. Tavi, young protagonist of the preceding
+      books, he sends off for legionary training. Kalare, one of
+      Gaius' targets, then takes hostages, depriving Gaius of much
+      support. Gaius' personal spy Amara is dispatched to effect a
+      rescue, for which she needs the help of Lady Aquitaine, close
+      kin to the other would-be and one who never balks at
+      disposing of those in her way. Sequences of Tavi's basic
+      training alternate with Amara's rescue mission, providing
+      lots of action.
+        <em>Frieda Murray</em>
+        <br />
+        <em>Copyright © American Library Association. All rights
+      reserved</em>
+      </p>
+    </div>
+  </content>
+</entry>

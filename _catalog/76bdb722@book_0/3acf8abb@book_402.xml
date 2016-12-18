@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Name of the Wind</title>
+  <id>urn:book:371b3ed6-1e45-45ee-ad62-954b273ef6e9</id>
+  <updated>2016-12-16T11:55:27Z</updated>
+  <link href="./3acf8abb%40book_402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Name of the Wind" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/e6ca3998%40author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Patrick Rothfuss" />
+  <link href="../../Patrick%20Rothfuss/The%20Name%20of%20the%20Wind%20%28402%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Patrick%20Rothfuss/The%20Name%20of%20the%20Wind%20%28402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Patrick%20Rothfuss/The%20Name%20of%20the%20Wind%20%28402%29/The%20Name%20of%20the%20Wind%20-%20Patrick%20Rothfuss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="850 KB" />
+  <link href="../../Patrick%20Rothfuss/The%20Name%20of%20the%20Wind%20%28402%29/The%20Name%20of%20the%20Wind%20-%20Patrick%20Rothfuss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Patrick Rothfuss</name>
+    <uri>../76bdb722@author_0/e6ca3998@author_18_Page_1.xml</uri>
+  </author>
+  <published>2009-04-07T07:02:52Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Daw Books</dcterms:publisher>
+  <category term="Fantasy - Epic" />
+  <category term="Fantasy - General" />
+  <category term="Epic" />
+  <category term="Magic" />
+  <category term="American Science Fiction And Fantasy" />
+  <category term="Fantasy fiction" />
+  <category term="Fiction - Fantasy" />
+  <category term="Fiction" />
+  <category term="Fantasy" />
+  <category term="Magicians" />
+  <category term="General" />
+  <category term="Lang:en" />
+  <category term="Kingkiller Chronicle" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Kingkiller Chronicle series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">EDITORIAL REVIEW: **The *New York Times* bestselling
+    novel.** This is the riveting first-person narrative of Kvothe,
+    a young man who grows to be one of the most notorious magicians
+    his world has ever seen. From his childhood in a troupe of
+    traveling players, to years spent as a near-feral orphan in a
+    crime-riddled city, to his daringly brazen yet successful bid
+    to enter a legendary school of magic, *The Name of the Wind* is
+    a masterpiece that transports readers into the body and mind of
+    a wizard.</p>
+  </content>
+</entry>

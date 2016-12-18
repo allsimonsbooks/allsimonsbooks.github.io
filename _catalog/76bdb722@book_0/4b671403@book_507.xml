@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Complete Chronicles of Jerusalem Man</title>
+  <id>urn:book:77919870-2276-484a-b098-c00a45f533d8</id>
+  <updated>2016-12-16T11:56:00Z</updated>
+  <link href="./4b671403%40book_507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Complete Chronicles of Jerusalem Man" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/cde76a5b%40author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/Complete%20Chronicles%20of%20Jerusale%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="774 KB" />
+  <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/Complete%20Chronicles%20of%20Jerusale%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>David Gemmell</name>
+    <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+  </author>
+  <published>1995-01-02T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">An omnibus edition of three novels featuring Jon Shannow, a
+    brigand-killer who seeks the lost city of Jerusalem centuries
+    after its fall. Contains WOLF IN SHADOW, THE LAST GUARDIAN and
+    BLOODSTONE. </p>
+  </content>
+</entry>

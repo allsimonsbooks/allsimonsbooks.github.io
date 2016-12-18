@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Infinity Blade</title>
+  <id>Calibre2opds::serieslistseries:54</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./2f1d7230%40series_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Infinity Blade" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Infinity Blade - Awakening</title>
+    <id>calibre:book:562</id>
+    <updated>2016-12-16T11:56:22Z</updated>
+    <link href="../../Brandon%20Sanderson/Infinity%20Blade%20-%20Awakening%20%28562%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Infinity%20Blade%20-%20Awakening%20%28562%29/Infinity%20Blade%20-%20Awakening%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="406 KB" />
+    <link href="../../Brandon%20Sanderson/Infinity%20Blade%20-%20Awakening%20%28562%29/Infinity%20Blade%20-%20Awakening%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="357 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2011-10-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>ChAIR Entertainment Group, LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Infinity Blade" />
+    <summary>Infinity Blade [1]:</summary>
+    <link href="../76bdb722%40book_0/6d57470a%40book_562.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Infinity Blade - Redemption</title>
+    <id>calibre:book:560</id>
+    <updated>2016-12-16T11:56:21Z</updated>
+    <link href="../../Brandon%20Sanderson/Infinity%20Blade%20-%20Redemption%20%28560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Infinity%20Blade%20-%20Redemption%20%28560%29/Infinity%20Blade%20-%20Redemption%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="577 KB" />
+    <link href="../../Brandon%20Sanderson/Infinity%20Blade%20-%20Redemption%20%28560%29/Infinity%20Blade%20-%20Redemption%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="638 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2013-09-07T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="Infinity Blade" />
+    <summary>Infinity Blade [2]:</summary>
+    <link href="../76bdb722%40book_0/83592626%40book_560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

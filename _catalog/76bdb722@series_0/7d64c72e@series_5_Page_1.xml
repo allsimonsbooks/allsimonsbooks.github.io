@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>A Series of Unfortunate Events</title>
+  <id>Calibre2opds::serieslistseries:5</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./7d64c72e%40series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="A Series of Unfortunate Events" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - The Bad Beginning</title>
+    <id>calibre:book:22</id>
+    <updated>2016-10-09T05:41:23Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Bad%20Beginning%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Bad%20Beginning%20%2822%29/The%20Bad%20Beginning%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Bad%20Beginning%20%2822%29/The%20Bad%20Beginning%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>1999-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [1]:</summary>
+    <link href="../76bdb722%40book_0/cde5c3df%40book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - The Reptile Room</title>
+    <id>calibre:book:19</id>
+    <updated>2016-10-09T05:41:25Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Reptile%20Room%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Reptile%20Room%20%2819%29/The%20Reptile%20Room%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Reptile%20Room%20%2819%29/The%20Reptile%20Room%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>1999-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [2]:</summary>
+    <link href="../76bdb722%40book_0/711a4994%40book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - The Wide Window</title>
+    <id>calibre:book:16</id>
+    <updated>2016-10-09T05:41:27Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Wide%20Window%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Wide%20Window%20%2816%29/The%20Wide%20Window%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Wide%20Window%20%2816%29/The%20Wide%20Window%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>1999-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [3]:</summary>
+    <link href="../76bdb722%40book_0/e1a55405%40book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - The Miserable Mill</title>
+    <id>calibre:book:21</id>
+    <updated>2016-10-09T05:41:38Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Miserable%20Mill%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Miserable%20Mill%20%2821%29/The%20Miserable%20Mill%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Miserable%20Mill%20%2821%29/The%20Miserable%20Mill%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>1999-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [4]:</summary>
+    <link href="../76bdb722%40book_0/54ec9265%40book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - The Austere Academy</title>
+    <id>calibre:book:15</id>
+    <updated>2016-10-09T05:41:39Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Austere%20Academy%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Austere%20Academy%20%2815%29/The%20Austere%20Academy%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Austere%20Academy%20%2815%29/The%20Austere%20Academy%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2000-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [5]:</summary>
+    <link href="../76bdb722%40book_0/78ac05bf%40book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>6 - The Ersatz Elevator</title>
+    <id>calibre:book:25</id>
+    <updated>2016-10-09T05:41:41Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Ersatz%20Elevator%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Ersatz%20Elevator%20%2825%29/The%20Ersatz%20Elevator%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Ersatz%20Elevator%20%2825%29/The%20Ersatz%20Elevator%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2001-02-08T05:44:41Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [6]:</summary>
+    <link href="../76bdb722%40book_0/5381567c%40book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - The Vile Village</title>
+    <id>calibre:book:17</id>
+    <updated>2016-10-09T05:41:53Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Vile%20Village%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Vile%20Village%20%2817%29/The%20Vile%20Village%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Vile%20Village%20%2817%29/The%20Vile%20Village%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2001-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [7]:</summary>
+    <link href="../76bdb722%40book_0/96a26493%40book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>8 - The Hostile Hospital</title>
+    <id>calibre:book:23</id>
+    <updated>2016-10-09T05:41:54Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Hostile%20Hospital%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Hostile%20Hospital%20%2823%29/The%20Hostile%20Hospital%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Hostile%20Hospital%20%2823%29/The%20Hostile%20Hospital%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2001-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [8]:</summary>
+    <link href="../76bdb722%40book_0/bae2f349%40book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>9 - The Carnivorous Carnival</title>
+    <id>calibre:book:27</id>
+    <updated>2016-10-09T05:41:56Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Carnivorous%20Carnival%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Carnivorous%20Carnival%20%2827%29/The%20Carnivorous%20Carnival%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Carnivorous%20Carnival%20%2827%29/The%20Carnivorous%20Carnival%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2002-07-15T05:45:32Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [9]:</summary>
+    <link href="../76bdb722%40book_0/bd8f3750%40book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>10 - The Slippery Slope</title>
+    <id>calibre:book:18</id>
+    <updated>2016-10-09T05:42:04Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Slippery%20Slope%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Slippery%20Slope%20%2818%29/The%20Slippery%20Slope%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Slippery%20Slope%20%2818%29/The%20Slippery%20Slope%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2003-07-15T05:43:56Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [10]:</summary>
+    <link href="../76bdb722%40book_0/61d7902%40book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>11 - The Grim Grotto</title>
+    <id>calibre:book:24</id>
+    <updated>2016-10-09T05:41:11Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Grim%20Grotto%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Grim%20Grotto%20%2824%29/The%20Grim%20Grotto%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Grim%20Grotto%20%2824%29/The%20Grim%20Grotto%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2004-07-15T05:44:19Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [11]:</summary>
+    <link href="../76bdb722%40book_0/248666ea%40book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>12 - The Penultimate Peril</title>
+    <id>calibre:book:20</id>
+    <updated>2016-10-09T05:41:12Z</updated>
+    <link href="../../Lemony%20Snicket/The%20Penultimate%20Peril%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20Penultimate%20Peril%20%2820%29/The%20Penultimate%20Peril%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20Penultimate%20Peril%20%2820%29/The%20Penultimate%20Peril%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2005-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [12]:</summary>
+    <link href="../76bdb722%40book_0/23eba2f3%40book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>13 - The End</title>
+    <id>calibre:book:26</id>
+    <updated>2016-10-09T05:41:13Z</updated>
+    <link href="../../Lemony%20Snicket/The%20End%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/The%20End%20%2826%29/The%20End%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/The%20End%20%2826%29/The%20End%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2006-06-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Children's 4-7" />
+    <category term="Lang:en" />
+    <category term="Series of Unfortunate Events" />
+    <summary>A Series of Unfortunate Events [13]:</summary>
+    <link href="../76bdb722%40book_0/ca8807c6%40book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

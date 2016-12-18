@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Waste Lands</title>
+  <id>urn:book:c28c58b6-396c-4e74-89cb-3f96907026e4</id>
+  <updated>2016-12-16T11:55:12Z</updated>
+  <link href="./a2228165%40book_358.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Waste Lands" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/61fd086%40author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Stephen King" />
+  <link href="../../Stephen%20King/The%20Waste%20Lands%20%28358%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Stephen%20King/The%20Waste%20Lands%20%28358%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Stephen%20King/The%20Waste%20Lands%20%28358%29/The%20Waste%20Lands%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Stephen%20King/The%20Waste%20Lands%20%28358%29/The%20Waste%20Lands%20-%20Stephen%20King.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="2 MB" />
+  <author>
+    <name>Stephen King</name>
+    <uri>../76bdb722@author_0/61fd086@author_12_Page_1.xml</uri>
+  </author>
+  <published>2005-11-07T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Hodder &amp; stoughton</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Dark Tower" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Dark Tower series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Roland, the Last Gunslinger, is moving ever closer to the
+    Dark Tower, which haunts his dreams and nightmares. Pursued by
+    the Ageless Stranger, he and his friends follow the perilous
+    path to Lud, an urban wasteland. And crossing a desert of
+    damnation in this macabre new world, revelations begin to
+    unfold about who - and what - is driving him forward. A blend
+    of riveting action and powerful drama, The Waste Lands leaves
+    readers breathlessly awaiting the next chapter. And the Tower
+    is closer...</p>
+  </content>
+</entry>

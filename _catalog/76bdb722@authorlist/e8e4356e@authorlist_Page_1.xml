@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors</title>
+  <id>Calibre2opds:authorlist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <entry>
+    <title>Brandon Sanderson</title>
+    <id>Calibre2opds:author:3</id>
+    <content type="text">33 books</content>
+    <link href="../76bdb722%40author_0/4801887d%40author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Brent Weeks</title>
+    <id>Calibre2opds:author:34</id>
+    <content type="text">8 books</content>
+    <link href="../76bdb722%40author_0/dd4a1731%40author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Connor Kostick</title>
+    <id>Calibre2opds:author:33</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/432e8292%40author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cornelia Funke</title>
+    <id>Calibre2opds:author:32</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/3429b204%40author_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Daniel Abraham</title>
+    <id>Calibre2opds:author:31</id>
+    <content type="text">4 books</content>
+    <link href="../76bdb722%40author_0/ad20e3be%40author_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dave Duncan</title>
+    <id>Calibre2opds:author:30</id>
+    <content type="text">4 books</content>
+    <link href="../76bdb722%40author_0/da27d328%40author_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Eddings</title>
+    <id>Calibre2opds:author:29</id>
+    <content type="text">19 books</content>
+    <link href="../76bdb722%40author_0/bae05acd%40author_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Gemmell</title>
+    <id>Calibre2opds:author:28</id>
+    <content type="text">32 books</content>
+    <link href="../76bdb722%40author_0/cde76a5b%40author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Eliezer Yudkowsky</title>
+    <id>Calibre2opds:author:4</id>
+    <content type="text">1 book</content>
+    <link href="../76bdb722%40author_0/d6651dde%40author_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Eoin Colfer</title>
+    <id>Calibre2opds:author:27</id>
+    <content type="text">7 books</content>
+    <link href="../76bdb722%40author_0/5d5877ca%40author_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Erin Morgenstern</title>
+    <id>Calibre2opds:author:26</id>
+    <content type="text">1 book</content>
+    <link href="../76bdb722%40author_0/2a5f475c%40author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>George R. R. Martin</title>
+    <id>Calibre2opds:author:25</id>
+    <content type="text">5 books</content>
+    <link href="../76bdb722%40author_0/b35616e6%40author_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>J. K. Rowling</title>
+    <id>Calibre2opds:author:24</id>
+    <content type="text">8 books</content>
+    <link href="../76bdb722%40author_0/c4512670%40author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jim Butcher</title>
+    <id>Calibre2opds:author:23</id>
+    <content type="text">21 books</content>
+    <link href="../76bdb722%40author_0/5a35b3d3%40author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lemony Snicket</title>
+    <id>Calibre2opds:author:6</id>
+    <content type="text">19 books</content>
+    <link href="../76bdb722%40author_0/386b7cf2%40author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lev Grossman</title>
+    <id>Calibre2opds:author:22</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/2d328345%40author_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Matthew Woodring Stover</title>
+    <id>Calibre2opds:author:21</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/b43bd2ff%40author_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Neil Gaiman</title>
+    <id>Calibre2opds:author:20</id>
+    <content type="text">1 book</content>
+    <link href="../76bdb722%40author_0/c33ce269%40author_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Orson Scott Card</title>
+    <id>Calibre2opds:author:19</id>
+    <content type="text">23 books</content>
+    <link href="../76bdb722%40author_0/91cd090e%40author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Patrick Rothfuss</title>
+    <id>Calibre2opds:author:18</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/e6ca3998%40author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Peter V. Brett</title>
+    <id>Calibre2opds:author:17</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/76752409%40author_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Pittacus Lore</title>
+    <id>Calibre2opds:author:16</id>
+    <content type="text">13 books</content>
+    <link href="../76bdb722%40author_0/172149f%40author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Rick Riordan</title>
+    <id>Calibre2opds:author:15</id>
+    <content type="text">13 books</content>
+    <link href="../76bdb722%40author_0/987b4525%40author_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robin Hobb</title>
+    <id>Calibre2opds:author:14</id>
+    <content type="text">9 books</content>
+    <link href="../76bdb722%40author_0/ef7c75b3%40author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Scott Lynch</title>
+    <id>Calibre2opds:author:13</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/7118e010%40author_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stephen King</title>
+    <id>Calibre2opds:author:12</id>
+    <content type="text">9 books</content>
+    <link href="../76bdb722%40author_0/61fd086%40author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stephen R. Donaldson</title>
+    <id>Calibre2opds:author:11</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/9f16813c%40author_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Terry Pratchett</title>
+    <id>Calibre2opds:author:10</id>
+    <content type="text">48 books</content>
+    <link href="../76bdb722%40author_0/e811b1aa%40author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Wildbow (Worm)</title>
+    <id>Calibre2opds:author:35</id>
+    <content type="text">2 books</content>
+    <link href="../76bdb722%40author_0/aa4d27a7%40author_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

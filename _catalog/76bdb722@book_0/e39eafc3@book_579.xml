@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sixth of the Dusk</title>
+  <id>urn:book:8bd1ec25-f282-4c9e-844f-82f3c40aedba</id>
+  <updated>2016-12-18T09:57:02Z</updated>
+  <link href="./e39eafc3%40book_579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sixth of the Dusk" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/4801887d%40author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brandon Sanderson" />
+  <link href="../../Brandon%20Sanderson/Sixth%20of%20the%20Dusk%20%28579%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/Sixth%20of%20the%20Dusk%20%28579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/Sixth%20of%20the%20Dusk%20%28579%29/Sixth%20of%20the%20Dusk%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="823 KB" />
+  <link href="../../Brandon%20Sanderson/Sixth%20of%20the%20Dusk%20%28579%29/Sixth%20of%20the%20Dusk%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="884 KB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+  </author>
+  <published>2014-10-15T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Dragonsteel Entertainment, LLC</dcterms:publisher>
+  <category term="_nocatalog" />
+  <category term="Lang:en" />
+</entry>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Wolf in Shadow</title>
+  <id>urn:book:60844a3e-88b4-4ad4-a783-263cea2987ae</id>
+  <updated>2016-12-16T11:55:52Z</updated>
+  <link href="./5e4e8f3%40book_477.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Wolf in Shadow" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/cde76a5b%40author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/Wolf%20in%20Shadow%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="360 KB" />
+  <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/Wolf%20in%20Shadow%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="529 KB" />
+  <author>
+    <name>David Gemmell</name>
+    <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+  </author>
+  <published>1987-01-02T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Del Rey</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Epic" />
+  <category term="Fantasy fiction" />
+  <category term="Good and Evil" />
+  <category term="Shannow; Jon (Fictitious Character)" />
+  <category term="Quests (Expeditions)" />
+  <category term="Jon (Fictitious Character)" />
+  <category term="Shannow" />
+  <category term="Lang:en" />
+  <category term="Stones of Power" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Stones of Power series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        "Gemmell . . . keeps the mythic currents crackling."
+        <br />
+      </p>
+      <p>
+        --Publishers Weekly
+        <br />
+      </p>
+      <p>
+        John Shannow, The Jerusalem Man, lived in a world that had
+      toppled on its axis. Civilization had been replaced by
+      ruthlessness and savagery. Relentless in his quest for peace,
+      Shannow followed a path that led only to bloodshed and
+      sorrow.
+        <br />
+      </p>
+      <p>
+        Abaddon, the Lord of the Pit, sought to plunge mankind
+      into a new Satanic era. His Hellborn army spewed forth from
+      the Plague Lands with an unholy force stemming from human
+      sacrifice. For it was the blood of innocents that fueled the
+      corrupted Sipstrassi Stones of Power--the source of Abaddon's
+      might.
+        <br />
+      </p>
+      <p>But the Hellborn made a fatal mistake--they took the woman
+      who had stolen Shannow's heart. He would move Heaven and
+      Earth to save her or he would die trying.</p>
+      <h3>Review</h3>
+      <p>'Has pace, conviction and gritty resolute vitality...The
+      result is a book that will be enjoyed by Tolkien fans' TIMES
+      EDUCATIONAL SUPPLEMENT</p>
+      <h3>From the Publisher</h3>
+      <p>
+        Wolf in Shadow by David Gemmell
+        <br />
+        David Gemmel is a very tall, debonair Brit. I met him
+      at WorldCon in San Antonio and we talked for over an hour
+      about how an author brings passion into his writing. David
+      believes that he's gotten it right when he can read his own
+      work and a charater's plight moves him to tears or anger,
+      when he can feel the character's pain as if it were his own.
+        <br />
+      </p>
+      <p>
+        I can testify that his passion gushes from his works which
+      are action-packed and charged with high emotions. His books
+      top the best-seller lists in Great Britain and David receives
+      a lot of fan mail. In fact, he had decided to end the John
+      Shannow tales but a flood of readers' letters kept demanding
+      more, and he changed his mind. I guess he appreciates the
+      passion in his fans' letters, too!
+        <br />
+                                                        --Tim
+      Kochuba, General Manager
+      </p>
+    </div>
+  </content>
+</entry>

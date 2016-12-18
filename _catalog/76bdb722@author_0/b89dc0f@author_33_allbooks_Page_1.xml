@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All books by Connor Kostick</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./b89dc0f%40author_33_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Connor Kostick" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./432e8292%40author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Connor Kostick" />
+  <entry>
+    <title>Edda</title>
+    <id>calibre:book:536</id>
+    <updated>2016-12-16T11:56:11Z</updated>
+    <link href="../../Connor%20Kostick/Edda%20%28536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Connor%20Kostick/Edda%20%28536%29/Edda%20-%20Connor%20Kostick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="383 KB" />
+    <link href="../../Connor%20Kostick/Edda%20%28536%29/Edda%20-%20Connor%20Kostick.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="544 KB" />
+    <author>
+      <name>Connor Kostick</name>
+      <uri>../76bdb722@author_0/432e8292@author_33_Page_1.xml</uri>
+    </author>
+    <published>2011-05-13T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Epic" />
+    <summary>Epic [3]:</summary>
+    <link href="../76bdb722%40book_0/174d7756%40book_536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Saga</title>
+    <id>calibre:book:537</id>
+    <updated>2016-12-16T11:56:10Z</updated>
+    <link href="../../Connor%20Kostick/Saga%20%28537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Connor%20Kostick/Saga%20%28537%29/Saga%20-%20Connor%20Kostick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="391 KB" />
+    <link href="../../Connor%20Kostick/Saga%20%28537%29/Saga%20-%20Connor%20Kostick.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="532 KB" />
+    <author>
+      <name>Connor Kostick</name>
+      <uri>../76bdb722@author_0/432e8292@author_33_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Epic" />
+    <summary>Epic [2]:</summary>
+    <link href="../76bdb722%40book_0/604a47c0%40book_537.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Epic</title>
+    <id>calibre:book:538</id>
+    <updated>2016-12-16T11:56:11Z</updated>
+    <link href="../../Connor%20Kostick/Epic%20%28538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Connor%20Kostick/Epic%20%28538%29/Epic%20-%20Connor%20Kostick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="349 KB" />
+    <link href="../../Connor%20Kostick/Epic%20%28538%29/Epic%20-%20Connor%20Kostick.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="494 KB" />
+    <author>
+      <name>Connor Kostick</name>
+      <uri>../76bdb722@author_0/432e8292@author_33_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Epic" />
+    <summary>Epic [1]:</summary>
+    <link href="../76bdb722%40book_0/f0f55a51%40book_538.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

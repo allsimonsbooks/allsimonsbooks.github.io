@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ironhand's Daughter</title>
+  <id>urn:book:c0ecb7f6-d884-49bd-bd4b-0b31a245f813</id>
+  <updated>2016-12-16T11:55:55Z</updated>
+  <link href="./12c3e9ad%40book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ironhand's Daughter" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/cde76a5b%40author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/Ironhand%27s%20Daughter%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="287 KB" />
+  <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/Ironhand%27s%20Daughter%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="463 KB" />
+  <author>
+    <name>David Gemmell</name>
+    <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+  </author>
+  <published>2004-11-23T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Epic" />
+  <category term="Fantasy Fiction; English" />
+  <category term="Fantasy fiction" />
+  <category term="Good and Evil" />
+  <category term="English" />
+  <category term="Lang:en" />
+  <category term="Hawk Queen" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Hawk Queen series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <h3>Review</h3>
+      <p>
+        “[Gemmell] does high adventure as it ought to be
+      done."
+        <br />
+        –GREG KEYES, author of _The Charnel Prince
+      </p>
+      <p>
+        _“For anyone who appreciates superior heroic
+      fantasy, David Gemmell’s offerings are
+      mandatory.”
+        <br />
+        –_Time Out London_
+      </p>
+      <p>
+        “Gemmell’s great reading; the action never
+      lets up.”
+        <br />
+        –ANNE MCCAFFREY
+        <br />
+      </p>
+      <h3>Product Description</h3>
+      <p>
+        The armies of the Outlanders crushed the highlanders at
+      the battle of Colden Moor–killing their finest warriors
+      and breaking their freeborn spirit. The highlanders are now a
+      conquered people, ruled by the brutal Baron Gottasson.
+        <br />
+        Prophecies speak of the coming of a new leader, a
+      descendent of Ironhand, mightiest of the highland kings. A
+      leader who will throw off the Outlander yoke. But only one
+      highlander carries the blood of Ironhand: Sigarni, a wild and
+      willful teenage girl who cares for nothing save her own
+      concerns. Until a fateful encounter thrusts her onto a path
+      of rebellion. Now, hunted by the baron’s soldiers and
+      stalked by an evil sorcerer, Sigarni will be forced to
+      fulfill her destiny . . . or perish.
+      </p>
+    </div>
+  </content>
+</entry>

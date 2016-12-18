@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fool's Fate</title>
+  <id>urn:book:6ae46a03-a61a-4ffd-beb6-ec286699950a</id>
+  <updated>2016-12-16T11:55:14Z</updated>
+  <link href="./f7beae1b%40book_365.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Fool's Fate" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/ef7c75b3%40author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Robin Hobb" />
+  <link href="../../Robin%20Hobb/Fool%27s%20Fate%20%28365%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Robin%20Hobb/Fool%27s%20Fate%20%28365%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Robin%20Hobb/Fool%27s%20Fate%20%28365%29/Fool%27s%20Fate%20-%20Robin%20Hobb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="785 KB" />
+  <link href="../../Robin%20Hobb/Fool%27s%20Fate%20%28365%29/Fool%27s%20Fate%20-%20Robin%20Hobb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Robin Hobb</name>
+    <uri>../76bdb722@author_0/ef7c75b3@author_14_Page_1.xml</uri>
+  </author>
+  <published>2004-11-23T04:33:45Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+  <category term="Fantasy - Epic" />
+  <category term="Fantasy - General" />
+  <category term="Fantasy fiction" />
+  <category term="Dragons" />
+  <category term="Quests (Expeditions)" />
+  <category term="Fiction - Fantasy" />
+  <category term="Fiction" />
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Epic" />
+  <category term="Lang:en" />
+  <category term="Tawny Man Trilogy" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Tawny Man Trilogy series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">A heralded writer of epic fantasy, Robin Hobb has given
+    readers worlds within worlds in her heroic Farseer and Liveship
+    Traders trilogies. Now she takes the final step in the
+    breathtaking trilogy of the Tawny Man, as the tale of
+    FitzChivalry Farseer comes to an epic end. Rife with boundless
+    adventure and unforgettable characters, Fool’s Fate is
+    destined to become a classic of the genre.Assassin, spy, and
+    Skillmaster, FitzChivalry Farseer, now known only as
+    man-at-arms Tom Badgerlock, has become firmly ensconced in the
+    queen’s court at Buckkeep. Only a few are aware of his
+    fabled, tangled past—and the sacrifices he made to
+    survive it. And fewer know of his possession of the Skill
+    magic. With Prince Dutiful, his assassin-mentor Chade, and the
+    simpleminded yet strongly Skilled Thick, FitzChivalry strives
+    to aid the prince on a quest that could ultimately secure peace
+    between the Six Duchies and the Outislands—and win
+    Dutiful the hand of the Narcheska Elliania. For the Narcheska
+    has set the prince on an unfathomable task: to behead a dragon
+    trapped in ice—the legendary Icefyre, on the island of
+    Aslevjal. Yet not all the clans of the Outislands support the
+    prince’s effort to behead their legendary defender. Are
+    there darker forces at work behind the Narcheska’s
+    imperious demand? As the prince and his coterie set sail,
+    FitzChivalry works behind the scenes, playing nursemaid to the
+    ailing Thick, while striving to strengthen their
+    Skill—ultimately bringing his unacknowledged daughter
+    into the web of the Skill magic, where the truth must finally
+    unfold.The quest emerges amid riddles that must be unraveled, a
+    clash of cultures, and the ultimate betrayal. For knowing that
+    the Fool has foretold he will die on the island of ice,
+    FitzChivalry has plotted with Chade to leave his dearest friend
+    behind. But fate cannot so easily be defied.From the Hardcover
+    edition.</p>
+  </content>
+</entry>

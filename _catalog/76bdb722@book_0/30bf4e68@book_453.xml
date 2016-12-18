@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Harry Potter and the Deathly Hallows</title>
+  <id>urn:book:b49c8d14-c88a-4046-a989-551d340cee38</id>
+  <updated>2016-12-16T11:55:46Z</updated>
+  <link href="./30bf4e68%40book_453.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Harry Potter and the Deathly Hallows" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/c4512670%40author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="J. K. Rowling" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Deathly%20Hallow%20%28453%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Deathly%20Hallow%20%28453%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Deathly%20Hallow%20%28453%29/Harry%20Potter%20and%20the%20Deathly%20Ha%20-%20J.%20K.%20Rowling.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../J.%20K.%20Rowling/Harry%20Potter%20and%20the%20Deathly%20Hallow%20%28453%29/Harry%20Potter%20and%20the%20Deathly%20Ha%20-%20J.%20K.%20Rowling.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>J. K. Rowling</name>
+    <uri>../76bdb722@author_0/c4512670@author_24_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="child_adv" />
+  <category term="Lang:en" />
+  <category term="Harry Potter" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 7 in the Harry Potter series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Readers beware. The brilliant, breathtaking conclusion to
+    J. K. Rowling’s spellbinding series is not for
+    the faint of heart—such revelations, battles, and
+    betrayals await in Harry Potter and the Deathly Hallows that no
+    fan will make it to the end unscathed. Luckily, Rowling has
+    prepped loyal readers for the end of her series by doling out
+    increasingly dark and dangerous tales of magic and mystery,
+    shot through with lessons about honor and contempt, love and
+    loss, and right and wrong. Fear not, you will find no spoilers
+    in our review—to tell the plot would ruin the journey,
+    and Harry Potter and the Deathly Hallows is an odyssey the
+    likes of which Rowling’s fans have not yet seen, and are
+    not likely to forget. But we would be remiss if we did not
+    offer one small suggestion before you embark on your final
+    adventure with Harry—bring plenty of tissues. The heart
+    of Book 7 is a hero’s mission—not just in
+    Harry’s quest for the Horcruxes, but in his journey from
+    boy to man—and Harry faces more danger than that found in
+    all six books combined, from the direct threat of the Death
+    Eaters and You-Know-Who, to the subtle perils of losing faith
+    in himself. Attentive readers would do well to remember
+    Dumbledore’s warning about making the choice between
+    “what is right and what is easy,” and know that
+    Rowling applies the same difficult principle to the conclusion
+    of her series. While fans will find the answers to hotly
+    speculated questions about Dumbledore, Snape, and You-Know-Who,
+    it is a testament to Rowling’s skill as a storyteller
+    that even the most astute and careful reader will be taken by
+    surprise. A spectacular finish to a phenomenal series, Harry
+    Potter and the Deathly Hallows is a bittersweet read for fans.
+    The journey is hard, filled with events both tragic and
+    triumphant, the battlefield littered with the bodies of the
+    dearest and despised, but the final chapter is as brilliant and
+    blinding as a phoenix’s flame, and fans and skeptics
+    alike will emerge from the confines of the story with full but
+    heavy hearts, giddy and grateful for the experience.</p>
+  </content>
+</entry>

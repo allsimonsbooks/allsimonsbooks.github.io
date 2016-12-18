@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Faery Lands Forlorn</title>
+  <id>urn:book:061b12dd-b789-4ca2-a8d2-acc00b92fc00</id>
+  <updated>2016-12-16T11:56:07Z</updated>
+  <link href="./79517681%40book_527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Faery Lands Forlorn" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/da27d328%40author_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dave Duncan" />
+  <link href="../../Dave%20Duncan/Faery%20Lands%20Forlorn%20%28527%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Dave%20Duncan/Faery%20Lands%20Forlorn%20%28527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Dave%20Duncan/Faery%20Lands%20Forlorn%20%28527%29/Faery%20Lands%20Forlorn%20-%20Dave%20Duncan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="492 KB" />
+  <link href="../../Dave%20Duncan/Faery%20Lands%20Forlorn%20%28527%29/Faery%20Lands%20Forlorn%20-%20Dave%20Duncan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="614 KB" />
+  <author>
+    <name>Dave Duncan</name>
+    <uri>../76bdb722@author_0/da27d328@author_30_Page_1.xml</uri>
+  </author>
+  <published>1991-01-01T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>e-reads.com</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Man Of His Word" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Man Of His Word series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <h3>
+        <span class="Apple-style-span" style="font-weight: normal; font-size: 11px;">Inos, the
+        late king's daughter, had been kidnapped through the magic
+        casement even as the Impish legions overrunning her tiny
+        kingdom were storming the castle tower. Now she was a
+        prisoner in a desert land ruled by a dockside whore with a
+        talent for magic and a passion for politics.</span>
+      </h3>
+      <p>She little dreamed that the loyal stableboy Rap had jumped
+      through the casement after her. But no one really knew how
+      the magic worked, and Rap found himself not in a desert, but
+      in the steaming jungles of Faerie -- half a world away from
+      Inos!</p>
+      <p>Rap was determined to rescue his beloved queen, and
+      nothing could stop him -- not even the monsters and
+      headhunters of Faerie, or the paranoid machinations of an
+      evil sorcerer...</p>
+    </div>
+  </content>
+</entry>

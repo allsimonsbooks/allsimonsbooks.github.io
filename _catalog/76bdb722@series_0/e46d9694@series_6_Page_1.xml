@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All The Wrong Questions</title>
+  <id>Calibre2opds::serieslistseries:6</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./e46d9694%40series_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All The Wrong Questions" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>File Under - 13 Suspicious Incidents - Reports 7-13</title>
+    <id>calibre:book:30</id>
+    <updated>2016-12-16T01:28:11Z</updated>
+    <link href="../../Lemony%20Snicket/File%20Under%20-%2013%20Suspicious%20Incidents%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/File%20Under%20-%2013%20Suspicious%20Incidents%20%2830%29/File%20Under%20-%2013%20Suspicious%20Inci%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <link href="../../Lemony%20Snicket/File%20Under%20-%2013%20Suspicious%20Incidents%20%2830%29/File%20Under%20-%2013%20Suspicious%20Inci%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="5 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2014-03-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown Books for Young Readers</dcterms:publisher>
+    <category term="Juvenile Fiction / Family / General (See Also Headings Under Social Issues)" />
+    <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+    <category term="Juvenile Fiction / Social Issues / Adolescence" />
+    <category term="Lang:en" />
+    <category term="All The Wrong Questions" />
+    <summary>All The Wrong Questions:</summary>
+    <link href="../76bdb722%40book_0/3af093b2%40book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>File Under - 13 Suspicious Incidents - Reports 1-6</title>
+    <id>calibre:book:32</id>
+    <updated>2016-12-16T01:28:09Z</updated>
+    <link href="../../Lemony%20Snicket/File%20Under%20-%2013%20Suspicious%20Incidents%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/File%20Under%20-%2013%20Suspicious%20Incidents%20%2832%29/File%20Under%20-%2013%20Suspicious%20Inci%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <link href="../../Lemony%20Snicket/File%20Under%20-%2013%20Suspicious%20Incidents%20%2832%29/File%20Under%20-%2013%20Suspicious%20Inci%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="5 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2014-03-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown Books for Young Readers</dcterms:publisher>
+    <category term="Juvenile Fiction / Family / General (See Also Headings Under Social Issues)" />
+    <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+    <category term="Juvenile Fiction / Social Issues / Adolescence" />
+    <category term="Lang:en" />
+    <category term="All The Wrong Questions" />
+    <summary>All The Wrong Questions:</summary>
+    <link href="../76bdb722%40book_0/d4fef29e%40book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1 - Who Could That Be at This Hour?</title>
+    <id>calibre:book:28</id>
+    <updated>2016-10-09T08:12:29Z</updated>
+    <link href="../../Lemony%20Snicket/Who%20Could%20That%20Be%20at%20This%20Hour_%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/Who%20Could%20That%20Be%20at%20This%20Hour_%20%2828%29/Who%20Could%20That%20Be%20at%20This%20Hour_%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/Who%20Could%20That%20Be%20at%20This%20Hour_%20%2828%29/Who%20Could%20That%20Be%20at%20This%20Hour_%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2012-10-23T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette Book Group</dcterms:publisher>
+    <category term="Juvenile Fiction / Juvenile Fiction - Social Issues - Adolescence" />
+    <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+    <category term="Juvenile Fiction / Family / General" />
+    <category term="Lang:en" />
+    <category term="All The Wrong Questions" />
+    <summary>All The Wrong Questions [1]:</summary>
+    <link href="../76bdb722%40book_0/2d302ac1%40book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - When Did You See Her Last?</title>
+    <id>calibre:book:31</id>
+    <updated>2016-10-09T08:12:17Z</updated>
+    <link href="../../Lemony%20Snicket/When%20Did%20You%20See%20Her%20Last_%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/When%20Did%20You%20See%20Her%20Last_%20%2831%29/When%20Did%20You%20See%20Her%20Last_%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lemony%20Snicket/When%20Did%20You%20See%20Her%20Last_%20%2831%29/When%20Did%20You%20See%20Her%20Last_%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2013-10-15T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown Books for Young Readers</dcterms:publisher>
+    <category term="Teen &amp; Young Adult" />
+    <category term="Mysteries" />
+    <category term="Mysteries &amp; Thrillers" />
+    <category term="Juvenile Fiction / Family / General" />
+    <category term="Juvenile Fiction / Juvenile Fiction - Social Issues - Adolescence" />
+    <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+    <category term="Lang:en" />
+    <category term="All The Wrong Questions" />
+    <summary>All The Wrong Questions [2]:</summary>
+    <link href="../76bdb722%40book_0/4df7a324%40book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Shouldn't You Be in School?</title>
+    <id>calibre:book:29</id>
+    <updated>2016-10-09T08:12:16Z</updated>
+    <link href="../../Lemony%20Snicket/Shouldn%27t%20You%20Be%20in%20School_%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/Shouldn%27t%20You%20Be%20in%20School_%20%2829%29/Shouldn%27t%20You%20Be%20in%20School_%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="8 MB" />
+    <link href="../../Lemony%20Snicket/Shouldn%27t%20You%20Be%20in%20School_%20%2829%29/Shouldn%27t%20You%20Be%20in%20School_%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="8 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2014-09-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown Books for Young Readers</dcterms:publisher>
+    <category term="Juvenile Fiction / Family / General (See Also Headings Under Social Issues)" />
+    <category term="Juvenile Fiction / Social Issues / Adolescence" />
+    <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+    <category term="Lang:en" />
+    <category term="All The Wrong Questions" />
+    <summary>All The Wrong Questions [3]:</summary>
+    <link href="../76bdb722%40book_0/5a371a57%40book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Why Is This Night Different from All Other Nights?</title>
+    <id>calibre:book:33</id>
+    <updated>2016-10-09T08:12:15Z</updated>
+    <link href="../../Lemony%20Snicket/Why%20Is%20This%20Night%20Different%20from%20All%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lemony%20Snicket/Why%20Is%20This%20Night%20Different%20from%20All%20%2833%29/Why%20Is%20This%20Night%20Different%20fro%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <link href="../../Lemony%20Snicket/Why%20Is%20This%20Night%20Different%20from%20All%20%2833%29/Why%20Is%20This%20Night%20Different%20fro%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="2 MB" />
+    <author>
+      <name>Lemony Snicket</name>
+      <uri>../76bdb722@author_0/386b7cf2@author_6_Page_1.xml</uri>
+    </author>
+    <published>2015-09-29T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown Books for Young Readers</dcterms:publisher>
+    <category term="Juvenile Fiction / Family / General (See Also Headings Under Social Issues)" />
+    <category term="Juvenile Fiction / Social Issues / Adolescence" />
+    <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+    <category term="Lang:en" />
+    <category term="All The Wrong Questions" />
+    <summary>All The Wrong Questions [4]:</summary>
+    <link href="../76bdb722%40book_0/a3f9c208%40book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

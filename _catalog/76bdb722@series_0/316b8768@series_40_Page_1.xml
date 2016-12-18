@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Malloreon</title>
+  <id>Calibre2opds::serieslistseries:40</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./316b8768%40series_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The Malloreon" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Guardians of the West</title>
+    <id>calibre:book:514</id>
+    <updated>2016-12-16T11:56:03Z</updated>
+    <link href="../../David%20Eddings/Guardians%20of%20the%20West%20%28514%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/Guardians%20of%20the%20West%20%28514%29/Guardians%20of%20the%20West%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="428 KB" />
+    <link href="../../David%20Eddings/Guardians%20of%20the%20West%20%28514%29/Guardians%20of%20the%20West%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="600 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1988-02-12T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Malloreon" />
+    <summary>The Malloreon [1]:</summary>
+    <link href="../76bdb722%40book_0/cb7574f8%40book_514.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - King of the Murgos</title>
+    <id>calibre:book:512</id>
+    <updated>2016-12-16T11:56:04Z</updated>
+    <link href="../../David%20Eddings/King%20of%20the%20Murgos%20%28512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/King%20of%20the%20Murgos%20%28512%29/King%20of%20the%20Murgos%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
+    <link href="../../David%20Eddings/King%20of%20the%20Murgos%20%28512%29/King%20of%20the%20Murgos%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="632 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1989-02-13T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Malloreon" />
+    <summary>The Malloreon [2]:</summary>
+    <link href="../76bdb722%40book_0/2216d1cd%40book_512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Demon Lord of Karanda</title>
+    <id>calibre:book:511</id>
+    <updated>2016-12-16T11:56:02Z</updated>
+    <link href="../../David%20Eddings/Demon%20Lord%20of%20Karanda%20%28511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/Demon%20Lord%20of%20Karanda%20%28511%29/Demon%20Lord%20of%20Karanda%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="417 KB" />
+    <link href="../../David%20Eddings/Demon%20Lord%20of%20Karanda%20%28511%29/Demon%20Lord%20of%20Karanda%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="580 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1989-08-15T03:52:49Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Malloreon" />
+    <summary>The Malloreon [3]:</summary>
+    <link href="../76bdb722%40book_0/bb1f8077%40book_511.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - The Sorceress of Darshiva</title>
+    <id>calibre:book:510</id>
+    <updated>2016-12-16T11:56:02Z</updated>
+    <link href="../../David%20Eddings/The%20Sorceress%20of%20Darshiva%20%28510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/The%20Sorceress%20of%20Darshiva%20%28510%29/The%20Sorceress%20of%20Darshiva%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="392 KB" />
+    <link href="../../David%20Eddings/The%20Sorceress%20of%20Darshiva%20%28510%29/The%20Sorceress%20of%20Darshiva%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="543 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1990-08-15T03:53:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Malloreon" />
+    <summary>The Malloreon [4]:</summary>
+    <link href="../76bdb722%40book_0/cc18b0e1%40book_510.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - The Seeress of Kell</title>
+    <id>calibre:book:509</id>
+    <updated>2016-12-16T11:56:02Z</updated>
+    <link href="../../David%20Eddings/The%20Seeress%20of%20Kell%20%28509%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/The%20Seeress%20of%20Kell%20%28509%29/The%20Seeress%20of%20Kell%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
+    <link href="../../David%20Eddings/The%20Seeress%20of%20Kell%20%28509%29/The%20Seeress%20of%20Kell%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="635 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1991-08-15T03:53:02Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Malloreon" />
+    <summary>The Malloreon [5]:</summary>
+    <link href="../76bdb722%40book_0/acdf3904%40book_509.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

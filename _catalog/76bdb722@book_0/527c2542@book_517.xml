@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Enchanters' End Game</title>
+  <id>urn:book:adc253af-a324-4413-93c2-e48e3551a885</id>
+  <updated>2016-12-16T11:56:04Z</updated>
+  <link href="./527c2542%40book_517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Enchanters' End Game" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/bae05acd%40author_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Eddings" />
+  <link href="../../David%20Eddings/Enchanters%27%20End%20Game%20%28517%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Eddings/Enchanters%27%20End%20Game%20%28517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Eddings/Enchanters%27%20End%20Game%20%28517%29/Enchanters%27%20End%20Game%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="687 KB" />
+  <link href="../../David%20Eddings/Enchanters%27%20End%20Game%20%28517%29/Enchanters%27%20End%20Game%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="887 KB" />
+  <author>
+    <name>David Eddings</name>
+    <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+  </author>
+  <published>1984-08-15T03:53:16Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Del Rey</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Lang:en" />
+  <category term="Belgariad" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the Belgariad series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">THE DRIVE OF PROPHECY</p>
+    <p xmlns="">The quest was over. The Orb of Aldur was restored. And once
+    again, with the crowning of Garion, there was a descendant of
+    Riva Iron-grip to rule as Overlord of the West.</p>
+    <p xmlns="">But the Prophecy was unfulfilled. In the east, the evil God
+    Torak was about to awaken and seek dominion. Somehow, Garion
+    had to face the God, to kill or be killed. On the outcome of
+    that dread duel rested the destiny of the world. Now,
+    accompanied by his grandfather, the ancient sorcerer Belgarath,
+    Garion headed toward the City of Endless Night, where Torak
+    awaited him.</p>
+    <p xmlns="">To the south, his fiancée, the princess Ce'Nedra, led
+    the armies of the West in a desperate effort to divert the
+    forces of Torak's followers from the man she loved.</p>
+    <p xmlns="">The Prophecy drove Garion on. But it gave no answer to the
+    question that haunted him: How does a man kill an immortal
+    God?</p>
+    <p xmlns="">Here is the brilliant conclusion to the epic of The
+    Belgariad, which began in Pawn of Prophecy--a novel of fate,
+    strange lands, and a Prophecy that must be fulfilled--the
+    resolution of the war of men, Kings, and Gods that had spanned
+    seven thousand years!</p>
+    <p xmlns="">**</p>
+  </content>
+</entry>

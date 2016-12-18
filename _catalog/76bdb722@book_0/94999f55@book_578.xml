@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Blood Mirror</title>
+  <id>urn:book:46a04e4d-b7e3-4d25-934d-ca59478f190e</id>
+  <updated>2016-12-18T09:53:44Z</updated>
+  <link href="./94999f55%40book_578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Blood Mirror" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/dd4a1731%40author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brent Weeks" />
+  <link href="../../Brent%20Weeks/The%20Blood%20Mirror%20%28578%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brent%20Weeks/The%20Blood%20Mirror%20%28578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brent%20Weeks/The%20Blood%20Mirror%20%28578%29/The%20Blood%20Mirror%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="5 MB" />
+  <link href="../../Brent%20Weeks/The%20Blood%20Mirror%20%28578%29/The%20Blood%20Mirror%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="4 MB" />
+  <author>
+    <name>Brent Weeks</name>
+    <uri>../76bdb722@author_0/dd4a1731@author_34_Page_1.xml</uri>
+  </author>
+  <published>2016-10-25T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Orbit</dcterms:publisher>
+  <category term="Fiction / Fantasy / Epic" />
+  <category term="Fiction / Men’S Adventure" />
+  <category term="Fiction / Historical" />
+  <category term="Fiction / Action &amp; Adventure" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <b xmlns="">The nail-biting continuation to the Lightbringer series from
+  New York Times bestseller Brent Weeks.</b>
+    <br xmlns="" />
+    <p xmlns="">
+      <br />
+    </p>
+    <p xmlns="">
+      <b>When does an empire fall?</b>
+    </p>
+    <p xmlns="">
+      <br />
+    </p>
+    <p xmlns="">The Seven Satrapies have collapsed into four-and those are
+  falling before the White King's armies.</p>
+    <p xmlns="">
+      <br />
+    </p>
+    <p xmlns="">Gavin Guile, ex-emperor, ex-Prism, ex-galley slave, formerly
+  the one man who might have averted war, is now lost, broken, and
+  trapped in a prison crafted by his own hands to hold a great
+  magical genius. But Gavin has no magic at all. Worse, in this
+  prison, Gavin may not be alone.</p>
+    <p xmlns="">
+      <br />
+    </p>
+    <p xmlns="">Kip Guile will make a last, desperate attempt to stop the
+  White King's growing horde. Karris White attempts to knit
+  together an empire falling apart, helped only by her murderous
+  and possibly treasonous father-in-law Andross Guile.</p>
+    <p xmlns="">
+      <br />
+    </p>
+    <p xmlns="">Meanwhile, Teia's new talents will find a darker use-and the
+  cost might be too much to bear.</p>
+    <p xmlns="">
+      <br />
+    </p>
+    <p xmlns="">Together, they will fight to prevent a tainted empire from
+  becoming something even worse....</p>
+  </content>
+</entry>

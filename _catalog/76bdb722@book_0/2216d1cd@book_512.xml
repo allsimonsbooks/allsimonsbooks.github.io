@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>King of the Murgos</title>
+  <id>urn:book:e56ff0a2-7111-45ad-8798-f6b68b36a889</id>
+  <updated>2016-12-16T11:56:04Z</updated>
+  <link href="./2216d1cd%40book_512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="King of the Murgos" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/bae05acd%40author_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Eddings" />
+  <link href="../../David%20Eddings/King%20of%20the%20Murgos%20%28512%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Eddings/King%20of%20the%20Murgos%20%28512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Eddings/King%20of%20the%20Murgos%20%28512%29/King%20of%20the%20Murgos%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="451 KB" />
+  <link href="../../David%20Eddings/King%20of%20the%20Murgos%20%28512%29/King%20of%20the%20Murgos%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="632 KB" />
+  <author>
+    <name>David Eddings</name>
+    <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+  </author>
+  <published>1989-02-13T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Del Rey</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Lang:en" />
+  <category term="Malloreon" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Malloreon series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Guided by the Orb of the God Aldur, Garion and Ce'Nedrea
+    begin a great quest to rescue their kidnapped child. Making
+    their way through the foul swamps of Nyisssa, then into the
+    lands of the Murgos, they must ultimately face a horrible
+    danger--to themselves and all mankind....</p>
+    <p xmlns="">**</p>
+  </content>
+</entry>

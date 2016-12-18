@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Opal Deception</title>
+  <id>urn:book:dd8c3c3a-b87b-45db-b6dc-d51f5c3cbf6c</id>
+  <updated>2016-12-16T11:55:49Z</updated>
+  <link href="./9b807d50%40book_470.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Opal Deception" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/5d5877ca%40author_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Eoin Colfer" />
+  <link href="../../Eoin%20Colfer/The%20Opal%20Deception%20%28470%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Eoin%20Colfer/The%20Opal%20Deception%20%28470%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Eoin%20Colfer/The%20Opal%20Deception%20%28470%29/The%20Opal%20Deception%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="280 KB" />
+  <link href="../../Eoin%20Colfer/The%20Opal%20Deception%20%28470%29/The%20Opal%20Deception%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="413 KB" />
+  <author>
+    <name>Eoin Colfer</name>
+    <uri>../76bdb722@author_0/5d5877ca@author_27_Page_1.xml</uri>
+  </author>
+  <published>2005-04-04T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>New York : Hyperion, c2005.</dcterms:publisher>
+  <category term="Legends" />
+  <category term="Children: Grades 4-6" />
+  <category term="Fiction" />
+  <category term="Myths" />
+  <category term="Children's 12-Up - Fiction - Fantasy" />
+  <category term="Kidnapping" />
+  <category term="Pixies" />
+  <category term="Fairies" />
+  <category term="Revenge" />
+  <category term="Science Fiction" />
+  <category term="Fantasy &amp; Magic" />
+  <category term="Magic" />
+  <category term="Adventure and adventurers" />
+  <category term="Juvenile Fiction" />
+  <category term="Mysteries &amp; Detective Stories" />
+  <category term="Parent and child" />
+  <category term="Fables" />
+  <category term="Artemis" />
+  <category term="Adventure stories" />
+  <category term="English" />
+  <category term="&amp; Magic" />
+  <category term="Action &amp; Adventure - General" />
+  <category term="England" />
+  <category term="Action &amp; Adventure" />
+  <category term="Fowl" />
+  <category term="Children: Young Adult (Gr. 7-9)" />
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Artemis (Fictitious character)" />
+  <category term="_nocatalog" />
+  <category term="Lang:en" />
+  <category term="Artemis Fowl" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Artemis Fowl series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Criminal mastermind Artemis Fowl has no memory of the fairy
+    people and his dangerous enemy, Opal Koboi escapes from jail
+    and is planning revenge. Criminal mastermind Artemis Fowl is
+    back and so is his brilliant and dangerous enemy, Opal Koboi.
+    At the start of the story, Artemis has no memory of the fairy
+    people and has returned to his unlawful ways. In Berlin, he is
+    preparing to steal a famous Impressionist painting from a
+    German bank. He doesn't know that his old rival, Opal, has
+    escaped from prison by cloning herself. She's left her double
+    behind in jail and, now free, is exacting her revenge on all
+    those who put here there, including Artemis. Meanwhile in the
+    lower elements, Captain Holly Short of the fairy police is
+    framed for a heinous crime, yet she manages to elude her
+    captors and escape to the surface to rescue Artemis. But before
+    Holly and Artemis can get away, Opal arrives and abducts them
+    both, forcing Artemis to go head to head with an enemy who
+    plans on destroying the fairy world forever.</p>
+  </content>
+</entry>

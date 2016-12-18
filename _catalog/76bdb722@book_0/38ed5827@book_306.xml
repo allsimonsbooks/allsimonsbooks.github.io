@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nation</title>
+  <id>urn:book:5971cae3-3042-40dc-8ea3-6316c70bb51c</id>
+  <updated>2016-12-16T11:54:52Z</updated>
+  <link href="./38ed5827%40book_306.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Nation" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/e811b1aa%40author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Terry Pratchett" />
+  <link href="../../Terry%20Pratchett/Nation%20%28306%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Terry%20Pratchett/Nation%20%28306%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Terry%20Pratchett/Nation%20%28306%29/Nation%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
+  <link href="../../Terry%20Pratchett/Nation%20%28306%29/Nation%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="464 KB" />
+  <author>
+    <name>Terry Pratchett</name>
+    <uri>../76bdb722@author_0/e811b1aa@author_10_Page_1.xml</uri>
+  </author>
+  <published>2008-10-15T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins</dcterms:publisher>
+  <category term="Nature &amp; the Natural World" />
+  <category term="Social Issues" />
+  <category term="English; Irish; Scottish; Welsh" />
+  <category term="Tsunamis" />
+  <category term="Survival Stories" />
+  <category term="Action &amp; Adventure" />
+  <category term="Young adult fiction; English" />
+  <category term="Juvenile Fiction" />
+  <category term="Interpersonal relations" />
+  <category term="Fantasy &amp; Magic" />
+  <category term="Fiction" />
+  <category term="Drama" />
+  <category term="Fantasy" />
+  <category term="Australia &amp; Oceania" />
+  <category term="Humorous Stories" />
+  <category term="Oceania" />
+  <category term="Alternative histories (Fiction); English" />
+  <category term="People &amp; Places" />
+  <category term="General" />
+  <category term="Survival" />
+  <category term="Survival skills" />
+  <category term="Young adult fiction" />
+  <category term="Alternative histories (Fiction)" />
+  <category term="Welsh" />
+  <category term="English" />
+  <category term="Irish" />
+  <category term="Scottish" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">After a devastating tsunami destroys all that they have ever
+    known, Mau, an island boy, and Daphne, an aristocratic English
+    girl, together with a small band of refugees, set about
+    rebuilding their community and all the things that are
+    important in their l</p>
+  </content>
+</entry>

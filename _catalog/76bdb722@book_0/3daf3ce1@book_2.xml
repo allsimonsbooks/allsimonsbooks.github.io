@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Worm</title>
+  <id>urn:book:70b67537-dcc3-4ce2-b3f8-3457c6cb59ba</id>
+  <updated>2016-10-01T07:35:55Z</updated>
+  <link href="./3daf3ce1%40book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Worm" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Wildbow%20%28Worm%29/Worm%20%282%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Wildbow%20%28Worm%29/Worm%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Wildbow%20%28Worm%29/Worm%20%282%29/Worm%20-%20Wildbow%20%28Worm%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+  <link href="../../Wildbow%20%28Worm%29/Worm%20%282%29/Worm%20-%20Wildbow%20%28Worm%29.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="6 MB" />
+  <author>
+    <name>Wildbow (Worm)</name>
+    <uri>../76bdb722@author_0/aa4d27a7@author_35_Page_1.xml</uri>
+  </author>
+  <published>2014-12-16T06:47:33Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Lang:en" />
+</entry>

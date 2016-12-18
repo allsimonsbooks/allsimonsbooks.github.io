@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All books by Stephen R. Donaldson</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./5710b5f3%40author_11_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Stephen R. Donaldson" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./9f16813c%40author_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Stephen R. Donaldson" />
+  <entry>
+    <title>The Illearth War</title>
+    <id>calibre:book:350</id>
+    <updated>2016-12-16T11:55:10Z</updated>
+    <link href="../../Stephen%20R.%20Donaldson/The%20Illearth%20War%20%28350%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20R.%20Donaldson/The%20Illearth%20War%20%28350%29/The%20Illearth%20War%20-%20Stephen%20R.%20Donaldson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
+    <link href="../../Stephen%20R.%20Donaldson/The%20Illearth%20War%20%28350%29/The%20Illearth%20War%20-%20Stephen%20R.%20Donaldson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="787 KB" />
+    <author>
+      <name>Stephen R. Donaldson</name>
+      <uri>../76bdb722@author_0/9f16813c@author_11_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="Chronicles of Thomas Covenant the Unbeliever" />
+    <summary>The Chronicles of Thomas Covenant the Unbeliever [2]:</summary>
+    <link href="../76bdb722%40book_0/acf90957%40book_350.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Power that Preserves</title>
+    <id>calibre:book:351</id>
+    <updated>2016-12-16T11:55:10Z</updated>
+    <link href="../../Stephen%20R.%20Donaldson/The%20Power%20that%20Preserves%20%28351%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20R.%20Donaldson/The%20Power%20that%20Preserves%20%28351%29/The%20Power%20that%20Preserves%20-%20Stephen%20R.%20Donaldson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="392 KB" />
+    <link href="../../Stephen%20R.%20Donaldson/The%20Power%20that%20Preserves%20%28351%29/The%20Power%20that%20Preserves%20-%20Stephen%20R.%20Donaldson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="634 KB" />
+    <author>
+      <name>Stephen R. Donaldson</name>
+      <uri>../76bdb722@author_0/9f16813c@author_11_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="Chronicles of Thomas Covenant the Unbeliever" />
+    <summary>The Chronicles of Thomas Covenant the Unbeliever [3]:</summary>
+    <link href="../76bdb722%40book_0/dbfe39c1%40book_351.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lord Foul's Bane</title>
+    <id>calibre:book:352</id>
+    <updated>2016-12-16T11:55:11Z</updated>
+    <link href="../../Stephen%20R.%20Donaldson/Lord%20Foul%27s%20Bane%20%28352%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20R.%20Donaldson/Lord%20Foul%27s%20Bane%20%28352%29/Lord%20Foul%27s%20Bane%20-%20Stephen%20R.%20Donaldson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="500 KB" />
+    <link href="../../Stephen%20R.%20Donaldson/Lord%20Foul%27s%20Bane%20%28352%29/Lord%20Foul%27s%20Bane%20-%20Stephen%20R.%20Donaldson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="853 KB" />
+    <author>
+      <name>Stephen R. Donaldson</name>
+      <uri>../76bdb722@author_0/9f16813c@author_11_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="Chronicles of Thomas Covenant the Unbeliever" />
+    <summary>The Chronicles of Thomas Covenant the Unbeliever [1]:</summary>
+    <link href="../76bdb722%40book_0/42f7687b%40book_352.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

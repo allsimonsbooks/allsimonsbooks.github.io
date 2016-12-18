@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Greek Series</title>
+  <id>Calibre2opds::serieslistseries:37</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./e04e840c%40series_37_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Greek Series" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Lion of MacEdon</title>
+    <id>calibre:book:492</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Lion%20of%20MacEdon%20%28492%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Lion%20of%20MacEdon%20%28492%29/Lion%20of%20MacEdon%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="453 KB" />
+    <link href="../../David%20Gemmell/Lion%20of%20MacEdon%20%28492%29/Lion%20of%20MacEdon%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="716 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>1990-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Biographical Fiction" />
+    <category term="Greece" />
+    <category term="Greece - History - MacEdonian Expansion; 359-323 B.C" />
+    <category term="Parmenion" />
+    <category term="Greece - History - Spartan and Theban Supremacies; 404-362 B.C" />
+    <category term="Greece - History - Spartan and Theban Supremacies" />
+    <category term="359-323 B.C" />
+    <category term="Greece - History - MacEdonian Expansion" />
+    <category term="404-362 B.C" />
+    <category term="Lang:en" />
+    <category term="Greek Series" />
+    <summary>Greek Series [1]:</summary>
+    <link href="../76bdb722%40book_0/eb0d31f2%40book_492.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Dark Prince</title>
+    <id>calibre:book:490</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Dark%20Prince%20%28490%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Dark%20Prince%20%28490%29/Dark%20Prince%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="479 KB" />
+    <link href="../../David%20Gemmell/Dark%20Prince%20%28490%29/Dark%20Prince%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="742 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>1991-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Greeks" />
+    <category term="Biographical Fiction" />
+    <category term="Greece" />
+    <category term="Kings and Rulers" />
+    <category term="Generals" />
+    <category term="Alexander" />
+    <category term="Greece - History - MacEdonian Expansion; 359-323 B.C" />
+    <category term="Parmenion" />
+    <category term="359-323 B.C" />
+    <category term="Greece - History - MacEdonian Expansion" />
+    <category term="Lang:en" />
+    <category term="Greek Series" />
+    <summary>Greek Series [2]:</summary>
+    <link href="../76bdb722%40book_0/50350de%40book_490.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Reckoners</title>
+  <id>Calibre2opds::serieslistseries:52</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./c67ed705%40series_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Reckoners" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Steelheart</title>
+    <id>calibre:book:552</id>
+    <updated>2016-12-16T11:56:16Z</updated>
+    <link href="../../Brandon%20Sanderson/Steelheart%20%28552%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Steelheart%20%28552%29/Steelheart%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <link href="../../Brandon%20Sanderson/Steelheart%20%28552%29/Steelheart%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1011 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2013-09-24T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Reckoners" />
+    <summary>Reckoners [1]:</summary>
+    <link href="../76bdb722%40book_0/467a14c9%40book_552.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1.5 - Mitosis - A Reckoners Story</title>
+    <id>calibre:book:550</id>
+    <updated>2016-12-16T11:56:15Z</updated>
+    <link href="../../Brandon%20Sanderson/Mitosis%20-%20A%20Reckoners%20Story%20%28550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Mitosis%20-%20A%20Reckoners%20Story%20%28550%29/Mitosis%20-%20A%20Reckoners%20Story%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Brandon%20Sanderson/Mitosis%20-%20A%20Reckoners%20Story%20%28550%29/Mitosis%20-%20A%20Reckoners%20Story%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="468 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2013-12-03T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Delacorte Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Reckoners" />
+    <summary>Reckoners [1.50]:</summary>
+    <link href="../76bdb722%40book_0/a87475e5%40book_550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Firefight</title>
+    <id>calibre:book:551</id>
+    <updated>2016-12-16T11:56:15Z</updated>
+    <link href="../../Brandon%20Sanderson/Firefight%20%28551%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Firefight%20%28551%29/Firefight%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Brandon%20Sanderson/Firefight%20%28551%29/Firefight%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="541 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-01-06T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Delacorte Press</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Young Adult" />
+    <category term="Science Fiction" />
+    <category term="Adventure" />
+    <category term="Lang:en" />
+    <category term="Reckoners" />
+    <summary>Reckoners [2]:</summary>
+    <link href="../76bdb722%40book_0/df734573%40book_551.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Calamity</title>
+    <id>calibre:book:4</id>
+    <updated>2016-05-26T03:22:50Z</updated>
+    <link href="../../Brandon%20Sanderson/Calamity%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Calamity%20%284%29/Calamity%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Brandon%20Sanderson/Calamity%20%284%29/Calamity%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../76bdb722@author_0/4801887d@author_3_Page_1.xml</uri>
+    </author>
+    <published>2016-02-16T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Reckoners" />
+    <summary>Reckoners [3]:</summary>
+    <link href="../76bdb722%40book_0/d4cc99d4%40book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

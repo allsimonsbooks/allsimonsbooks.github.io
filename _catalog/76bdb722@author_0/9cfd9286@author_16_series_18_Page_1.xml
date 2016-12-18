@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: The Lost Files</title>
+  <id>Calibre2opds:author:16series:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./9cfd9286%40author_16_series_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: The Lost Files" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./172149f%40author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Pittacus Lore" />
+  <entry>
+    <title>1 - Six's Legacy</title>
+    <id>calibre:book:393</id>
+    <updated>2016-12-16T11:55:23Z</updated>
+    <link href="../../Pittacus%20Lore/Six%27s%20Legacy%20%28393%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pittacus%20Lore/Six%27s%20Legacy%20%28393%29/Six%27s%20Legacy%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="339 KB" />
+    <link href="../../Pittacus%20Lore/Six%27s%20Legacy%20%28393%29/Six%27s%20Legacy%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="377 KB" />
+    <author>
+      <name>Pittacus Lore</name>
+      <uri>../76bdb722@author_0/172149f@author_16_Page_1.xml</uri>
+    </author>
+    <published>2011-07-25T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Fantasy &amp; Magic" />
+    <category term="Juvenile Fiction" />
+    <category term="Survival Stories" />
+    <category term="Action &amp; Adventure" />
+    <category term="Lang:en" />
+    <category term="Lost Files" />
+    <summary>The Lost Files [1]:</summary>
+    <link href="../76bdb722%40book_0/994517e1%40book_393.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Nine’s Legacy</title>
+    <id>calibre:book:392</id>
+    <updated>2016-12-16T11:55:24Z</updated>
+    <link href="../../Pittacus%20Lore/Nine%27s%20Legacy%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pittacus%20Lore/Nine%27s%20Legacy%20%28392%29/Nine%27s%20Legacy%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <link href="../../Pittacus%20Lore/Nine%27s%20Legacy%20%28392%29/Nine%27s%20Legacy%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Pittacus Lore</name>
+      <uri>../76bdb722@author_0/172149f@author_16_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Lost Files" />
+    <summary>The Lost Files [2]:</summary>
+    <link href="../76bdb722%40book_0/ee422777%40book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - The Fallen Legacies</title>
+    <id>calibre:book:391</id>
+    <updated>2016-12-16T11:55:23Z</updated>
+    <link href="../../Pittacus%20Lore/The%20Fallen%20Legacies%20%28391%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pittacus%20Lore/The%20Fallen%20Legacies%20%28391%29/The%20Fallen%20Legacies%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="489 KB" />
+    <link href="../../Pittacus%20Lore/The%20Fallen%20Legacies%20%28391%29/The%20Fallen%20Legacies%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="546 KB" />
+    <author>
+      <name>Pittacus Lore</name>
+      <uri>../76bdb722@author_0/172149f@author_16_Page_1.xml</uri>
+    </author>
+    <published>2012-07-23T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Lost Files" />
+    <summary>The Lost Files [3]:</summary>
+    <link href="../76bdb722%40book_0/774b76cd%40book_391.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - The Search for Sam</title>
+    <id>calibre:book:390</id>
+    <updated>2016-12-16T11:55:22Z</updated>
+    <link href="../../Pittacus%20Lore/The%20Search%20for%20Sam%20%28390%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pittacus%20Lore/The%20Search%20for%20Sam%20%28390%29/The%20Search%20for%20Sam%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Pittacus%20Lore/The%20Search%20for%20Sam%20%28390%29/The%20Search%20for%20Sam%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="922 KB" />
+    <author>
+      <name>Pittacus Lore</name>
+      <uri>../76bdb722@author_0/172149f@author_16_Page_1.xml</uri>
+    </author>
+    <published>2012-12-26T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperTeen</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Young Adult" />
+    <category term="Azizex666" />
+    <category term="Science Fiction" />
+    <category term="Lang:en" />
+    <category term="Lost Files" />
+    <summary>The Lost Files [5]:</summary>
+    <link href="../76bdb722%40book_0/4c465b%40book_390.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>6 - The Last Days of Lorien</title>
+    <id>calibre:book:389</id>
+    <updated>2016-12-16T11:55:22Z</updated>
+    <link href="../../Pittacus%20Lore/The%20Last%20Days%20of%20Lorien%20%28389%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pittacus%20Lore/The%20Last%20Days%20of%20Lorien%20%28389%29/The%20Last%20Days%20of%20Lorien%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
+    <link href="../../Pittacus%20Lore/The%20Last%20Days%20of%20Lorien%20%28389%29/The%20Last%20Days%20of%20Lorien%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="469 KB" />
+    <author>
+      <name>Pittacus Lore</name>
+      <uri>../76bdb722@author_0/172149f@author_16_Page_1.xml</uri>
+    </author>
+    <published>2013-04-08T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Lost Files" />
+    <summary>The Lost Files [6]:</summary>
+    <link href="../76bdb722%40book_0/608bcfbe%40book_389.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 - The Forgotten Ones</title>
+    <id>calibre:book:387</id>
+    <updated>2016-12-16T11:55:22Z</updated>
+    <link href="../../Pittacus%20Lore/The%20Forgotten%20Ones%20%28387%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Pittacus%20Lore/The%20Forgotten%20Ones%20%28387%29/The%20Forgotten%20Ones%20-%20Pittacus%20Lore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="343 KB" />
+    <link href="../../Pittacus%20Lore/The%20Forgotten%20Ones%20%28387%29/The%20Forgotten%20Ones%20-%20Pittacus%20Lore.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="392 KB" />
+    <author>
+      <name>Pittacus Lore</name>
+      <uri>../76bdb722@author_0/172149f@author_16_Page_1.xml</uri>
+    </author>
+    <published>2013-07-22T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Lost Files" />
+    <summary>The Lost Files [7]:</summary>
+    <link href="../76bdb722%40book_0/8733e2b9%40book_387.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

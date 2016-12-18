@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series: The Belgariad</title>
+  <id>Calibre2opds:author:29series:42</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./913b1ddf%40author_29_series_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series: The Belgariad" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./bae05acd%40author_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Eddings" />
+  <entry>
+    <title>1 - Pawn of Prophecy</title>
+    <id>calibre:book:521</id>
+    <updated>2016-12-16T11:56:05Z</updated>
+    <link href="../../David%20Eddings/Pawn%20of%20Prophecy%20%28521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/Pawn%20of%20Prophecy%20%28521%29/Pawn%20of%20Prophecy%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="576 KB" />
+    <link href="../../David%20Eddings/Pawn%20of%20Prophecy%20%28521%29/Pawn%20of%20Prophecy%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="737 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1982-08-15T03:52:23Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Belgariad" />
+    <summary>The Belgariad [1]:</summary>
+    <link href="../76bdb722%40book_0/9032d3b4%40book_521.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Queen of Sorcery</title>
+    <id>calibre:book:520</id>
+    <updated>2016-12-16T11:56:05Z</updated>
+    <link href="../../David%20Eddings/Queen%20of%20Sorcery%20%28520%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/Queen%20of%20Sorcery%20%28520%29/Queen%20of%20Sorcery%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="596 KB" />
+    <link href="../../David%20Eddings/Queen%20of%20Sorcery%20%28520%29/Queen%20of%20Sorcery%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="789 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1982-08-15T03:52:56Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Belgariad" />
+    <summary>The Belgariad [2]:</summary>
+    <link href="../76bdb722%40book_0/e735e322%40book_520.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Magician's Gambit</title>
+    <id>calibre:book:519</id>
+    <updated>2016-12-16T11:56:05Z</updated>
+    <link href="../../David%20Eddings/Magician%27s%20Gambit%20%28519%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/Magician%27s%20Gambit%20%28519%29/Magician%27s%20Gambit%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="593 KB" />
+    <link href="../../David%20Eddings/Magician%27s%20Gambit%20%28519%29/Magician%27s%20Gambit%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="766 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1983-08-15T03:53:19Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Belgariad" />
+    <summary>The Belgariad [3]:</summary>
+    <link href="../76bdb722%40book_0/b5c40845%40book_519.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Castle of Wizardry</title>
+    <id>calibre:book:518</id>
+    <updated>2016-12-16T11:56:04Z</updated>
+    <link href="../../David%20Eddings/Castle%20of%20Wizardry%20%28518%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/Castle%20of%20Wizardry%20%28518%29/Castle%20of%20Wizardry%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="661 KB" />
+    <link href="../../David%20Eddings/Castle%20of%20Wizardry%20%28518%29/Castle%20of%20Wizardry%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="872 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1984-08-15T03:52:46Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Belgariad" />
+    <summary>The Belgariad [4]:</summary>
+    <link href="../76bdb722%40book_0/c2c338d3%40book_518.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - Enchanters' End Game</title>
+    <id>calibre:book:517</id>
+    <updated>2016-12-16T11:56:04Z</updated>
+    <link href="../../David%20Eddings/Enchanters%27%20End%20Game%20%28517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Eddings/Enchanters%27%20End%20Game%20%28517%29/Enchanters%27%20End%20Game%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="687 KB" />
+    <link href="../../David%20Eddings/Enchanters%27%20End%20Game%20%28517%29/Enchanters%27%20End%20Game%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="887 KB" />
+    <author>
+      <name>David Eddings</name>
+      <uri>../76bdb722@author_0/bae05acd@author_29_Page_1.xml</uri>
+    </author>
+    <published>1984-08-15T03:53:16Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <category term="Belgariad" />
+    <summary>The Belgariad [5]:</summary>
+    <link href="../76bdb722%40book_0/527c2542%40book_517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All books by Patrick Rothfuss</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./ab059e39%40author_18_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by Patrick Rothfuss" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./e6ca3998%40author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Patrick Rothfuss" />
+  <entry>
+    <title>The Slow Regard of Silent Things: A Kingkiller Chronicle Novella (The Kingkiller Chronicle)</title>
+    <id>calibre:book:401</id>
+    <updated>2016-12-16T11:55:27Z</updated>
+    <link href="../../Patrick%20Rothfuss/The%20Slow%20Regard%20of%20Silent%20Things_%20A%20%28401%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patrick%20Rothfuss/The%20Slow%20Regard%20of%20Silent%20Things_%20A%20%28401%29/The%20Slow%20Regard%20of%20Silent%20Thing%20-%20Patrick%20Rothfuss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Patrick%20Rothfuss/The%20Slow%20Regard%20of%20Silent%20Things_%20A%20%28401%29/The%20Slow%20Regard%20of%20Silent%20Thing%20-%20Patrick%20Rothfuss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="3 MB" />
+    <author>
+      <name>Patrick Rothfuss</name>
+      <uri>../76bdb722@author_0/e6ca3998@author_18_Page_1.xml</uri>
+    </author>
+    <published>2014-10-27T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orion</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Kingkiller Chronicle" />
+    <summary>The Kingkiller Chronicle [2.50]:</summary>
+    <link href="../76bdb722%40book_0/a3c6db01%40book_401.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Name of the Wind</title>
+    <id>calibre:book:402</id>
+    <updated>2016-12-16T11:55:27Z</updated>
+    <link href="../../Patrick%20Rothfuss/The%20Name%20of%20the%20Wind%20%28402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patrick%20Rothfuss/The%20Name%20of%20the%20Wind%20%28402%29/The%20Name%20of%20the%20Wind%20-%20Patrick%20Rothfuss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="850 KB" />
+    <link href="../../Patrick%20Rothfuss/The%20Name%20of%20the%20Wind%20%28402%29/The%20Name%20of%20the%20Wind%20-%20Patrick%20Rothfuss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Patrick Rothfuss</name>
+      <uri>../76bdb722@author_0/e6ca3998@author_18_Page_1.xml</uri>
+    </author>
+    <published>2009-04-07T07:02:52Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Daw Books</dcterms:publisher>
+    <category term="Fantasy - Epic" />
+    <category term="Fantasy - General" />
+    <category term="Epic" />
+    <category term="Magic" />
+    <category term="American Science Fiction And Fantasy" />
+    <category term="Fantasy fiction" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="Magicians" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <category term="Kingkiller Chronicle" />
+    <summary>The Kingkiller Chronicle [1]:</summary>
+    <link href="../76bdb722%40book_0/3acf8abb%40book_402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Wise Man's Fear</title>
+    <id>calibre:book:404</id>
+    <updated>2016-12-16T11:55:26Z</updated>
+    <link href="../../Patrick%20Rothfuss/The%20Wise%20Man%27s%20Fear%20%28404%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patrick%20Rothfuss/The%20Wise%20Man%27s%20Fear%20%28404%29/The%20Wise%20Man%27s%20Fear%20-%20Patrick%20Rothfuss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Patrick%20Rothfuss/The%20Wise%20Man%27s%20Fear%20%28404%29/The%20Wise%20Man%27s%20Fear%20-%20Patrick%20Rothfuss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Patrick Rothfuss</name>
+      <uri>../76bdb722@author_0/e6ca3998@author_18_Page_1.xml</uri>
+    </author>
+    <published>2011-03-01T04:53:25Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA</dcterms:publisher>
+    <category term="Amazon Top Books of 2011.Science Fiction &amp; Fantasy" />
+    <category term="Lang:en" />
+    <category term="Kingkiller Chronicle" />
+    <summary>The Kingkiller Chronicle [2]:</summary>
+    <link href="../76bdb722%40book_0/d3ac2f8e%40book_404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>David Gemmell</title>
+  <id>Calibre2opds:author:28</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./cde76a5b%40author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="David Gemmell" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>All books by David Gemmell</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Alphabetical index of the 32 books</content>
+    <link href="../76bdb722%40author_0/32e7f838%40author_28_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Drenai</title>
+    <id>Calibre2opds:author:28series:38</id>
+    <content type="text">11 books</content>
+    <link href="../76bdb722%40author_0/cf7266de%40author_28_series_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Greek Series</title>
+    <id>Calibre2opds:author:28series:37</id>
+    <content type="text">2 books</content>
+    <link href="../76bdb722%40author_0/5fcd7b4f%40author_28_series_37_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Hawk Queen</title>
+    <id>Calibre2opds:author:28series:36</id>
+    <content type="text">2 books</content>
+    <link href="../76bdb722%40author_0/28ca4bd9%40author_28_series_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Rigante</title>
+    <id>Calibre2opds:author:28series:35</id>
+    <content type="text">4 books</content>
+    <link href="../76bdb722%40author_0/b1c31a63%40author_28_series_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Stones of Power</title>
+    <id>Calibre2opds:author:28series:34</id>
+    <content type="text">5 books</content>
+    <link href="../76bdb722%40author_0/c6c42af5%40author_28_series_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Troy</title>
+    <id>Calibre2opds:author:28series:33</id>
+    <content type="text">3 books</content>
+    <link href="../76bdb722%40author_0/58a0bf56%40author_28_series_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Morningstar</title>
+    <id>calibre:book:486</id>
+    <updated>2016-12-16T11:55:55Z</updated>
+    <link href="../../David%20Gemmell/Morningstar%20%28486%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Morningstar%20%28486%29/Morningstar%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="353 KB" />
+    <link href="../../David%20Gemmell/Morningstar%20%28486%29/Morningstar%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="499 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>1993-09-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../76bdb722%40book_0/f57bc4aa%40book_486.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Knights of Dark Renown</title>
+    <id>calibre:book:487</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Knights%20of%20Dark%20Renown%20%28487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Knights%20of%20Dark%20Renown%20%28487%29/Knights%20of%20Dark%20Renown%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="374 KB" />
+    <link href="../../David%20Gemmell/Knights%20of%20Dark%20Renown%20%28487%29/Knights%20of%20Dark%20Renown%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="539 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>1989-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Lang:en" />
+    <link href="../76bdb722%40book_0/827cf43c%40book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Echoes of the Great Song</title>
+    <id>calibre:book:491</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Echoes%20of%20the%20Great%20Song%20%28491%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Echoes%20of%20the%20Great%20Song%20%28491%29/Echoes%20of%20the%20Great%20Song%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="420 KB" />
+    <link href="../../David%20Gemmell/Echoes%20of%20the%20Great%20Song%20%28491%29/Echoes%20of%20the%20Great%20Song%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="591 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>1997-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../76bdb722%40book_0/72046048%40book_491.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dark Moon</title>
+    <id>calibre:book:504</id>
+    <updated>2016-12-16T11:56:00Z</updated>
+    <link href="../../David%20Gemmell/Dark%20Moon%20%28504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Dark%20Moon%20%28504%29/Dark%20Moon%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="403 KB" />
+    <link href="../../David%20Gemmell/Dark%20Moon%20%28504%29/Dark%20Moon%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="570 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>1988-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="English Fiction" />
+    <category term="Lang:en" />
+    <link href="../76bdb722%40book_0/d26e45b9%40book_504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Complete Chronicles of Jerusalem Man</title>
+    <id>calibre:book:507</id>
+    <updated>2016-12-16T11:56:00Z</updated>
+    <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/Complete%20Chronicles%20of%20Jerusale%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="774 KB" />
+    <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/Complete%20Chronicles%20of%20Jerusale%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+    </author>
+    <published>1995-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../76bdb722%40book_0/4b671403%40book_507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

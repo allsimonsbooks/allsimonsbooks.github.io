@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Winter Warriors</title>
+  <id>urn:book:21c4d6ee-ccef-4128-aee3-f17ee8bbe3ef</id>
+  <updated>2016-12-16T11:55:58Z</updated>
+  <link href="./bd8d8ec%40book_498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Winter Warriors" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../76bdb722%40author_0/cde76a5b%40author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <link href="../../David%20Gemmell/Winter%20Warriors%20%28498%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Gemmell/Winter%20Warriors%20%28498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Gemmell/Winter%20Warriors%20%28498%29/Winter%20Warriors%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="419 KB" />
+  <link href="../../David%20Gemmell/Winter%20Warriors%20%28498%29/Winter%20Warriors%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="562 KB" />
+  <author>
+    <name>David Gemmell</name>
+    <uri>../76bdb722@author_0/cde76a5b@author_28_Page_1.xml</uri>
+  </author>
+  <published>1997-01-02T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Del Rey</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Epic" />
+  <category term="Fantasy fiction" />
+  <category term="Fantasy Fiction; American" />
+  <category term="Demonology" />
+  <category term="Prophecies" />
+  <category term="Warriors" />
+  <category term="American" />
+  <category term="Lang:en" />
+  <category term="Drenai" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 8 in the Drenai series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        Winged demons gather, silent and unseen, above the city of
+      Usa, their talons long and sharp. Their purpose is clear, as
+      is the prophesy: Upon the deaths of the three kings, the
+      demon riders of the Krayakin will become flesh, free to slake
+      their thirst with human blood - and the stench of evil will
+      cover the land.  
+        <br />
+      </p>
+      <p>
+        Two of the kings are already dead. For the prophesy to be
+      fulfilled, spreading carnage across the world, the Demon Lord
+      must sacrifice the third king: Queen Axiana's unborn child.
+        <br />
+      </p>
+      <p>When Emperor Skanda disbands his army, the pregnant queen
+      takes flight, pursued by the Lords of the Undead. All hope
+      lies with three ancient heroes, though discarded by the
+      emperor, they are still Drenai soldiers: Bison the giant,
+      Kebra the bowman, and the great swordsman Nogusta - the Demon
+      Lord's greatest foe. But will these warriors - once the best
+      in the land - be enough to stem the tide of gruesome horror
+      that threatens to envelop the world?</p>
+      <h3>Amazon.com Review</h3>
+      <p>David Gemmell has a talent for fantasy tales of heroism
+      and villainy that feature characters who, while
+      sympathetically flawed, are almost superhumanly good at what
+      they do. Often these people are warriors: finely drawn,
+      emotionally complex, and struggling with their individual
+      human challenges against the backdrop of epic events.</p>
+      <p>
+        The heroic figures here are three Drenai soldiers,
+      Nogusta, Bison, and Kebra, whose services have been rejected
+      by their king because they are no longer young. However,
+      while these old friends might be a tad past their best, they
+      are still very good indeed, and when they are called upon to
+      protect the infant heir to the throne, the little prince
+      could not be in better hands. In the midst of flight and
+      eventual, desperate battle against the forces of the demon
+      lord Anharat, they fight not only a human army and a band of
+      demon riders bent on the heir's death but their own doubts
+      about their ability and worth. Gemmell is particularly deft
+      at describing fine gradations of the friendship between the
+      three men, including the subtleties of liking, of loving, and
+      of the different strengths that come with age.
+        <em>Winter Warriors</em>
+        is both a fast-paced fantasy
+      adventure and a powerful story of living and dying well.
+        <em>--Luc Duplessis</em>
+      </p>
+      <h3>Review</h3>
+      <p>
+        "David Gemmell tells a tale of very real adventure, the
+      stuff of true epic fantasy."
+        <br />
+        -R. A. SALVATORE
+        <br />
+           Author of the DemonWars trilogy
+      </p>
+    </div>
+  </content>
+</entry>
