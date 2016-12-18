@@ -8,14 +8,14 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./_catalog/76bdb722%40index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="AllSimonsBooks" />
-  <link href="./_catalog/76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
-  <link href="./_catalog/76bdb722@index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="./_catalog/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="AllSimonsBooks" />
+  <link href="./_catalog/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="./_catalog/index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
   <entry>
     <title>Authors</title>
     <id>Calibre2opds:authorlist</id>
     <content type="text">Alphabetical index of the 29 authors</content>
-    <link href="./_catalog/76bdb722%40authorlist/e8e4356e%40authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="./_catalog/authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./_catalog/authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -23,7 +23,7 @@
     <title>Series</title>
     <id>Calibre2opds::serieslist</id>
     <content type="text">Alphabetical index of the 53 series</content>
-    <link href="./_catalog/76bdb722%40serieslist/9b9c2e2f%40serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="./_catalog/serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./_catalog/series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -31,7 +31,7 @@
     <title>All books</title>
     <id>Calibre2opds:allbooks</id>
     <content type="text">Alphabetical index of the 304 books</content>
-    <link href="./_catalog/76bdb722%40allbooks/c67a4b73%40allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="./_catalog/allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./_catalog/allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
