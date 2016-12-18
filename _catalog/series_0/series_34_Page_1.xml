@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Stones of Power</title>
+  <id>Calibre2opds::serieslistseries:34</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Stones of Power" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Ghost King</title>
+    <id>calibre:book:481</id>
+    <updated>2016-12-16T11:55:53Z</updated>
+    <link href="../../David%20Gemmell/Ghost%20King%20%28481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Ghost%20King%20%28481%29/Ghost%20King%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="351 KB" />
+    <link href="../../David%20Gemmell/Ghost%20King%20%28481%29/Ghost%20King%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="468 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1988-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [1]:</summary>
+    <link href="../book_0/book_481.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Last Sword of Power</title>
+    <id>calibre:book:480</id>
+    <updated>2016-12-16T11:55:53Z</updated>
+    <link href="../../David%20Gemmell/Last%20Sword%20of%20Power%20%28480%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Last%20Sword%20of%20Power%20%28480%29/Last%20Sword%20of%20Power%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="247 KB" />
+    <link href="../../David%20Gemmell/Last%20Sword%20of%20Power%20%28480%29/Last%20Sword%20of%20Power%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="369 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1988-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Space Opera" />
+    <category term="Fiction" />
+    <category term="Adventure" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="English Fiction" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [2]:</summary>
+    <link href="../book_0/book_480.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Wolf in Shadow</title>
+    <id>calibre:book:477</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/Wolf%20in%20Shadow%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="360 KB" />
+    <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/Wolf%20in%20Shadow%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="529 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1987-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="Good and Evil" />
+    <category term="Shannow; Jon (Fictitious Character)" />
+    <category term="Quests (Expeditions)" />
+    <category term="Jon (Fictitious Character)" />
+    <category term="Shannow" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [3]:</summary>
+    <link href="../book_0/book_477.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>4 - Last Guardian</title>
+    <id>calibre:book:478</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Last%20Guardian%20%28478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Last%20Guardian%20%28478%29/Last%20Guardian%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="351 KB" />
+    <link href="../../David%20Gemmell/Last%20Guardian%20%28478%29/Last%20Guardian%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="466 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1989-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Fantasy fiction" />
+    <category term="English Fiction" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [4]:</summary>
+    <link href="../book_0/book_478.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>5 - Bloodstone</title>
+    <id>calibre:book:479</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Bloodstone%20%28479%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Bloodstone%20%28479%29/Bloodstone%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
+    <link href="../../David%20Gemmell/Bloodstone%20%28479%29/Bloodstone%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="542 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1994-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [5]:</summary>
+    <link href="../book_0/book_479.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

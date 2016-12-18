@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Seeress of Kell</title>
+  <id>urn:book:fefe1344-640d-4e2a-8cda-a0a1beb05ddf</id>
+  <updated>2016-12-16T11:56:02Z</updated>
+  <link href="./book_509.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Seeress of Kell" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Eddings" />
+  <link href="../../David%20Eddings/The%20Seeress%20of%20Kell%20%28509%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Eddings/The%20Seeress%20of%20Kell%20%28509%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Eddings/The%20Seeress%20of%20Kell%20%28509%29/The%20Seeress%20of%20Kell%20-%20David%20Eddings.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="467 KB" />
+  <link href="../../David%20Eddings/The%20Seeress%20of%20Kell%20%28509%29/The%20Seeress%20of%20Kell%20-%20David%20Eddings.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="635 KB" />
+  <author>
+    <name>David Eddings</name>
+    <uri>../author_0/author_29_Page_1.xml</uri>
+  </author>
+  <published>1991-08-15T03:53:02Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Del Rey</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Lang:en" />
+  <category term="Malloreon" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the Malloreon series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">THE FINAL RECKONING</p>
+    <p xmlns="">Time was running out for Garion and his companions in their
+    quest to recover Garion's infant son and heir. If they could
+    not locate the Place Which Is No More, then Zandramas, the
+    Child of Dark, would use Garion's son in a rite that would
+    raise the Dark Prophecy to eternal dominion over the
+    universe!</p>
+    <p xmlns="">Only the Seeress of Kell could reveal the site of that
+    mysterious place--and that she could do only once Garion and
+    Polgara had fulfilled an ancient prophecy in the mountain
+    fastness of the Seers . . .</p>
+    <p xmlns="">Kell itself was closed to Zandramas--but her dark magic
+    could force the knowledge she needed from one of Garion's
+    party. She laid her traps and dispatched her foul minions,
+    determined to claim the world for the Dark God. But Garion
+    would let nothing stand between him and his son . . .</p>
+    <p xmlns="">Here is the epochal conclusion to David Eddings' bestselling
+    The Malloreon, the culmination of an unparalleled quest across
+    strange lands and among strange peoples--a magnificent fantasy
+    of men, Kings, Sorcerers, and Gods caught up in the
+    seven-thousand-year war between two ancient, opposing Destinies
+    battling to determine the fate of all creation.</p>
+    <p xmlns="">**</p>
+  </content>
+</entry>

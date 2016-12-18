@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Beyond the Shadows</title>
+  <id>urn:book:62aacbc0-0c60-4847-987d-a93a116f4c5f</id>
+  <updated>2016-12-16T11:56:12Z</updated>
+  <link href="./book_539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Beyond the Shadows" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brent Weeks" />
+  <link href="../../Brent%20Weeks/Beyond%20the%20Shadows%20%28539%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brent%20Weeks/Beyond%20the%20Shadows%20%28539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brent%20Weeks/Beyond%20the%20Shadows%20%28539%29/Beyond%20the%20Shadows%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="820 KB" />
+  <link href="../../Brent%20Weeks/Beyond%20the%20Shadows%20%28539%29/Beyond%20the%20Shadows%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="996 KB" />
+  <author>
+    <name>Brent Weeks</name>
+    <uri>../author_0/author_34_Page_1.xml</uri>
+  </author>
+  <published>2008-12-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Orbit</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Romance" />
+  <category term="Adventure" />
+  <category term="Science Fiction" />
+  <category term="Lang:en" />
+  <category term="Night Angel Trilogy" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Night Angel Trilogy series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      Logan Gyre is king of Cenaria, a country under siege, with a
+    threadbare army and little hope. He has one chance - a
+    desperate gamble, but one that could destroy his kingdom.
+      <br />
+    </p>
+    <p xmlns="">
+      In the north, the new Godking has a plan. If it comes to
+    fruition, no one will have the power to stop him.
+      <br />
+    </p>
+    <p xmlns="">
+      Kylar Stern has no choice. To save his friends-and perhaps
+    his enemies-he must accomplish the impossible: assassinate a
+    goddess.
+      <br />
+      <em>
+        <br />
+        Beyond the Shadows
+      </em>
+      is the action-packed conclusion to the
+    Night Angel Trilogy.
+    </p>
+    <h3 xmlns="">About the Author</h3>
+    <p xmlns="">
+      Brent Weeks was born and raised in Montana. After getting
+    his paper keys from Hillsdale College, Brent had brief stints
+    walking the earth like Caine from
+      <em>Kung Fu</em>
+      , tending bar, and corrupting the youth. (Not
+    at the same time.) He started writing on bar napkins, then on
+    lesson plans, then full time. Eventually, someone paid him for
+    it. Brent lives in Oregon with his wife, Kristi. He doesn't own
+    cats or wear a ponytail. Find more about the author at
+    www.brentweeks.com.
+    </p>
+  </content>
+</entry>

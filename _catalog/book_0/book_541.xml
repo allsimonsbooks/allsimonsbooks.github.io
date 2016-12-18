@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Shadow's Edge</title>
+  <id>urn:book:da4cb3a9-dc18-473e-ac37-c58d898070c7</id>
+  <updated>2016-12-16T11:56:13Z</updated>
+  <link href="./book_541.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Shadow's Edge" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brent Weeks" />
+  <link href="../../Brent%20Weeks/Shadow%27s%20Edge%20%28541%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brent%20Weeks/Shadow%27s%20Edge%20%28541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brent%20Weeks/Shadow%27s%20Edge%20%28541%29/Shadow%27s%20Edge%20-%20Brent%20Weeks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="709 KB" />
+  <link href="../../Brent%20Weeks/Shadow%27s%20Edge%20%28541%29/Shadow%27s%20Edge%20-%20Brent%20Weeks.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="897 KB" />
+  <author>
+    <name>Brent Weeks</name>
+    <uri>../author_0/author_34_Page_1.xml</uri>
+  </author>
+  <published>2008-11-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Orbit</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Romance" />
+  <category term="Adventure" />
+  <category term="Science Fiction" />
+  <category term="Lang:en" />
+  <category term="Night Angel Trilogy" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Night Angel Trilogy series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      Kylar Stern has rejected the assassin's life. The Godking's
+    successful coup has left Kylar's master, Durzo, and his best
+    friend, Logan, dead. He is starting over: new city, new
+    friends, and new profession.
+      <br />
+    </p>
+    <p xmlns="">But when he learns that Logan might actually be alive and in
+    hiding, Kylar is faced with an agonizing choice: will he give
+    up the way of shadows forever and live in peace with his new
+    family, or will he risk everything by taking on the ultimate
+    hit?</p>
+    <h3 xmlns="">Review</h3>
+    <p xmlns="">I was mesmerized from start to finish. Unforgettable
+    characters, a plot that kept me guessing, non-stop action and
+    the kind of in-depth storytelling that makes me admire a
+    writer's work Terry Brooks</p>
+    <h3 xmlns="">About the Author</h3>
+    <p xmlns="">Brent Weeks was born and raised in Montana. After graduating
+    from Hillsdale College, Brent had brief stints walking the
+    earth like Caine from Kung Fu and tending bar. He started
+    writing on bar napkins, then on lesson plans, then full time.
+    The New York Times bestselling author of the Night Angel
+    Trilogy, Brent lives in Oregon with his wife, Kristi. Paul
+    Boehmer appeared for two seasons at the Old Globe Theatre in
+    San Diego, California, where he played Oberon/Theseus in A
+    Midsummer Night's Dream and Lucius in Titus Andronicus. He also
+    appeared in The Constant Wife, played Banquo in Macbeth, and
+    was Antipholus of Syracuse in The Comedy of Errors in the 2005
+    Summer Rep Season at the Globe. He has appeared in Sir Peter
+    Halls's acclaimed Broadway production of Oscar Wilde's An Ideal
+    Husband, Off-Broadway in the New York premiere of Miss Evers'
+    Boys, and Off-Off-Broadway in New Yorrick, New Yorrick and End
+    of the Day. He has appeared regionally at the Pioneer Theatre
+    Company, Arena Stage, Seattle Rep, Huntington Theatre Company,
+    Cincinnati Playhouse in the Park, Cleveland Playhouse, Missouri
+    Repertory Theatre, Walnut Street Theatre, Syracuse Stage,
+    Berkshire Theatre Festival, and Theatre Works Palo Alto. His
+    film and television appearances include The Good German, The
+    Thomas Crown Affair, Star Trek: Enterprise, Star Trek: Voyager,
+    Star Trek: Deep Space Nine, Frasier, Judging Amy, Guiding
+    Light, and All My Children. Paul is most proud of his
+    award-winning unabridged recording of Moby Dick. He holds a BFA
+    in acting from Southern Methodist University and an MFA in
+    acting from the Professional Theatre Training Program at the
+    University of Delaware.</p>
+  </content>
+</entry>

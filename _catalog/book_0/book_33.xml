@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Why Is This Night Different from All Other Nights?</title>
+  <id>urn:book:f7ecf109-4e08-4b4f-9316-f4f2dafcfcf5</id>
+  <updated>2016-10-09T08:12:15Z</updated>
+  <link href="./book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Why Is This Night Different from All Other Nights?" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lemony Snicket" />
+  <link href="../../Lemony%20Snicket/Why%20Is%20This%20Night%20Different%20from%20All%20%2833%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lemony%20Snicket/Why%20Is%20This%20Night%20Different%20from%20All%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lemony%20Snicket/Why%20Is%20This%20Night%20Different%20from%20All%20%2833%29/Why%20Is%20This%20Night%20Different%20fro%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Lemony%20Snicket/Why%20Is%20This%20Night%20Different%20from%20All%20%2833%29/Why%20Is%20This%20Night%20Different%20fro%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="2 MB" />
+  <author>
+    <name>Lemony Snicket</name>
+    <uri>../author_0/author_6_Page_1.xml</uri>
+  </author>
+  <published>2015-09-29T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Little, Brown Books for Young Readers</dcterms:publisher>
+  <category term="Juvenile Fiction / Family / General (See Also Headings Under Social Issues)" />
+  <category term="Juvenile Fiction / Social Issues / Adolescence" />
+  <category term="Juvenile Fiction / Mysteries &amp; Detective Stories" />
+  <category term="Lang:en" />
+  <category term="All The Wrong Questions" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the All The Wrong Questions series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">The final installment in Lemony
+    Snicket’s New York Times bestselling series All The Wrong
+    Questions.</p>
+  </content>
+</entry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Steelheart</title>
+  <id>urn:book:afe8ec82-deb6-488e-a684-be905c766f90</id>
+  <updated>2016-12-16T11:56:16Z</updated>
+  <link href="./book_552.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Steelheart" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brandon Sanderson" />
+  <link href="../../Brandon%20Sanderson/Steelheart%20%28552%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/Steelheart%20%28552%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/Steelheart%20%28552%29/Steelheart%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Brandon%20Sanderson/Steelheart%20%28552%29/Steelheart%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1011 KB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>2013-09-24T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House Children's Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Reckoners" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Reckoners series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      From the #1
+      <i>New York Times</i>
+      bestselling author of the Mistborn
+    Trilogy, Brandon Sanderson, comes the first book in a new,
+    action-packed thrill ride of a series--Steelheart.
+      <br />
+      <br />
+      Ten years ago, Calamity came. It was a burst in the sky
+    that gave ordinary men and women extraordinary powers. The awed
+    public started calling them Epics.
+      <br />
+      <br />
+      But Epics are no friend of man. With incredible gifts
+    came the desire to rule. And to rule man you must crush his
+    wills.
+      <br />
+      <br />
+      Nobody fights the Epics . . . nobody but the Reckoners. A
+    shadowy group of ordinary humans, they spend their lives
+    studying Epics, finding their weaknesses, and then
+    assassinating them.
+      <br />
+      <br />
+      And David wants in. He wants Steelheart--the Epic who is
+    said to be invincible. The Epic who killed David's father. For
+    years, like the Reckoners, David's been studying, and
+    planning--and he has something they need. Not an object, but an
+    experience.
+      <br />
+      <br />
+      He's seen Steelheart bleed. And he wants revenge.
+    </p>
+  </content>
+</entry>

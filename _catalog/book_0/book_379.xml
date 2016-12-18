@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Titan's Curse</title>
+  <id>urn:book:e4f047fa-074b-430a-8ccf-18f7d1a74f7b</id>
+  <updated>2016-12-16T11:55:19Z</updated>
+  <link href="./book_379.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Titan's Curse" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Rick Riordan" />
+  <link href="../../Rick%20Riordan/The%20Titan%27s%20Curse%20%28379%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Rick%20Riordan/The%20Titan%27s%20Curse%20%28379%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Rick%20Riordan/The%20Titan%27s%20Curse%20%28379%29/The%20Titan%27s%20Curse%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="325 KB" />
+  <link href="../../Rick%20Riordan/The%20Titan%27s%20Curse%20%28379%29/The%20Titan%27s%20Curse%20-%20Rick%20Riordan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="574 KB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../author_0/author_15_Page_1.xml</uri>
+  </author>
+  <published>2007-05-01T07:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Miramax Books</dcterms:publisher>
+  <category term="Fiction:Young Adult" />
+  <category term="Lang:en" />
+  <category term="Percy Jackson and the Olympians" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Percy Jackson and the Olympians series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p class="description">EDITORIAL REVIEW:</p>
+      <p class="description">When the goddess Artemis goes missing,
+      she is believed to have been kidnapped.And now it's up to
+      Percy and his friends to find out what happened. Who is
+      powerful enough to kidnap a goddess? They must find Artemis
+      before the winter solstice, when her influence on the
+      Olympian Council could swing an important vote on the war
+      with the titans. Not only that, but first Percy will have to
+      solve the mystery of a rare monster that Artemis was hunting
+      when she disappeared -- a monster rumored to be so powerful
+      it could destroy Olympus forever.</p>
+      <p class="description">EDITORIAL REVIEW:</p>
+      <p class="description">When the goddess Artemis goes missing,
+      she is believed to have been kidnapped.And now it's up to
+      Percy and his friends to find out what happened. Who is
+      powerful enough to kidnap a goddess? They must find Artemis
+      before the winter solstice, when her influence on the
+      Olympian Council could swing an important vote on the war
+      with the titans. Not only that, but first Percy will have to
+      solve the mystery of a rare monster that Artemis was hunting
+      when she disappeared -- a monster rumored to be so powerful
+      it could destroy Olympus forever.</p>
+    </div>
+  </content>
+</entry>

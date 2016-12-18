@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Song of Susannah</title>
+  <id>urn:book:13e453e6-0105-4614-8aa9-20253efcca36</id>
+  <updated>2016-12-16T11:55:11Z</updated>
+  <link href="./book_353.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Song of Susannah" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Stephen King" />
+  <link href="../../Stephen%20King/Song%20of%20Susannah%20%28353%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Stephen%20King/Song%20of%20Susannah%20%28353%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Stephen%20King/Song%20of%20Susannah%20%28353%29/Song%20of%20Susannah%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Stephen%20King/Song%20of%20Susannah%20%28353%29/Song%20of%20Susannah%20-%20Stephen%20King.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Stephen King</name>
+    <uri>../author_0/author_12_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Scribner</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Dark Tower" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 6 in the Dark Tower series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="" class="ff">
+      <div class="spacer">
+        <div style="text-align: center;"> </div>
+        <div style="text-align: center;">
+          <b>Awards</b>
+        </div>
+        <div style="text-align: center;">British Fantasy Society
+      (nominee)</div>
+        The sixth volume in The Dark Tower series -
+      the most anticipated series of publications in Stephen King's
+      legendary career - The Dark Tower VI; Song Of Susannah is a
+      pivotal instalment in the epic saga. It provides the key to
+      the quest that defines Roland's life. In the next part of
+      their journey to the tower, Roland and his band of followers
+      face adversity from every side: Susannah Dean has been taken
+      over by a demon-mother and uses the power of Black Thirteen
+      to get from the Mid-World New York City. But who is the is
+      the father of her child? And what role will the Crimson King
+      play? Roland sends Jake to break Susannah's date with
+      destiny, while he himself uses 'the persistence of magic' to
+      get to Maine in the Summer of 1977. It is a terrible world:
+      for one thing it is real and bullets are flying. For another,
+      it is inhabited by the author of a novel called 'Salem's Lot.
+      Song Of Susannah is driven by revelation and by suspense. It
+      continues the Dark Tower seamlessly from Wolves Of The Calla
+      and the dramatic climax will leave readers desperate to read
+      the quest's conclusion. 
+      </div>
+    </div>
+  </content>
+</entry>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Tawny Man Trilogy</title>
+  <id>Calibre2opds::serieslistseries:11</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The Tawny Man Trilogy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Fool's errand</title>
+    <id>calibre:book:366</id>
+    <updated>2016-12-16T11:55:15Z</updated>
+    <link href="../../Robin%20Hobb/Fool%27s%20errand%20%28366%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robin%20Hobb/Fool%27s%20errand%20%28366%29/Fool%27s%20errand%20-%20Robin%20Hobb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="575 KB" />
+    <link href="../../Robin%20Hobb/Fool%27s%20errand%20%28366%29/Fool%27s%20errand%20-%20Robin%20Hobb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="880 KB" />
+    <author>
+      <name>Robin Hobb</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2002-11-26T06:22:26Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Farseer" />
+    <category term="Fantasy - General" />
+    <category term="Epic" />
+    <category term="Fantasy" />
+    <category term="Fantasy fiction" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="American" />
+    <category term="FitzChivalry (Fictitious character)" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <category term="Tawny Man Trilogy" />
+    <summary>The Tawny Man Trilogy [1]:</summary>
+    <link href="../book_0/book_366.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - Golden fool</title>
+    <id>calibre:book:364</id>
+    <updated>2016-12-16T11:55:14Z</updated>
+    <link href="../../Robin%20Hobb/Golden%20fool%20%28364%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robin%20Hobb/Golden%20fool%20%28364%29/Golden%20fool%20-%20Robin%20Hobb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="592 KB" />
+    <link href="../../Robin%20Hobb/Golden%20fool%20%28364%29/Golden%20fool%20-%20Robin%20Hobb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="924 KB" />
+    <author>
+      <name>Robin Hobb</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2003-12-09T06:20:46Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Farseer" />
+    <category term="Fantasy - General" />
+    <category term="Epic" />
+    <category term="Princes" />
+    <category term="Fantasy fiction" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="American" />
+    <category term="FitzChivalry (Fictitious character)" />
+    <category term="Wolves" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <category term="Tawny Man Trilogy" />
+    <summary>The Tawny Man Trilogy [2]:</summary>
+    <link href="../book_0/book_364.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - Fool's Fate</title>
+    <id>calibre:book:365</id>
+    <updated>2016-12-16T11:55:14Z</updated>
+    <link href="../../Robin%20Hobb/Fool%27s%20Fate%20%28365%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robin%20Hobb/Fool%27s%20Fate%20%28365%29/Fool%27s%20Fate%20-%20Robin%20Hobb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="785 KB" />
+    <link href="../../Robin%20Hobb/Fool%27s%20Fate%20%28365%29/Fool%27s%20Fate%20-%20Robin%20Hobb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Robin Hobb</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2004-11-23T04:33:45Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Fantasy - Epic" />
+    <category term="Fantasy - General" />
+    <category term="Fantasy fiction" />
+    <category term="Dragons" />
+    <category term="Quests (Expeditions)" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Epic" />
+    <category term="Lang:en" />
+    <category term="Tawny Man Trilogy" />
+    <summary>The Tawny Man Trilogy [3]:</summary>
+    <link href="../book_0/book_365.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

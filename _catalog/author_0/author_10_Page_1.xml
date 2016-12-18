@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Terry Pratchett</title>
+  <id>Calibre2opds:author:10</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Terry Pratchett" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>All books by Terry Pratchett</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Alphabetical index of the 48 books</content>
+    <link href="../author_0/author_10_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Discworld</title>
+    <id>Calibre2opds:author:10series:7</id>
+    <content type="text">39 books</content>
+    <link href="../author_0/author_10_series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Wit And Wisdom Of Discworld</title>
+    <id>calibre:book:302</id>
+    <updated>2016-12-16T11:54:51Z</updated>
+    <link href="../../Terry%20Pratchett/Wit%20And%20Wisdom%20Of%20Discworld%20%28302%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/Wit%20And%20Wisdom%20Of%20Discworld%20%28302%29/Wit%20And%20Wisdom%20Of%20Discworld%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Terry%20Pratchett/Wit%20And%20Wisdom%20Of%20Discworld%20%28302%29/Wit%20And%20Wisdom%20Of%20Discworld%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="3 MB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2007-10-17T03:04:19Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Corgi</dcterms:publisher>
+    <category term="Non Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_302.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The World of Poo</title>
+    <id>calibre:book:303</id>
+    <updated>2016-12-16T11:54:51Z</updated>
+    <link href="../../Terry%20Pratchett/The%20World%20of%20Poo%20%28303%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/The%20World%20of%20Poo%20%28303%29/The%20World%20of%20Poo%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <link href="../../Terry%20Pratchett/The%20World%20of%20Poo%20%28303%29/The%20World%20of%20Poo%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="2 MB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2012-07-04T07:35:57Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Transworld</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_303.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Carpet People</title>
+    <id>calibre:book:304</id>
+    <updated>2016-12-16T11:54:52Z</updated>
+    <link href="../../Terry%20Pratchett/The%20Carpet%20People%20%28304%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/The%20Carpet%20People%20%28304%29/The%20Carpet%20People%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="195 KB" />
+    <link href="../../Terry%20Pratchett/The%20Carpet%20People%20%28304%29/The%20Carpet%20People%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="257 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2011-06-09T09:11:28Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_304.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Strata</title>
+    <id>calibre:book:305</id>
+    <updated>2016-12-16T11:54:52Z</updated>
+    <link href="../../Terry%20Pratchett/Strata%20%28305%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/Strata%20%28305%29/Strata%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="365 KB" />
+    <link href="../../Terry%20Pratchett/Strata%20%28305%29/Strata%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="445 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>1981-10-17T03:06:17Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Corgi</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_305.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nation</title>
+    <id>calibre:book:306</id>
+    <updated>2016-12-16T11:54:52Z</updated>
+    <link href="../../Terry%20Pratchett/Nation%20%28306%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/Nation%20%28306%29/Nation%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
+    <link href="../../Terry%20Pratchett/Nation%20%28306%29/Nation%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="464 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2008-10-15T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Nature &amp; the Natural World" />
+    <category term="Social Issues" />
+    <category term="English; Irish; Scottish; Welsh" />
+    <category term="Tsunamis" />
+    <category term="Survival Stories" />
+    <category term="Action &amp; Adventure" />
+    <category term="Young adult fiction; English" />
+    <category term="Juvenile Fiction" />
+    <category term="Interpersonal relations" />
+    <category term="Fantasy &amp; Magic" />
+    <category term="Fiction" />
+    <category term="Drama" />
+    <category term="Fantasy" />
+    <category term="Australia &amp; Oceania" />
+    <category term="Humorous Stories" />
+    <category term="Oceania" />
+    <category term="Alternative histories (Fiction); English" />
+    <category term="People &amp; Places" />
+    <category term="General" />
+    <category term="Survival" />
+    <category term="Survival skills" />
+    <category term="Young adult fiction" />
+    <category term="Alternative histories (Fiction)" />
+    <category term="Welsh" />
+    <category term="English" />
+    <category term="Irish" />
+    <category term="Scottish" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_306.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Good Omens</title>
+    <id>calibre:book:307</id>
+    <updated>2016-12-16T11:54:53Z</updated>
+    <link href="../../Terry%20Pratchett/Good%20Omens%20%28307%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/Good%20Omens%20%28307%29/Good%20Omens%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="300 KB" />
+    <link href="../../Terry%20Pratchett/Good%20Omens%20%28307%29/Good%20Omens%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="462 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>1990-08-15T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperTorch</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_307.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nanny Ogg's Cookbook</title>
+    <id>calibre:book:308</id>
+    <updated>2016-12-16T11:54:53Z</updated>
+    <link href="../../Terry%20Pratchett/Nanny%20Ogg%27s%20Cookbook%20%28308%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/Nanny%20Ogg%27s%20Cookbook%20%28308%29/Nanny%20Ogg%27s%20Cookbook%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="11 MB" />
+    <link href="../../Terry%20Pratchett/Nanny%20Ogg%27s%20Cookbook%20%28308%29/Nanny%20Ogg%27s%20Cookbook%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="3 MB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2011-06-08T08:21:04Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_308.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Folklore of Discworld</title>
+    <id>calibre:book:310</id>
+    <updated>2016-12-16T11:54:54Z</updated>
+    <link href="../../Terry%20Pratchett/Folklore%20of%20Discworld%20%28310%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/Folklore%20of%20Discworld%20%28310%29/Folklore%20of%20Discworld%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Terry%20Pratchett/Folklore%20of%20Discworld%20%28310%29/Folklore%20of%20Discworld%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2008-10-17T03:11:34Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Doubleday</dcterms:publisher>
+    <category term="Non Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_310.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dark Side of the Sun</title>
+    <id>calibre:book:347</id>
+    <updated>2016-12-16T11:55:09Z</updated>
+    <link href="../../Terry%20Pratchett/Dark%20Side%20of%20the%20Sun%20%28347%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/Dark%20Side%20of%20the%20Sun%20%28347%29/Dark%20Side%20of%20the%20Sun%20-%20Terry%20Pratchett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="249 KB" />
+    <link href="../../Terry%20Pratchett/Dark%20Side%20of%20the%20Sun%20%28347%29/Dark%20Side%20of%20the%20Sun%20-%20Terry%20Pratchett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="360 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>1976-10-17T03:14:15Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Corgi Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_347.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

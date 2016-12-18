@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Mistborn Trilogy 1 - 3</title>
+  <id>urn:book:a730df65-cc34-4313-9e45-36eacbd2c329</id>
+  <updated>2016-12-16T11:56:21Z</updated>
+  <link href="./book_561.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Mistborn Trilogy 1 - 3" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brandon Sanderson" />
+  <link href="../../Brandon%20Sanderson/The%20Mistborn%20Trilogy%201%20-%203%20%28561%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/The%20Mistborn%20Trilogy%201%20-%203%20%28561%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/The%20Mistborn%20Trilogy%201%20-%203%20%28561%29/The%20Mistborn%20Trilogy%201%20-%203%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Brandon%20Sanderson/The%20Mistborn%20Trilogy%201%20-%203%20%28561%29/The%20Mistborn%20Trilogy%201%20-%203%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="4 MB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>2009-01-01T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Macmillan</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="bought-and-paid-for" />
+  <category term="Science Fiction" />
+  <category term="Lang:en" />
+  <category term="Mistborn" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Mistborn series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      Product Description
+      <p>
+        The
+        <em>New York Times</em>
+        bestselling series from Brandon
+    Sanderson.
+      </p>
+      <p>
+        This boxed set contains:
+        <br />
+        <em>Mistborn</em>
+      </p>
+      <p>
+        <em>The Well of Ascension</em>
+      </p>
+      <p>
+        <em>The Hero of Ages</em>
+      </p>
+      <h3>About the Author</h3>
+      <p>Brandon Sanderson grew up in Lincoln, Nebraska. He teaches
+    creative writing at Brigham Young University and lives in Utah
+    with his wife and children. He has been chosen to complete the
+    concluding volumes of Robert Jordan’s bestselling Wheel
+    of Time® series.</p>
+    </div>
+  </content>
+</entry>

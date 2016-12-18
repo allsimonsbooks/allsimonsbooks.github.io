@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Legend of Deathwalker</title>
+  <id>urn:book:ee7869ef-f0f4-498e-a605-9e46c705b6e0</id>
+  <updated>2016-12-16T11:55:58Z</updated>
+  <link href="./book_497.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Legend of Deathwalker" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <link href="../../David%20Gemmell/The%20Legend%20of%20Deathwalker%20%28497%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Gemmell/The%20Legend%20of%20Deathwalker%20%28497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Gemmell/The%20Legend%20of%20Deathwalker%20%28497%29/The%20Legend%20of%20Deathwalker%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
+  <link href="../../David%20Gemmell/The%20Legend%20of%20Deathwalker%20%28497%29/The%20Legend%20of%20Deathwalker%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="606 KB" />
+  <author>
+    <name>David Gemmell</name>
+    <uri>../author_0/author_28_Page_1.xml</uri>
+  </author>
+  <published>1996-01-02T06:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Del Rey</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Epic" />
+  <category term="Fantasy Fiction; English" />
+  <category term="Fantasy fiction" />
+  <category term="English" />
+  <category term="Lang:en" />
+  <category term="Drenai" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 7 in the Drenai series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        Enter a powerful realm of legend, dark sorcery, and
+      conquest, where the mighty Drenai warrior Druss faces his
+      most deadly opponent . . .
+        <br />
+      </p>
+      <p>
+        Druss the Legend, the dark axman known as the Deathwalker,
+      must join the warrior Talisman on a mission of blood and
+      glory. Only the stolen Eyes of Alchazzar--mystic jewels of
+      power--will save Druss's dying friend, then unite the Nadir
+      tribes against the evil of the Gothir. Druss agrees to help
+      look for the twin gems--hidden for centuries in the shrine of
+      Oshikai, the Demon-bane, the Nadir's greatest hero.
+        <br />
+      </p>
+      <p>It has been prophesied that with the recovery of the
+      stones, there will come the Uniter, a magnificent fighter who
+      will free the Nadir from brutal oppression. But Garen-Tsen,
+      the sadistic power behind the Gothir throne, also seeks the
+      gems. To control them, he will send five thousand men against
+      a handful of savages, Talisman, and the one Drenai
+      warrior.</p>
+      <h3>Review</h3>
+      <p>
+        "Gemmell's great reading; the action never lets up; he's
+      several rungs above the good--right into the fabulous!"
+        <br />
+        --ANNE MCCAFFREY
+      </p>
+      <h3>From the Inside Flap</h3>
+      <p>
+        Enter a powerful realm of legend, dark sorcery, and
+      conquest, where the mighty Drenai warrior Druss faces his
+      most deadly opponent . . .
+        <br />
+      </p>
+      <p>
+        Druss the Legend, the dark axman known as the Deathwalker,
+      must join the warrior Talisman on a mission of blood and
+      glory. Only the stolen Eyes of Alchazzar--mystic jewels of
+      power--will save Druss's dying friend, then unite the Nadir
+      tribes against the evil of the Gothir. Druss agrees to help
+      look for the twin gems--hidden for centuries in the shrine of
+      Oshikai, the Demon-bane, the Nadir's greatest hero.
+        <br />
+      </p>
+      <p>It has been prophesied that with the recovery of the
+      stones, there will come the Uniter, a magnificent fighter who
+      will free the Nadir from brutal oppression. But Garen-Tsen,
+      the sadistic power behind the Gothir throne, also seeks the
+      gems. To control them, he will send five thousand men against
+      a handful of savages, Talisman, and the one Drenai
+      warrior.</p>
+    </div>
+  </content>
+</entry>

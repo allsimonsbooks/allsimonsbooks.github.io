@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All books by David Gemmell</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_28_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books by David Gemmell" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="./author_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="David Gemmell" />
+  <entry>
+    <title>Shield of Thunder</title>
+    <id>calibre:book:474</id>
+    <updated>2016-12-16T11:55:51Z</updated>
+    <link href="../../David%20Gemmell/Shield%20of%20Thunder%20%28474%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Shield%20of%20Thunder%20%28474%29/Shield%20of%20Thunder%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="442 KB" />
+    <link href="../../David%20Gemmell/Shield%20of%20Thunder%20%28474%29/Shield%20of%20Thunder%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="692 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2006-01-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ballantine Books</dcterms:publisher>
+    <category term="Turkey" />
+    <category term="War stories" />
+    <category term="Greeks" />
+    <category term="War &amp; Military" />
+    <category term="Epic" />
+    <category term="Fantasy - Epic" />
+    <category term="Trojan War" />
+    <category term="Historical fiction" />
+    <category term="Fantasy - Historical" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Greeks - Turkey" />
+    <category term="Historical" />
+    <category term="Troy (Extinct city)" />
+    <category term="Fantasy fiction" />
+    <category term="Fantasy" />
+    <category term="Historical - General" />
+    <category term="American Historical Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <category term="Troy" />
+    <summary>Troy [2]:</summary>
+    <link href="../book_0/book_474.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fall of Kings</title>
+    <id>calibre:book:475</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Fall%20of%20Kings%20%28475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Fall%20of%20Kings%20%28475%29/Fall%20of%20Kings%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="455 KB" />
+    <link href="../../David%20Gemmell/Fall%20of%20Kings%20%28475%29/Fall%20of%20Kings%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="710 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2006-01-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ballantine Books</dcterms:publisher>
+    <category term="Turkey" />
+    <category term="War stories" />
+    <category term="Greeks" />
+    <category term="Trojan War" />
+    <category term="Historical fiction" />
+    <category term="Fiction" />
+    <category term="Greeks - Turkey" />
+    <category term="Historical" />
+    <category term="Troy (Extinct city)" />
+    <category term="Fantasy fiction" />
+    <category term="Fantasy" />
+    <category term="Historical - General" />
+    <category term="American Historical Fiction" />
+    <category term="General" />
+    <category term="War" />
+    <category term="Science Fiction" />
+    <category term="Adventure" />
+    <category term="Fiction - Historical" />
+    <category term="Lang:en" />
+    <category term="Troy" />
+    <summary>Troy [3]:</summary>
+    <link href="../book_0/book_475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lord of the Silver Bow</title>
+    <id>calibre:book:476</id>
+    <updated>2016-12-16T11:55:51Z</updated>
+    <link href="../../David%20Gemmell/Lord%20of%20the%20Silver%20Bow%20%28476%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Lord%20of%20the%20Silver%20Bow%20%28476%29/Lord%20of%20the%20Silver%20Bow%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="474 KB" />
+    <link href="../../David%20Gemmell/Lord%20of%20the%20Silver%20Bow%20%28476%29/Lord%20of%20the%20Silver%20Bow%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="673 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2005-09-19T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ballantine Books</dcterms:publisher>
+    <category term="Turkey" />
+    <category term="War stories" />
+    <category term="Greeks" />
+    <category term="War &amp; Military" />
+    <category term="Epic" />
+    <category term="Fantasy - Epic" />
+    <category term="Trojan War" />
+    <category term="Historical fiction" />
+    <category term="Fantasy - Historical" />
+    <category term="Fiction - Fantasy" />
+    <category term="Fiction" />
+    <category term="Greeks - Turkey" />
+    <category term="Historical" />
+    <category term="Troy (Extinct city)" />
+    <category term="Fantasy fiction" />
+    <category term="Fantasy" />
+    <category term="Historical - General" />
+    <category term="American Historical Fiction" />
+    <category term="Young Adult" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Feuds" />
+    <category term="Hector (Legendary character)" />
+    <category term="War" />
+    <category term="Sailors" />
+    <category term="Revenge" />
+    <category term="Women priests" />
+    <category term="Science Fiction" />
+    <category term="Adventure" />
+    <category term="Historical fantasy fiction" />
+    <category term="Andromache (Legendary character)" />
+    <category term="Ship captains" />
+    <category term="Lang:en" />
+    <category term="Troy" />
+    <summary>Troy [1]:</summary>
+    <link href="../book_0/book_476.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Wolf in Shadow</title>
+    <id>calibre:book:477</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/Wolf%20in%20Shadow%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="360 KB" />
+    <link href="../../David%20Gemmell/Wolf%20in%20Shadow%20%28477%29/Wolf%20in%20Shadow%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="529 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1987-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="Good and Evil" />
+    <category term="Shannow; Jon (Fictitious Character)" />
+    <category term="Quests (Expeditions)" />
+    <category term="Jon (Fictitious Character)" />
+    <category term="Shannow" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [3]:</summary>
+    <link href="../book_0/book_477.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Last Guardian</title>
+    <id>calibre:book:478</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Last%20Guardian%20%28478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Last%20Guardian%20%28478%29/Last%20Guardian%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="351 KB" />
+    <link href="../../David%20Gemmell/Last%20Guardian%20%28478%29/Last%20Guardian%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="466 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1989-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Fantasy fiction" />
+    <category term="English Fiction" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [4]:</summary>
+    <link href="../book_0/book_478.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bloodstone</title>
+    <id>calibre:book:479</id>
+    <updated>2016-12-16T11:55:52Z</updated>
+    <link href="../../David%20Gemmell/Bloodstone%20%28479%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Bloodstone%20%28479%29/Bloodstone%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="376 KB" />
+    <link href="../../David%20Gemmell/Bloodstone%20%28479%29/Bloodstone%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="542 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1994-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [5]:</summary>
+    <link href="../book_0/book_479.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Last Sword of Power</title>
+    <id>calibre:book:480</id>
+    <updated>2016-12-16T11:55:53Z</updated>
+    <link href="../../David%20Gemmell/Last%20Sword%20of%20Power%20%28480%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Last%20Sword%20of%20Power%20%28480%29/Last%20Sword%20of%20Power%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="247 KB" />
+    <link href="../../David%20Gemmell/Last%20Sword%20of%20Power%20%28480%29/Last%20Sword%20of%20Power%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="369 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1988-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Space Opera" />
+    <category term="Fiction" />
+    <category term="Adventure" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="English Fiction" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [2]:</summary>
+    <link href="../book_0/book_480.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ghost King</title>
+    <id>calibre:book:481</id>
+    <updated>2016-12-16T11:55:53Z</updated>
+    <link href="../../David%20Gemmell/Ghost%20King%20%28481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Ghost%20King%20%28481%29/Ghost%20King%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="351 KB" />
+    <link href="../../David%20Gemmell/Ghost%20King%20%28481%29/Ghost%20King%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="468 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1988-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Lang:en" />
+    <category term="Stones of Power" />
+    <summary>Stones of Power [1]:</summary>
+    <link href="../book_0/book_481.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Stormrider</title>
+    <id>calibre:book:482</id>
+    <updated>2016-12-16T11:55:54Z</updated>
+    <link href="../../David%20Gemmell/Stormrider%20%28482%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Stormrider%20%28482%29/Stormrider%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="453 KB" />
+    <link href="../../David%20Gemmell/Stormrider%20%28482%29/Stormrider%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="680 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2001-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Digital, Inc.</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="Imaginary Wars and Battles" />
+    <category term="Revolutionaries" />
+    <category term="Magic" />
+    <category term="Civil War" />
+    <category term="Lang:en" />
+    <category term="Rigante" />
+    <summary>Rigante [4]:</summary>
+    <link href="../book_0/book_482.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ravenheart</title>
+    <id>calibre:book:483</id>
+    <updated>2016-12-16T11:55:54Z</updated>
+    <link href="../../David%20Gemmell/Ravenheart%20%28483%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Ravenheart%20%28483%29/Ravenheart%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="599 KB" />
+    <link href="../../David%20Gemmell/Ravenheart%20%28483%29/Ravenheart%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="799 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2001-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Rigante" />
+    <summary>Rigante [3]:</summary>
+    <link href="../book_0/book_483.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sword in the Storm</title>
+    <id>calibre:book:484</id>
+    <updated>2016-12-16T11:55:55Z</updated>
+    <link href="../../David%20Gemmell/Sword%20in%20the%20Storm%20%28484%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Sword%20in%20the%20Storm%20%28484%29/Sword%20in%20the%20Storm%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="444 KB" />
+    <link href="../../David%20Gemmell/Sword%20in%20the%20Storm%20%28484%29/Sword%20in%20the%20Storm%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="644 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1998-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fantasy fiction" />
+    <category term="Magic" />
+    <category term="Ghost Stories" />
+    <category term="Swords" />
+    <category term="Lang:en" />
+    <category term="Rigante" />
+    <summary>Rigante [1]:</summary>
+    <link href="../book_0/book_484.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Midnight Falcon</title>
+    <id>calibre:book:485</id>
+    <updated>2016-12-16T11:55:54Z</updated>
+    <link href="../../David%20Gemmell/Midnight%20Falcon%20%28485%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Midnight%20Falcon%20%28485%29/Midnight%20Falcon%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="487 KB" />
+    <link href="../../David%20Gemmell/Midnight%20Falcon%20%28485%29/Midnight%20Falcon%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="714 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1999-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fathers and sons" />
+    <category term="Fantasy fiction" />
+    <category term="Revenge" />
+    <category term="Illegitimate Children" />
+    <category term="Warriors" />
+    <category term="Gladiators" />
+    <category term="Lang:en" />
+    <category term="Rigante" />
+    <summary>Rigante [2]:</summary>
+    <link href="../book_0/book_485.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Morningstar</title>
+    <id>calibre:book:486</id>
+    <updated>2016-12-16T11:55:55Z</updated>
+    <link href="../../David%20Gemmell/Morningstar%20%28486%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Morningstar%20%28486%29/Morningstar%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="353 KB" />
+    <link href="../../David%20Gemmell/Morningstar%20%28486%29/Morningstar%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="499 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1993-09-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_486.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Knights of Dark Renown</title>
+    <id>calibre:book:487</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Knights%20of%20Dark%20Renown%20%28487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Knights%20of%20Dark%20Renown%20%28487%29/Knights%20of%20Dark%20Renown%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="374 KB" />
+    <link href="../../David%20Gemmell/Knights%20of%20Dark%20Renown%20%28487%29/Knights%20of%20Dark%20Renown%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="539 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1989-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ironhand's Daughter</title>
+    <id>calibre:book:488</id>
+    <updated>2016-12-16T11:55:55Z</updated>
+    <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/Ironhand%27s%20Daughter%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="287 KB" />
+    <link href="../../David%20Gemmell/Ironhand%27s%20Daughter%20%28488%29/Ironhand%27s%20Daughter%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="463 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2004-11-23T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy Fiction; English" />
+    <category term="Fantasy fiction" />
+    <category term="Good and Evil" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Hawk Queen" />
+    <summary>Hawk Queen [1]:</summary>
+    <link href="../book_0/book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Hawk Eternal</title>
+    <id>calibre:book:489</id>
+    <updated>2016-12-16T11:55:55Z</updated>
+    <link href="../../David%20Gemmell/The%20Hawk%20Eternal%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/The%20Hawk%20Eternal%20%28489%29/The%20Hawk%20Eternal%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="296 KB" />
+    <link href="../../David%20Gemmell/The%20Hawk%20Eternal%20%28489%29/The%20Hawk%20Eternal%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="484 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2005-08-30T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy Fiction; English" />
+    <category term="Fantasy fiction" />
+    <category term="Space and time" />
+    <category term="Clans" />
+    <category term="Heroes" />
+    <category term="Queens" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Hawk Queen" />
+    <summary>Hawk Queen [2]:</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dark Prince</title>
+    <id>calibre:book:490</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Dark%20Prince%20%28490%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Dark%20Prince%20%28490%29/Dark%20Prince%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="479 KB" />
+    <link href="../../David%20Gemmell/Dark%20Prince%20%28490%29/Dark%20Prince%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="742 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1991-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Greeks" />
+    <category term="Biographical Fiction" />
+    <category term="Greece" />
+    <category term="Kings and Rulers" />
+    <category term="Generals" />
+    <category term="Alexander" />
+    <category term="Greece - History - MacEdonian Expansion; 359-323 B.C" />
+    <category term="Parmenion" />
+    <category term="359-323 B.C" />
+    <category term="Greece - History - MacEdonian Expansion" />
+    <category term="Lang:en" />
+    <category term="Greek Series" />
+    <summary>Greek Series [2]:</summary>
+    <link href="../book_0/book_490.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Echoes of the Great Song</title>
+    <id>calibre:book:491</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Echoes%20of%20the%20Great%20Song%20%28491%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Echoes%20of%20the%20Great%20Song%20%28491%29/Echoes%20of%20the%20Great%20Song%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="420 KB" />
+    <link href="../../David%20Gemmell/Echoes%20of%20the%20Great%20Song%20%28491%29/Echoes%20of%20the%20Great%20Song%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="591 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1997-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_491.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lion of MacEdon</title>
+    <id>calibre:book:492</id>
+    <updated>2016-12-16T11:55:56Z</updated>
+    <link href="../../David%20Gemmell/Lion%20of%20MacEdon%20%28492%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Lion%20of%20MacEdon%20%28492%29/Lion%20of%20MacEdon%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="453 KB" />
+    <link href="../../David%20Gemmell/Lion%20of%20MacEdon%20%28492%29/Lion%20of%20MacEdon%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="716 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1990-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Biographical Fiction" />
+    <category term="Greece" />
+    <category term="Greece - History - MacEdonian Expansion; 359-323 B.C" />
+    <category term="Parmenion" />
+    <category term="Greece - History - Spartan and Theban Supremacies; 404-362 B.C" />
+    <category term="Greece - History - Spartan and Theban Supremacies" />
+    <category term="359-323 B.C" />
+    <category term="Greece - History - MacEdonian Expansion" />
+    <category term="404-362 B.C" />
+    <category term="Lang:en" />
+    <category term="Greek Series" />
+    <summary>Greek Series [1]:</summary>
+    <link href="../book_0/book_492.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>White Wolf</title>
+    <id>calibre:book:493</id>
+    <updated>2016-12-16T11:55:57Z</updated>
+    <link href="../../David%20Gemmell/White%20Wolf%20%28493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/White%20Wolf%20%28493%29/White%20Wolf%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="394 KB" />
+    <link href="../../David%20Gemmell/White%20Wolf%20%28493%29/White%20Wolf%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="607 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2003-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [10]:</summary>
+    <link href="../book_0/book_493.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Swords of Night and Day</title>
+    <id>calibre:book:494</id>
+    <updated>2016-12-16T11:55:57Z</updated>
+    <link href="../../David%20Gemmell/The%20Swords%20of%20Night%20and%20Day%20%28494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/The%20Swords%20of%20Night%20and%20Day%20%28494%29/The%20Swords%20of%20Night%20and%20Day%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="483 KB" />
+    <link href="../../David%20Gemmell/The%20Swords%20of%20Night%20and%20Day%20%28494%29/The%20Swords%20of%20Night%20and%20Day%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="714 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2004-03-01T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Action &amp; Adventure" />
+    <category term="Fantasy fiction" />
+    <category term="Good and Evil" />
+    <category term="Imaginary Wars and Battles" />
+    <category term="Revolutionaries" />
+    <category term="Drenai (Imaginary Place)" />
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [11]:</summary>
+    <link href="../book_0/book_494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hero in the Shadows</title>
+    <id>calibre:book:495</id>
+    <updated>2016-12-16T11:55:57Z</updated>
+    <link href="../../David%20Gemmell/Hero%20in%20the%20Shadows%20%28495%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Hero%20in%20the%20Shadows%20%28495%29/Hero%20in%20the%20Shadows%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="402 KB" />
+    <link href="../../David%20Gemmell/Hero%20in%20the%20Shadows%20%28495%29/Hero%20in%20the%20Shadows%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="589 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2000-10-03T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="Magic" />
+    <category term="English Fiction" />
+    <category term="Waylander (Fictitious Character)" />
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [9]:</summary>
+    <link href="../book_0/book_495.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The First Chronicles of Druss the Legend</title>
+    <id>calibre:book:496</id>
+    <updated>2016-12-16T11:55:58Z</updated>
+    <link href="../../David%20Gemmell/The%20First%20Chronicles%20of%20Druss%20the%20L%20%28496%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/The%20First%20Chronicles%20of%20Druss%20the%20L%20%28496%29/The%20First%20Chronicles%20of%20Druss%20t%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="329 KB" />
+    <link href="../../David%20Gemmell/The%20First%20Chronicles%20of%20Druss%20the%20L%20%28496%29/The%20First%20Chronicles%20of%20Druss%20t%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="515 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [6]:</summary>
+    <link href="../book_0/book_496.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Legend of Deathwalker</title>
+    <id>calibre:book:497</id>
+    <updated>2016-12-16T11:55:58Z</updated>
+    <link href="../../David%20Gemmell/The%20Legend%20of%20Deathwalker%20%28497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/The%20Legend%20of%20Deathwalker%20%28497%29/The%20Legend%20of%20Deathwalker%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
+    <link href="../../David%20Gemmell/The%20Legend%20of%20Deathwalker%20%28497%29/The%20Legend%20of%20Deathwalker%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="606 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1996-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy Fiction; English" />
+    <category term="Fantasy fiction" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [7]:</summary>
+    <link href="../book_0/book_497.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Winter Warriors</title>
+    <id>calibre:book:498</id>
+    <updated>2016-12-16T11:55:58Z</updated>
+    <link href="../../David%20Gemmell/Winter%20Warriors%20%28498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Winter%20Warriors%20%28498%29/Winter%20Warriors%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="419 KB" />
+    <link href="../../David%20Gemmell/Winter%20Warriors%20%28498%29/Winter%20Warriors%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="562 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1997-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="Fantasy Fiction; American" />
+    <category term="Demonology" />
+    <category term="Prophecies" />
+    <category term="Warriors" />
+    <category term="American" />
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [8]:</summary>
+    <link href="../book_0/book_498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Waylander 2 - In the Realm of the Wolf</title>
+    <id>calibre:book:499</id>
+    <updated>2016-12-16T11:55:59Z</updated>
+    <link href="../../David%20Gemmell/Waylander%202%20-%20In%20the%20Realm%20of%20the%20W%20%28499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Waylander%202%20-%20In%20the%20Realm%20of%20the%20W%20%28499%29/Waylander%202%20-%20In%20the%20Realm%20of%20t%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="357 KB" />
+    <link href="../../David%20Gemmell/Waylander%202%20-%20In%20the%20Realm%20of%20the%20W%20%28499%29/Waylander%202%20-%20In%20the%20Realm%20of%20t%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="533 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1998-04-29T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fantasy Fiction; English" />
+    <category term="Fantasy fiction" />
+    <category term="Assassins" />
+    <category term="English Fiction" />
+    <category term="Fantastic Fiction; English" />
+    <category term="English" />
+    <category term="Fantastic Fiction" />
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [5]:</summary>
+    <link href="../book_0/book_499.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quest for Lost Heroes</title>
+    <id>calibre:book:500</id>
+    <updated>2016-12-16T11:55:59Z</updated>
+    <link href="../../David%20Gemmell/Quest%20for%20Lost%20Heroes%20%28500%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Quest%20for%20Lost%20Heroes%20%28500%29/Quest%20for%20Lost%20Heroes%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="359 KB" />
+    <link href="../../David%20Gemmell/Quest%20for%20Lost%20Heroes%20%28500%29/Quest%20for%20Lost%20Heroes%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="499 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1990-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Digital, Inc.</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="Heroes" />
+    <category term="Slavery" />
+    <category term="Drenai (Imaginary Place)" />
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [4]:</summary>
+    <link href="../book_0/book_500.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The King Beyond the Gate</title>
+    <id>calibre:book:501</id>
+    <updated>2016-12-16T11:56:00Z</updated>
+    <link href="../../David%20Gemmell/The%20King%20Beyond%20the%20Gate%20%28501%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/The%20King%20Beyond%20the%20Gate%20%28501%29/The%20King%20Beyond%20the%20Gate%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="383 KB" />
+    <link href="../../David%20Gemmell/The%20King%20Beyond%20the%20Gate%20%28501%29/The%20King%20Beyond%20the%20Gate%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="540 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2012-05-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orbit</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [2]:</summary>
+    <link href="../book_0/book_501.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Waylander</title>
+    <id>calibre:book:502</id>
+    <updated>2016-12-16T11:55:59Z</updated>
+    <link href="../../David%20Gemmell/Waylander%20%28502%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Waylander%20%28502%29/Waylander%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="311 KB" />
+    <link href="../../David%20Gemmell/Waylander%20%28502%29/Waylander%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="442 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2012-05-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orbit</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [3]:</summary>
+    <link href="../book_0/book_502.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Legend</title>
+    <id>calibre:book:503</id>
+    <updated>2016-12-16T11:55:59Z</updated>
+    <link href="../../David%20Gemmell/Legend%20%28503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Legend%20%28503%29/Legend%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="408 KB" />
+    <link href="../../David%20Gemmell/Legend%20%28503%29/Legend%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="557 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1984-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Good and Evil" />
+    <category term="Imaginary Wars and Battles" />
+    <category term="Drenai (Imaginary Place)" />
+    <category term="English Fiction" />
+    <category term="Fantastic Fiction; English" />
+    <category term="English" />
+    <category term="Fantastic Fiction" />
+    <category term="Lang:en" />
+    <category term="Drenai" />
+    <summary>Drenai [1]:</summary>
+    <link href="../book_0/book_503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dark Moon</title>
+    <id>calibre:book:504</id>
+    <updated>2016-12-16T11:56:00Z</updated>
+    <link href="../../David%20Gemmell/Dark%20Moon%20%28504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Dark%20Moon%20%28504%29/Dark%20Moon%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="403 KB" />
+    <link href="../../David%20Gemmell/Dark%20Moon%20%28504%29/Dark%20Moon%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="570 KB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1988-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Del Rey</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy fiction" />
+    <category term="English Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Complete Chronicles of Jerusalem Man</title>
+    <id>calibre:book:507</id>
+    <updated>2016-12-16T11:56:00Z</updated>
+    <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/Complete%20Chronicles%20of%20Jerusale%20-%20David%20Gemmell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="774 KB" />
+    <link href="../../David%20Gemmell/Complete%20Chronicles%20of%20Jerusalem%20Ma%20%28507%29/Complete%20Chronicles%20of%20Jerusale%20-%20David%20Gemmell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>David Gemmell</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>1995-01-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Serpent's Shadow</title>
+  <id>urn:book:79c66989-639c-4d77-b890-abbe4f2a2cfc</id>
+  <updated>2016-12-16T11:55:18Z</updated>
+  <link href="./book_374.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Serpent's Shadow" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Rick Riordan" />
+  <link href="../../Rick%20Riordan/The%20Serpent%27s%20Shadow%20%28374%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Rick%20Riordan/The%20Serpent%27s%20Shadow%20%28374%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Rick%20Riordan/The%20Serpent%27s%20Shadow%20%28374%29/The%20Serpent%27s%20Shadow%20-%20Rick%20Riordan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Rick%20Riordan/The%20Serpent%27s%20Shadow%20%28374%29/The%20Serpent%27s%20Shadow%20-%20Rick%20Riordan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Rick Riordan</name>
+    <uri>../author_0/author_15_Page_1.xml</uri>
+  </author>
+  <published>2012-05-07T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>ePub Bud (www.epubbud.com)</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Kane Chronicles" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Kane Chronicles series
+    </p>
+  </content>
+</entry>

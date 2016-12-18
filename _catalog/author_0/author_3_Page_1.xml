@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Brandon Sanderson</title>
+  <id>Calibre2opds:author:3</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Brandon Sanderson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>All books by Brandon Sanderson</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Alphabetical index of the 33 books</content>
+    <link href="../author_0/author_3_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Alcatraz</title>
+    <id>Calibre2opds:author:3series:4</id>
+    <content type="text">5 books</content>
+    <link href="../author_0/author_3_series_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Annotations</title>
+    <id>Calibre2opds:author:3series:55</id>
+    <content type="text">5 books</content>
+    <link href="../author_0/author_3_series_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Infinity Blade</title>
+    <id>Calibre2opds:author:3series:54</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_3_series_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Legion</title>
+    <id>Calibre2opds:author:3series:59</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_3_series_59_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Mistborn</title>
+    <id>Calibre2opds:author:3series:53</id>
+    <content type="text">4 books</content>
+    <link href="../author_0/author_3_series_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: Reckoners</title>
+    <id>Calibre2opds:author:3series:52</id>
+    <content type="text">4 books</content>
+    <link href="../author_0/author_3_series_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: The Rithmatist</title>
+    <id>Calibre2opds:author:3series:58</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_3_series_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Series: The Stormlight Archive</title>
+    <id>Calibre2opds:author:3series:50</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_3_series_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mistborn: Secret History</title>
+    <id>calibre:book:8</id>
+    <updated>2016-08-29T10:53:01Z</updated>
+    <link href="../../Brandon%20Sanderson/Mistborn_%20Secret%20History%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Mistborn_%20Secret%20History%20%288%29/Mistborn_%20Secret%20History%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="732 KB" />
+    <link href="../../Brandon%20Sanderson/Mistborn_%20Secret%20History%20%288%29/Mistborn_%20Secret%20History%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="2 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2016-01-26T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dragonsteel Entertainment, LLC</dcterms:publisher>
+    <category term="_nocatalog" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Warbreaker</title>
+    <id>calibre:book:546</id>
+    <updated>2016-12-16T11:56:14Z</updated>
+    <link href="../../Brandon%20Sanderson/Warbreaker%20%28546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Warbreaker%20%28546%29/Warbreaker%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="889 KB" />
+    <link href="../../Brandon%20Sanderson/Warbreaker%20%28546%29/Warbreaker%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="909 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Emperor's Soul</title>
+    <id>calibre:book:553</id>
+    <updated>2016-12-16T11:56:17Z</updated>
+    <link href="../../Brandon%20Sanderson/The%20Emperor%27s%20Soul%20%28553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/The%20Emperor%27s%20Soul%20%28553%29/The%20Emperor%27s%20Soul%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="394 KB" />
+    <link href="../../Brandon%20Sanderson/The%20Emperor%27s%20Soul%20%28553%29/The%20Emperor%27s%20Soul%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="923 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2012-11-02T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dragonsteel Entertainment, LLC</dcterms:publisher>
+    <category term="_nocatalog" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_553.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Perfect State</title>
+    <id>calibre:book:554</id>
+    <updated>2016-12-16T11:56:20Z</updated>
+    <link href="../../Brandon%20Sanderson/Perfect%20State%20%28554%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Perfect%20State%20%28554%29/Perfect%20State%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
+    <link href="../../Brandon%20Sanderson/Perfect%20State%20%28554%29/Perfect%20State%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="220 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-03-30T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Smashwords Edition</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_554.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Shadows for Silence in the Forests of Hell</title>
+    <id>calibre:book:555</id>
+    <updated>2016-12-16T11:56:17Z</updated>
+    <link href="../../Brandon%20Sanderson/Shadows%20for%20Silence%20in%20the%20Forests%20%28555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Shadows%20for%20Silence%20in%20the%20Forests%20%28555%29/Shadows%20for%20Silence%20in%20the%20Fore%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="333 KB" />
+    <link href="../../Brandon%20Sanderson/Shadows%20for%20Silence%20in%20the%20Forests%20%28555%29/Shadows%20for%20Silence%20in%20the%20Fore%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="413 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dragonsteel Entertainment, LLC</dcterms:publisher>
+    <category term="Sci Fi &amp; Fantasy" />
+    <category term="Fantasy" />
+    <category term="Fiction &amp; Literature" />
+    <category term="Horror" />
+    <category term="_nocatalog" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_555.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elantris</title>
+    <id>calibre:book:563</id>
+    <updated>2016-12-16T11:56:22Z</updated>
+    <link href="../../Brandon%20Sanderson/Elantris%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Elantris%20%28563%29/Elantris%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="751 KB" />
+    <link href="../../Brandon%20Sanderson/Elantris%20%28563%29/Elantris%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2005-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Books</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Romance" />
+    <category term="Fantasy" />
+    <category term="Adult" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Arcanum Unbounded</title>
+    <id>calibre:book:570</id>
+    <updated>2016-12-16T01:30:10Z</updated>
+    <link href="../../Brandon%20Sanderson/Arcanum%20Unbounded%20%28570%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Arcanum%20Unbounded%20%28570%29/Arcanum%20Unbounded%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="90 MB" />
+    <link href="../../Brandon%20Sanderson/Arcanum%20Unbounded%20%28570%29/Arcanum%20Unbounded%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="33 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_570.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sixth of the Dusk</title>
+    <id>calibre:book:579</id>
+    <updated>2016-12-18T09:57:02Z</updated>
+    <link href="../../Brandon%20Sanderson/Sixth%20of%20the%20Dusk%20%28579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Sixth%20of%20the%20Dusk%20%28579%29/Sixth%20of%20the%20Dusk%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="823 KB" />
+    <link href="../../Brandon%20Sanderson/Sixth%20of%20the%20Dusk%20%28579%29/Sixth%20of%20the%20Dusk%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="884 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2014-10-15T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dragonsteel Entertainment, LLC</dcterms:publisher>
+    <category term="_nocatalog" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

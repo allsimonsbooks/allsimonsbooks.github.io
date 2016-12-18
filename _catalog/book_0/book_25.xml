@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Ersatz Elevator</title>
+  <id>urn:book:b3047d72-7a8b-4c01-bcc7-4f23142124ce</id>
+  <updated>2016-10-09T05:41:41Z</updated>
+  <link href="./book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Ersatz Elevator" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lemony Snicket" />
+  <link href="../../Lemony%20Snicket/The%20Ersatz%20Elevator%20%2825%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lemony%20Snicket/The%20Ersatz%20Elevator%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lemony%20Snicket/The%20Ersatz%20Elevator%20%2825%29/The%20Ersatz%20Elevator%20-%20Lemony%20Snicket.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Lemony%20Snicket/The%20Ersatz%20Elevator%20%2825%29/The%20Ersatz%20Elevator%20-%20Lemony%20Snicket.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Lemony Snicket</name>
+    <uri>../author_0/author_6_Page_1.xml</uri>
+  </author>
+  <published>2001-02-08T05:44:41Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>HarperCollins Publishers</dcterms:publisher>
+  <category term="Children's 4-7" />
+  <category term="Lang:en" />
+  <category term="Series of Unfortunate Events" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 6 in the Series of Unfortunate Events series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Arriving at Dark Avenue, the three
+    Baudelaire orphans, Violet, Klaus and little Sunny, begin their
+    new life with Jerome and Esme Squalor. Jerome is a kind man,
+    but he agrees unquestioningly with everything said by his wife,
+    who is the city's sixth most important financial advisor. The
+    Baudelaires find themselves in a strange world of in things:
+    aqueous martinis (consisting of water with an olive), pinstripe
+    suits (even for infant Sunny) and meals only involving salmon.
+    Sadly, elevators are out, and the children are obliged to walk
+    the many steps up to the Squalors' penthouse. Even more sadly,
+    they soon meet Count Olaf again, disguised as the auctioneer
+    Gunther, and discover that the ersatz elevator is not an
+    elevator at all, but a shaft in which the Quagmire triplets are
+    imprisoned. When they tell Esme of the triplets' fate, she
+    shocks them by throwing them down the elevator too and
+    revealing herself to be in league with Count Olaf. Sunny
+    manages to escape using her teeth, and help her siblings out,
+    who run down the ersatz passageway to emerge - in a spectacular
+    climax - in the charred remains of their parents' mansion! With
+    no time to reflect, they run to Esme's In Auction, hoping to
+    save the Quagmires, but Esme and Olaf escape with the triplets,
+    and the Baudelaires are once more left with only each other to
+    rely on</p>
+  </content>
+</entry>

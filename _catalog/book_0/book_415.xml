@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Shadow Puppets</title>
+  <id>urn:book:17a037aa-3352-4983-a41a-5723e4c4e163</id>
+  <updated>2016-12-16T11:55:31Z</updated>
+  <link href="./book_415.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Shadow Puppets" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Orson Scott Card" />
+  <link href="../../Orson%20Scott%20Card/Shadow%20Puppets%20%28415%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Orson%20Scott%20Card/Shadow%20Puppets%20%28415%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Orson%20Scott%20Card/Shadow%20Puppets%20%28415%29/Shadow%20Puppets%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="189 KB" />
+  <link href="../../Orson%20Scott%20Card/Shadow%20Puppets%20%28415%29/Shadow%20Puppets%20-%20Orson%20Scott%20Card.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="116 KB" />
+  <author>
+    <name>Orson Scott Card</name>
+    <uri>../author_0/author_19_Page_1.xml</uri>
+  </author>
+  <published>2010-01-31T07:30:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Orbit</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="General" />
+  <category term="Science Fiction &amp; Fantasy" />
+  <category term="Fiction" />
+  <category term="Fantasy" />
+  <category term="Sagas" />
+  <category term="Science fiction - gsafd" />
+  <category term="Lang:en" />
+  <category term="Shadow Quintet" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 3 in the Shadow Quintet series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">In Shadow Puppets, Orson Scott Card continues the storyline
+    of Shadow of the Hegemon, following the exploits of the Battle
+    School children, prodigies who have returned to an Earth thrown
+    into chaos after the unifying force of the alien invasion they
+    stopped in Ender's Game and Ender's Shadow has dissipated.
+    Foremost among these whiz kids is the brilliant Bean who, in
+    Shadow of the Hegemon, rescued his comrades from his
+    nemesis--the dastardly Achilles. Now, the down-but-not-out evil
+    genius is again scheming towards global domination and
+    vengeance against the irrepressible Bean. It's up to Bean and
+    his newfound love, Petra, to outwit the young psychopath and
+    save the world. Meanwhile, the other Battle School children are
+    called to serve again as an expansionist China threatens the
+    stability of post-Bugger War Earth. Shadow Puppets is, for
+    better or worse, exactly what readers have come to expect from
+    Card. There are thought-provoking musings on geopolitics, war,
+    courage, arrogance, good versus evil, and the concept of
+    children wise beyond their years dealing with grave
+    responsibility. Unfortunately, many of these furnishings are
+    looking a little frayed around the edges, but fans will enjoy
+    an exciting, fast-paced plot and a suspense-filled conclusion.
+    --Jeremy Pugh</p>
+  </content>
+</entry>

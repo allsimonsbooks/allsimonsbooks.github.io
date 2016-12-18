@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Dark Tower</title>
+  <id>urn:book:6720a28b-daa6-477a-851f-685bd4c78b08</id>
+  <updated>2016-12-16T11:55:10Z</updated>
+  <link href="./book_354.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Dark Tower" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Stephen King" />
+  <link href="../../Stephen%20King/The%20Dark%20Tower%20%28354%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Stephen%20King/The%20Dark%20Tower%20%28354%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Stephen%20King/The%20Dark%20Tower%20%28354%29/The%20Dark%20Tower%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../../Stephen%20King/The%20Dark%20Tower%20%28354%29/The%20Dark%20Tower%20-%20Stephen%20King.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="3 MB" />
+  <author>
+    <name>Stephen King</name>
+    <uri>../author_0/author_12_Page_1.xml</uri>
+  </author>
+  <published>2004-09-21T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Scribner</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Dark Tower" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 7 in the Dark Tower series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="" class="ff">
+      <div class="spacer">
+        <div style="text-align: center;"> </div>
+        <div style="text-align: center;">
+          <b>Awards</b>
+        </div>
+        <div style="text-align: center;">Bram Stoker (nominee)</div>
+        <div style="text-align: center;">British Fantasy
+      Society</div>
+        <br />
+        <br />
+        The most anticipated book in Stephen King's legendary
+      career, The Dark Tower VII: The Dark Tower is the final
+      installment to the bestselling author's epic series-a story
+      that began thirty-three years ago with The Gunslinger and has
+      gathered millions of ardent fans since Donald M. Grant
+      published a limited edition of that first volume in 1981.
+        <br />
+        <br />
+        This volume completes the quest of Roland Deschain, the
+      last gunslinger in a world which has "moved on." Like the
+      first book in the series, the last is beautifully illustrated
+      by famed fantasy artist Michael Whelan. And with the same mix
+      of triumph and loss that made Wolves of the Calla a runaway
+      bestseller, The Dark Tower tracks Roland towards his ultimate
+      goal, the tower itself-the center of all time, all place. But
+      this time, as Roland's ka-tet moves through The Dixie Pig in
+      New York City to Algul Siento in End-World, the losses come
+      from within his circle of companions. His antagonists, from
+      Mia's chap Mordred to the force of evil known as the Crimson
+      King, grow more desperate. In the final stage of his search,
+      Roland needs one more ally, a last key to gain entry to the
+      tower. What awaits him there, at the tower's very top, is a
+      mystery sure to awe King's legions of devoted fans.
+        <br />
+        <br />
+        With Stephen King's unparalleled storytelling power,
+      and with interest in fantasy at an all-time high, the release
+      of The Dark Tower will be the most exciting publishing event
+      of the year.
+      </div>
+    </div>
+  </content>
+</entry>

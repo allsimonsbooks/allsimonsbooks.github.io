@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Magicians</title>
+  <id>Calibre2opds::serieslistseries:56</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_56_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The Magicians" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - The Magicians</title>
+    <id>calibre:book:430</id>
+    <updated>2016-12-16T11:55:37Z</updated>
+    <link href="../../Lev%20Grossman/The%20Magicians%20%28430%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lev%20Grossman/The%20Magicians%20%28430%29/The%20Magicians%20-%20Lev%20Grossman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="432 KB" />
+    <link href="../../Lev%20Grossman/The%20Magicians%20%28430%29/The%20Magicians%20-%20Lev%20Grossman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="679 KB" />
+    <author>
+      <name>Lev Grossman</name>
+      <uri>../author_0/author_22_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Gale</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Magicians" />
+    <summary>The Magicians [1]:</summary>
+    <link href="../book_0/book_430.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>2 - The Magician King</title>
+    <id>calibre:book:432</id>
+    <updated>2016-12-16T11:55:37Z</updated>
+    <link href="../../Lev%20Grossman/The%20Magician%20King%20%28432%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lev%20Grossman/The%20Magician%20King%20%28432%29/The%20Magician%20King%20-%20Lev%20Grossman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="396 KB" />
+    <link href="../../Lev%20Grossman/The%20Magician%20King%20%28432%29/The%20Magician%20King%20-%20Lev%20Grossman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="597 KB" />
+    <author>
+      <name>Lev Grossman</name>
+      <uri>../author_0/author_22_Page_1.xml</uri>
+    </author>
+    <published>2011-06-22T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pemguin Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Magicians" />
+    <summary>The Magicians [2]:</summary>
+    <link href="../book_0/book_432.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - The Magician’s Land</title>
+    <id>calibre:book:574</id>
+    <updated>2016-12-18T09:52:09Z</updated>
+    <link href="../../Lev%20Grossman/The%20Magician%27s%20Land%20%28574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lev%20Grossman/The%20Magician%27s%20Land%20%28574%29/The%20Magician%27s%20Land%20-%20Lev%20Grossman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <link href="../../Lev%20Grossman/The%20Magician%27s%20Land%20%28574%29/The%20Magician%27s%20Land%20-%20Lev%20Grossman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+    <author>
+      <name>Lev Grossman</name>
+      <uri>../author_0/author_22_Page_1.xml</uri>
+    </author>
+    <published>2014-07-21T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group, USA</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Magicians" />
+    <summary>The Magicians [3]:</summary>
+    <link href="../book_0/book_574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Death Masks</title>
+  <id>urn:book:03403337-21cf-4576-a0a4-4e14a972a8ce</id>
+  <updated>2016-12-16T11:55:40Z</updated>
+  <link href="./book_442.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Death Masks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Death%20Masks%20%28442%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Death%20Masks%20%28442%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Death%20Masks%20%28442%29/Death%20Masks%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="337 KB" />
+  <link href="../../Jim%20Butcher/Death%20Masks%20%28442%29/Death%20Masks%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="484 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../author_0/author_23_Page_1.xml</uri>
+  </author>
+  <published>2003-01-01T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Roc</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Mystery" />
+  <category term="Vampires" />
+  <category term="Lang:en" />
+  <category term="Dresden Files" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the Dresden Files series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>
+          Now in hardcover for the first time? book five in
+        the
+          <em>New York Times</em>
+          bestselling Dresden Files
+        series!
+        </strong>
+        <br />
+      </p>
+      <p>
+        Harry Dresden, Chicago?s only practicing professional
+      wizard, should be happy that business is pretty good for a
+      change. But he also knows that whenever things are going
+      good, the only way left for them to go is bad. Way bad.
+        <br />
+      </p>
+      <p>
+        Recent examples: A duel with the lethal champion of the
+      Red Court, who must kill Harry to end the war between
+      vampires and wizards?Hit men using Harry for target
+      practice?The missing Shroud of Turin?and the possible
+      involvement of Chicago?s most feared mob boss?A handless and
+      headless corpse the Chicago police need identified?
+        <br />
+      </p>
+      <p>
+        Not to mention the return of Harry?s ex-girlfriend Susan,
+      who?s still struggling with her semi-vampiric nature?and who
+      seems to have a new man in her life.
+        <br />
+      </p>
+      <p>
+        Some days, it just doesn?t pay to get out of bed. No
+      matter how much you?re charging.
+        <br />
+      </p>
+      <h3>From Booklist</h3>
+      <p>
+        Harry Dresden is not having a good day. A vampire named
+      Ortega is hunting the beleaguered wizard, intending to
+      challenge him to a duel that, Ortega claims, will end the war
+      between the vampires and the wizards. Harry has almost no
+      hope of winning the duel, but soon he is preoccupied by
+      another problem: Father Vincent, a priest, needs Harry's help
+      in finding the Shroud of Turin, stolen by a trio of thieves.
+      Harry traces two of the thieves to his hometown, Chicago, but
+      when he finds them, he learns that he isn't the only one
+      after them. A group of terrifying demons wants the shroud,
+      and its leader is interested in Harry's soul, too. Harry must
+      call on all of his friends, including three brave knights,
+      his police-officer friend, and even his half-vampire
+      ex-girlfriend, Susan. Butcher maintains a breakneck pace in
+      Harry's exciting fifth adventure. This imaginative series
+      continues to surprise and delight with its inventiveness and
+      sympathetic hero.
+        <em>Kristine Huntley</em>
+        <br />
+        <em>Copyright © American Library Association. All rights
+      reserved</em>
+      </p>
+      <h3>Review</h3>
+      <p>Butcher maintains a breakneck pace Booklist Inventive
+      storylines, dark supernatural themes, edge-of-your-seat
+      adventure, strong characterizations, and irreverent humour
+      ... Everything works SFSite.com This imaginative series
+      continues to surprise and delight Booklist</p>
+    </div>
+  </content>
+</entry>

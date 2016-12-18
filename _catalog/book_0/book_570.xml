@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Arcanum Unbounded</title>
+  <id>urn:book:e5098f86-d93c-478b-b52a-74f601951733</id>
+  <updated>2016-12-16T01:30:10Z</updated>
+  <link href="./book_570.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Arcanum Unbounded" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Brandon Sanderson" />
+  <link href="../../Brandon%20Sanderson/Arcanum%20Unbounded%20%28570%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/Arcanum%20Unbounded%20%28570%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/Arcanum%20Unbounded%20%28570%29/Arcanum%20Unbounded%20-%20Brandon%20Sanderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="90 MB" />
+  <link href="../../Brandon%20Sanderson/Arcanum%20Unbounded%20%28570%29/Arcanum%20Unbounded%20-%20Brandon%20Sanderson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="33 MB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      An all-new 40,000-word Stormlight Archive novella,
+    "Edgedancer," will be the crown jewel of
+      <i>Arcanum Unbounded: The Cosmere Collection</i>
+      , the first
+    book of short fiction by #1
+      <i>New York Times</i>
+      bestselling author Brandon Sanderson.
+    </p>
+    <p xmlns="">The collection will include nine works in all. The first
+    eight are:</p>
+    <p xmlns="">
+      "The Hope of Elantris" (Elantris)
+      <br />
+      "The Eleventh Metal" (Mistborn)
+      <br />
+      "The Emperor's Soul" (Elantris)
+      <br />
+      "Allomancer Jak and the Pits of Eltania, Episodes 28
+    through 30" (Mistborn)
+      <br />
+      "White Sand" (excerpt; Taldain)
+      <br />
+      "Shadows for Silence in the Forests of Hell" (Threnody)
+      <br />
+      "Sixth of Dusk" (First of the Sun)
+      <br />
+      "Mistborn: Secret History" (Mistborn)
+    </p>
+    <p xmlns="">These wonderful works, originally published on Tor.com and
+    elsewhere individually, convey the expanse of the Cosmere and
+    tell exciting tales of adventure Sanderson fans have come to
+    expect, including the Hugo Award-winning novella, "The
+    Emperor's Soul" and an excerpt from the graphic novel
+    "White...</p>
+  </content>
+</entry>

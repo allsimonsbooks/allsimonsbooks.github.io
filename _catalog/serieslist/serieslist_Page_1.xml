@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series</title>
+  <id />
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <entry>
+    <title>Acts of Caine</title>
+    <id>Calibre2opds::serieslistseries:27</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alcatraz</title>
+    <id>Calibre2opds::serieslistseries:4</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>All The Wrong Questions</title>
+    <id>Calibre2opds::serieslistseries:6</id>
+    <content type="text">6 books</content>
+    <link href="../series_0/series_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>A Man Of His Word</title>
+    <id>Calibre2opds::serieslistseries:44</id>
+    <content type="text">4 books</content>
+    <link href="../series_0/series_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Annotations</title>
+    <id>Calibre2opds::serieslistseries:55</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Artemis Fowl</title>
+    <id>Calibre2opds::serieslistseries:32</id>
+    <content type="text">7 books</content>
+    <link href="../series_0/series_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>A Series of Unfortunate Events</title>
+    <id>Calibre2opds::serieslistseries:5</id>
+    <content type="text">13 books</content>
+    <link href="../series_0/series_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>A Song of Ice and Fire</title>
+    <id>Calibre2opds::serieslistseries:31</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Belgariad/Malloreon Followup</title>
+    <id>Calibre2opds::serieslistseries:43</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Codex Alera</title>
+    <id>Calibre2opds::serieslistseries:29</id>
+    <content type="text">6 books</content>
+    <link href="../series_0/series_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Demon Cycle</title>
+    <id>Calibre2opds::serieslistseries:20</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Discworld</title>
+    <id>Calibre2opds::serieslistseries:7</id>
+    <content type="text">39 books</content>
+    <link href="../series_0/series_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Drenai</title>
+    <id>Calibre2opds::serieslistseries:38</id>
+    <content type="text">11 books</content>
+    <link href="../series_0/series_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ender Saga</title>
+    <id>Calibre2opds::serieslistseries:26</id>
+    <content type="text">6 books</content>
+    <link href="../series_0/series_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Epic</title>
+    <id>Calibre2opds::serieslistseries:57</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_57_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Greek Series</title>
+    <id>Calibre2opds::serieslistseries:37</id>
+    <content type="text">2 books</content>
+    <link href="../series_0/series_37_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Harry Potter</title>
+    <id>Calibre2opds::serieslistseries:30</id>
+    <content type="text">8 books</content>
+    <link href="../series_0/series_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Hawk Queen</title>
+    <id>Calibre2opds::serieslistseries:36</id>
+    <content type="text">2 books</content>
+    <link href="../series_0/series_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Heroes of Olympus</title>
+    <id>Calibre2opds::serieslistseries:16</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Infinity Blade</title>
+    <id>Calibre2opds::serieslistseries:54</id>
+    <content type="text">2 books</content>
+    <link href="../series_0/series_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Inkheart</title>
+    <id>Calibre2opds::serieslistseries:46</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Legion</title>
+    <id>Calibre2opds::serieslistseries:59</id>
+    <content type="text">2 books</content>
+    <link href="../series_0/series_59_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lightbringer Series</title>
+    <id>Calibre2opds::serieslistseries:49</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Long Price Quartet</title>
+    <id>Calibre2opds::serieslistseries:45</id>
+    <content type="text">4 books</content>
+    <link href="../series_0/series_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lorien Legacies</title>
+    <id>Calibre2opds::serieslistseries:19</id>
+    <content type="text">7 books</content>
+    <link href="../series_0/series_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mistborn</title>
+    <id>Calibre2opds::serieslistseries:53</id>
+    <content type="text">4 books</content>
+    <link href="../series_0/series_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Night Angel Trilogy</title>
+    <id>Calibre2opds::serieslistseries:47</id>
+    <content type="text">4 books</content>
+    <link href="../series_0/series_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Pathfinder</title>
+    <id>Calibre2opds::serieslistseries:25</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Percy Jackson and the Olympians</title>
+    <id>Calibre2opds::serieslistseries:15</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Reckoners</title>
+    <id>Calibre2opds::serieslistseries:52</id>
+    <content type="text">4 books</content>
+    <link href="../series_0/series_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Rigante</title>
+    <id>Calibre2opds::serieslistseries:35</id>
+    <content type="text">4 books</content>
+    <link href="../series_0/series_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shadow Quintet</title>
+    <id>Calibre2opds::serieslistseries:24</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stones of Power</title>
+    <id>Calibre2opds::serieslistseries:34</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Belgariad</title>
+    <id>Calibre2opds::serieslistseries:42</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Chronicles of Thomas Covenant the Unbeliever</title>
+    <id>Calibre2opds::serieslistseries:8</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Dark Tower</title>
+    <id>Calibre2opds::serieslistseries:9</id>
+    <content type="text">9 books</content>
+    <link href="../series_0/series_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Dresden Files</title>
+    <id>Calibre2opds::serieslistseries:28</id>
+    <content type="text">15 books</content>
+    <link href="../series_0/series_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Elenium</title>
+    <id>Calibre2opds::serieslistseries:41</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Farseer Trilogy</title>
+    <id>Calibre2opds::serieslistseries:13</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The First Formic War</title>
+    <id>Calibre2opds::serieslistseries:23</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Gentlemen Bastards</title>
+    <id>Calibre2opds::serieslistseries:10</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Kane Chronicles</title>
+    <id>Calibre2opds::serieslistseries:14</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Kingkiller Chronicle</title>
+    <id>Calibre2opds::serieslistseries:21</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Liveship Traders Trilogy</title>
+    <id>Calibre2opds::serieslistseries:12</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Lost Files</title>
+    <id>Calibre2opds::serieslistseries:18</id>
+    <content type="text">6 books</content>
+    <link href="../series_0/series_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Magicians</title>
+    <id>Calibre2opds::serieslistseries:56</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_56_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Malloreon</title>
+    <id>Calibre2opds::serieslistseries:40</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Rithmatist</title>
+    <id>Calibre2opds::serieslistseries:58</id>
+    <content type="text">1 book</content>
+    <link href="../series_0/series_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Stormlight Archive</title>
+    <id>Calibre2opds::serieslistseries:50</id>
+    <content type="text">2 books</content>
+    <link href="../series_0/series_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Tales of Alvin Maker</title>
+    <id>Calibre2opds::serieslistseries:22</id>
+    <content type="text">6 books</content>
+    <link href="../series_0/series_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Tamuli</title>
+    <id>Calibre2opds::serieslistseries:39</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Tawny Man Trilogy</title>
+    <id>Calibre2opds::serieslistseries:11</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Troy</title>
+    <id>Calibre2opds::serieslistseries:33</id>
+    <content type="text">3 books</content>
+    <link href="../series_0/series_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

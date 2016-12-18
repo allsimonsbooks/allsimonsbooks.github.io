@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Princep's Fury</title>
+  <id>urn:book:54e86b4d-1204-4097-86e4-5767668bb57f</id>
+  <updated>2016-12-16T11:55:41Z</updated>
+  <link href="./book_448.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Princep's Fury" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Princep%27s%20Fury%20%28448%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Princep%27s%20Fury%20%28448%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Princep%27s%20Fury%20%28448%29/Princep%27s%20Fury%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="542 KB" />
+  <link href="../../Jim%20Butcher/Princep%27s%20Fury%20%28448%29/Princep%27s%20Fury%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="712 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../author_0/author_23_Page_1.xml</uri>
+  </author>
+  <published>2008-01-01T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Ace</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Epic" />
+  <category term="War &amp; Military" />
+  <category term="Imaginary Wars and Battles" />
+  <category term="Imaginary Places" />
+  <category term="Lang:en" />
+  <category term="Codex Alera" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 5 in the Codex Alera series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>
+          From the
+          <em>New York Times</em>
+          bestselling author of
+          <em>Captain's Fury</em>
+          and the Dresden Files
+        novels.
+        </strong>
+        <br />
+      </p>
+      <p>
+        Tavi of Calderon, now recognized as Princeps Gaius
+      Octavian and heir to the crown, has achieved a fragile
+      alliance with Alera's oldest foes, the savage Canim. But when
+      Tavi and his legions guide the Canim safely to their lands,
+      his worst fears are realized.
+        <br />
+      </p>
+      <p>
+        The dreaded Vord - the enemy of Aleran and Cane alike -
+      have spent the last three years laying waste to the Canim
+      homeland. And when the Alerans are cut off from their ships,
+      they find themselves with no choice but to fight shoulder to
+      shoulder if they are to survive.
+        <br />
+      </p>
+      <p>
+        For a thousand years, Alera and her furies have withstood
+      every enemy, and survived every foe.
+        <br />
+      </p>
+      <p>The thousand years are over.</p>
+    </div>
+  </content>
+</entry>

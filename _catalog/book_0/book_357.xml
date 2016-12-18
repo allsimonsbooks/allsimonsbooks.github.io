@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Wizard and Glass</title>
+  <id>urn:book:1e4604ee-e5a3-4af4-9d9f-81eaeceba819</id>
+  <updated>2016-12-16T11:55:12Z</updated>
+  <link href="./book_357.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Wizard and Glass" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Stephen King" />
+  <link href="../../Stephen%20King/Wizard%20and%20Glass%20%28357%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Stephen%20King/Wizard%20and%20Glass%20%28357%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Stephen%20King/Wizard%20and%20Glass%20%28357%29/Wizard%20and%20Glass%20-%20Stephen%20King.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Stephen%20King/Wizard%20and%20Glass%20%28357%29/Wizard%20and%20Glass%20-%20Stephen%20King.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Stephen King</name>
+    <uri>../author_0/author_12_Page_1.xml</uri>
+  </author>
+  <published>2003-08-15T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Signet Classic</dcterms:publisher>
+  <category term="Lang:en" />
+  <category term="Dark Tower" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 4 in the Dark Tower series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">The end is near. Start at the beginning. The Dark Tower saga
+    builds to an explosive climax... In November 2003, the fifth
+    Dark Tower book hits stores for the first time-followed by
+    books six and seven. This #1 bestseller heralds the beginning
+    of the end.</p>
+  </content>
+</entry>

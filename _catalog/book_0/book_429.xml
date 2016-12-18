@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Blade of Tyshalle</title>
+  <id>urn:book:ccb2872d-a25a-456f-bb1a-30235554f9de</id>
+  <updated>2016-12-16T11:55:36Z</updated>
+  <link href="./book_429.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Blade of Tyshalle" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Matthew Woodring Stover" />
+  <link href="../../Matthew%20Woodring%20Stover/Blade%20of%20Tyshalle%20%28429%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Matthew%20Woodring%20Stover/Blade%20of%20Tyshalle%20%28429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Matthew%20Woodring%20Stover/Blade%20of%20Tyshalle%20%28429%29/Blade%20of%20Tyshalle%20-%20Matthew%20Woodring%20Stover.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="828 KB" />
+  <link href="../../Matthew%20Woodring%20Stover/Blade%20of%20Tyshalle%20%28429%29/Blade%20of%20Tyshalle%20-%20Matthew%20Woodring%20Stover.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="1 MB" />
+  <author>
+    <name>Matthew Woodring Stover</name>
+    <uri>../author_0/author_21_Page_1.xml</uri>
+  </author>
+  <published>2002-03-26T04:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Acts of Caine</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="General" />
+  <category term="Twins" />
+  <category term="Action &amp; Adventure" />
+  <category term="Fiction" />
+  <category term="Lang:en" />
+  <category term="Acts of Caine" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Acts of Caine series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">On Earth, Hari Michaelson was a superstar. But on Overworld,
+    he was the assassin Caine. Real monarchs lived and died at his
+    hands and entire governments were overthrown–all for the
+    entertainment of millions back on Earth. But now Hari, stripped
+    of his identity as Caine, must fight his greatest battle:
+    against the powerful corporate masters of Earth and the
+    faceless masses who are killing everything he loves. Enemies
+    old and new array themselves against him. And Hari is just one
+    man–alone, half-crippled, powerless. They say he
+    doesn’t have a chance. They are wrong. . . .</p>
+  </content>
+</entry>

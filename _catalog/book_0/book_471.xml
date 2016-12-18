@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Arctic Incident</title>
+  <id>urn:book:3472a47d-a18d-43fa-aa45-f12391cbe8b2</id>
+  <updated>2016-12-16T11:55:50Z</updated>
+  <link href="./book_471.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Arctic Incident" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Eoin Colfer" />
+  <link href="../../Eoin%20Colfer/The%20Arctic%20Incident%20%28471%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Eoin%20Colfer/The%20Arctic%20Incident%20%28471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Eoin%20Colfer/The%20Arctic%20Incident%20%28471%29/The%20Arctic%20Incident%20-%20Eoin%20Colfer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="174 KB" />
+  <link href="../../Eoin%20Colfer/The%20Arctic%20Incident%20%28471%29/The%20Arctic%20Incident%20-%20Eoin%20Colfer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="264 KB" />
+  <author>
+    <name>Eoin Colfer</name>
+    <uri>../author_0/author_27_Page_1.xml</uri>
+  </author>
+  <published>2003-05-06T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Miramax</dcterms:publisher>
+  <category term="Fantasy (Young Adult)" />
+  <category term="Juvenile Nonfiction" />
+  <category term="Children: Grades 4-6" />
+  <category term="Fiction" />
+  <category term="Parents" />
+  <category term="Children's 12-Up - Fiction - Fantasy" />
+  <category term="Europe" />
+  <category term="Mothers and sons" />
+  <category term="Kidnapping" />
+  <category term="Fairies" />
+  <category term="Fathers and sons" />
+  <category term="Science Fiction" />
+  <category term="Social Issues" />
+  <category term="Magic" />
+  <category term="Juvenile Fiction" />
+  <category term="Fantasy &amp; Magic" />
+  <category term="Law &amp; Crime" />
+  <category term="Mysteries &amp; Detective Stories" />
+  <category term="People &amp; Places" />
+  <category term="Arctic regions" />
+  <category term="&amp; Magic" />
+  <category term="Action &amp; Adventure - General" />
+  <category term="England" />
+  <category term="Family" />
+  <category term="Action &amp; Adventure" />
+  <category term="Fowl" />
+  <category term="Children: Young Adult (Gr. 7-9)" />
+  <category term="Bedtime &amp; Dreams" />
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Artemis (Fictitious character)" />
+  <category term="_nocatalog" />
+  <category term="Lang:en" />
+  <category term="Artemis Fowl" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Artemis Fowl series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Artemis is at boarding school in Ireland when he suddenly
+    receives an urgent video-email from Russia. In it is a plea
+    from a man who has been kidnapped by the Russian Mafiya: his
+    father. As Artemis rushes to the rescue, he is stopped by
+    captain Holly Short of the LEPrecon fairy police. But this
+    time, instead of battling the fairies, he is going to have to
+    join forces with them if he wants to save one of the few people
+    in the world he loves.</p>
+  </content>
+</entry>

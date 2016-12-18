@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Harry Potter and the Methods of Rationality</title>
+  <id>urn:book:ef6f01eb-d9eb-4a64-ab57-6d91eb4def48</id>
+  <updated>2016-08-29T10:46:54Z</updated>
+  <link href="./book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Harry Potter and the Methods of Rationality" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Eliezer%20Yudkowsky/Harry%20Potter%20and%20the%20Methods%20of%20Rati%20%285%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Eliezer%20Yudkowsky/Harry%20Potter%20and%20the%20Methods%20of%20Rati%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Eliezer%20Yudkowsky/Harry%20Potter%20and%20the%20Methods%20of%20Rati%20%285%29/Harry%20Potter%20and%20the%20Methods%20of%20-%20Eliezer%20Yudkowsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../../Eliezer%20Yudkowsky/Harry%20Potter%20and%20the%20Methods%20of%20Rati%20%285%29/Harry%20Potter%20and%20the%20Methods%20of%20-%20Eliezer%20Yudkowsky.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="2 MB" />
+  <author>
+    <name>Eliezer Yudkowsky</name>
+    <uri>../author_0/author_4_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Lang:en" />
+</entry>

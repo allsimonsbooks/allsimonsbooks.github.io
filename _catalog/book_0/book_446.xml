@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fool Moon</title>
+  <id>urn:book:a2c21fa6-35c2-471c-9b6d-ecdede348701</id>
+  <updated>2016-12-16T11:55:40Z</updated>
+  <link href="./book_446.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Fool Moon" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="AllSimonsBooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="AllSimonsBooks" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../author_0/author_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jim Butcher" />
+  <link href="../../Jim%20Butcher/Fool%20Moon%20%28446%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jim%20Butcher/Fool%20Moon%20%28446%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jim%20Butcher/Fool%20Moon%20%28446%29/Fool%20Moon%20-%20Jim%20Butcher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="321 KB" />
+  <link href="../../Jim%20Butcher/Fool%20Moon%20%28446%29/Fool%20Moon%20-%20Jim%20Butcher.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" displaysize="447 KB" />
+  <author>
+    <name>Jim Butcher</name>
+    <uri>../author_0/author_23_Page_1.xml</uri>
+  </author>
+  <published>2000-12-31T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Roc</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Mystery" />
+  <category term="Horror" />
+  <category term="Lang:en" />
+  <category term="Dresden Files" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 2 in the Dresden Files series
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Could a werewolf be loose in Chicago? Common sense says
+      no. The grisly evidence says yes. So does Harry Dresden. And
+      with his weird connections, he should know.</p>
+      <h3>Review</h3>
+      <p>
+        A fun new occult mystery series. --
+        <em>Locus</em>
+        <br />
+      </p>
+      <p>
+        A really enjoyable read...Jim Butcher strikes just the
+      right narrative balance between wizard and wiseguy, mystic
+      and mobster. --
+        <em>Lynn Flewelling, author of Traitor's Moon</em>
+        <br />
+      </p>
+      <p>
+        A very promising start to a news series...unusually
+      well-crafted. --
+        <em>Locus</em>
+        <br />
+      </p>
+      <p>
+        Exciting, well-plotted, complex, an excellent read and
+      amazingly good first novel. --
+        <em>Chris Bunch, author of The Warrior King</em>
+        <br />
+      </p>
+      <p>
+        Fans of Laurel K. Hamilton and Tanya Huff will love this
+      series. --
+        <em>Harriet Klausner, BookBrowser</em>
+        <br />
+      </p>
+      <p>
+        Fans of Laurell K. Hamilton and Tanya Huff will love this
+      new fantasy series. --
+        <em>BookBrowser</em>
+        <br />
+      </p>
+      <p>
+        Good luck putting the book down, I know I couldn't. --
+        <em>Fan Attic</em>
+        <br />
+      </p>
+      <p>
+        Harry is a remarkable character...With more novels like
+      this gem, Jim Butcher will not need magic to become a
+      household name. --
+        <em>BookBrowser</em>
+        <br />
+      </p>
+      <p>
+        Try it, you'll like it. An exciting debut novel suggesting
+      there are wizards and witches among us... wish I'd thought of
+      it myself. --
+        <em>Glen Cook, author of Faded Steel Hat</em>
+      </p>
+      <h3>About the Author</h3>
+      <p>A martial arts enthusiast whose resume includes a long
+      list of skills rendered obsolete at least two hundred years
+      ago, Jim Butcher turned to writing as a career because
+      anything else probably would have driven him insane. He lives
+      with his wife, his son and a ferocious guard dog.</p>
+    </div>
+  </content>
+</entry>
